@@ -1,70 +1,89 @@
-@ -0,0 +1,47 @@
-# Logs and databases
+# ============================================================
+# Runtime data (Joomla & general web apps)
+# ============================================================
 /logs/
-/tmp/
-/documents/
 /administrator/logs/
-/packages/*
-
-#Dev related
-build/
-dev/
-scripts/
-
-#Configuration files
-/configuration.php
-/htdocs/conf/*
-
-# Joomla-generated files
-installation/
+/tmp/
 /cache/
+/installation/
 /media/com_joomlaupdate/
 
-# Backup files
-*.bak
-*.backup
+
+# Dolibarr runtime (documents outside web root is recommended)
+/documents/
+/htdocs/documents/
+
+
+# Backups
 /backups/
 /htdocs/solo/
 
-# Environment-specific files
-.env
-.env.local
-.env.*.local
 
-# Node.js dependencies (if using npm for template development)
+# ============================================================
+# Dolibarr specifics
+# ============================================================
+/htdocs/conf/conf.php
+/htdocs/conf/conf.php.dolibarr
+
+
+# Ignore all third‑party/custom modules by default…
+/htdocs/custom/*
+# …but keep an empty dir marker if needed
+!htdocs/custom/.gitkeep
+# —— Allow‑list YOUR modules (examples — edit to match your names) ——
+!htdocs/custom/moko*/
+!htdocs/custom/moko-*/
+!htdocs/custom/mokocrm*/
+# (Add more module allow‑lists above)
+
+
+# Common per‑module build folders
+/htdocs/custom/*/tmp/
+/htdocs/custom/*/build/
+/htdocs/custom/*/dist/
+
+
+# ============================================================
+# Joomla specifics
+# ============================================================
+/configuration.php
+/administrator/cache/
+# Image cache dirs (uncomment if you generate these)
+# /images/cache/
+# /images/phocacart/cache/
+
+
+# ============================================================
+# Build, dist & package artifacts
+# ============================================================
+/build/
+/dist/
+/packages/
+/packages/*
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+
+# ============================================================
+# Node / Frontend toolchains
+# ============================================================
 node_modules/
 npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
 
-# Build files
-/dist/
-/build/
 
-# Compiled assets
-*.css.map
-*.js.map
+# ============================================================
+# PHP / Composer
+# ============================================================
+/vendor/
+composer.phar
+.phpunit.result.cache
+.php-cs-fixer.cache
 
-# System files
-desktop.ini
-.DS_Store
-Thumbs.db
-.idea/
-*.sublime-project
-*.sublime-workspace
-sftp-config*.json
-*.ffs*
 
-# Editor and IDE files
-.vscode/
-*.swp
-
-# Other
-*.lock
-*conf*.php
-*.back
-*.old
-replit.md
-.replit
-modulebuilder.txt
-
-#Custom CSS Brands
-colors_custom_*.css
+!.gitkeep
