@@ -16,29 +16,22 @@
 *  General Public License for more details.
 *
 * You should have received a copy of the GNU General Public License
-*  along with this program. If not, see <https://www.gnu.org/licenses/>.
+ *  along with this program. If not, see <https://www.gnu.org/licenses/>.
 -->
 
 <!-- FILE INFORMATION
  * INGROUP:   MokoCodingDefaults
- * FILE:      CODE_OF_CONDUCT.md
- * VERSION  1.0
- * BRIEF:     Community expectations and enforcement guidelines
- * PATH:      ./CODE_OF_CONDUCT.md
- * NOTE:      Adapted with attribution from the Contributor Covenant v2.1
+ * FILE:      CONTRIBUTING.md
+ * VERSION  	1.0
+ * BRIEF:     How to contribute; commit, PR, testing and security policies
+ * PATH:      ./CONTRIBUTING.md
+ * NOTE:      Short and practical; see README for overview
 -->
 
-# Code of Conduct
+# Contributing
 
-## Our Pledge
-We commit to a harassment‑free, inclusive experience for everyone.
+1. Fork and branch: feat/* or fix/*
+2. Conventional Commits; sign off using DCO line
+3. Open a PR with tests/docs and linked issues
 
-## Our Standards
-- Be respectful and constructive
-- No harassment or personal attacks
-
-## Enforcement
-Report to security@mokoconsulting.tech. Maintainers will act fairly and promptly.
-
-## Attribution
-Adapted from the Contributor Covenant v2.1 (CC BY 4.0).
+**Types**: build|chore|ci|docs|feat|fix|perf|refactor|revert|style|test

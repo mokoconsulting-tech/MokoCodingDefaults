@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2025
+ *  Jonathan Miller || Moko Consulting <jmiller@mokoconsulting.tech>
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ *
+ * FILE INFORMATION
+ * DEFGROUP:		Joomla
+ * INGROUP:     Joomla Plugin Default
+ * FILE:        example.xml
+ * VERSION:     1.0.0
+ * BRIEF:       Manifest for the Example system plugin
+ * PATH:        ./plugins/system/example/example.xml
+ * NOTE:        Install via Extensions → Manage
+-->
+<extension type="plugin" group="system" method="upgrade" version="5.0">
+	<!-- Update server definition -->
+	<updateservers>
+		<server type="extension" priority="1" name="Moko Consulting">
+			https://raw.github.com/mokoconsulting/main/joomla/example/update.xml
+		</server>
+	</updateservers>
+	<name>PLG_SYSTEM_EXAMPLE</name>
+	<author>Moko Consulting</author>
+	<creationDate>2025-08-21</creationDate>
+	<copyright>GPL-3.0-or-later</copyright>
+	<authorEmail>hello@mokoconsulting.tech</authorEmail>
+	<version>1.0.0</version>
+	<description>PLG_SYSTEM_EXAMPLE_DESC</description>
+
+	<scriptfile>script.php</scriptfile>
+
+	<files>
+		<filename plugin="example">example.php</filename>
+		<filename>index.html</filename>
+	</files>
+
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_example.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_example.sys.ini</language>
+	</languages>
+
+	<config>
+		<fields name="params">
+			<fieldset name="basic" label="JFIELD_CONFIG_FIELDSET_LABEL">
+				<field
+					name="enabled_feature"
+					type="radio"
+					label="PLG_SYSTEM_EXAMPLE_PARAM_ENABLED"
+					description="PLG_SYSTEM_EXAMPLE_PARAM_ENABLED_DESC"
+					default="1">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+
+				<field
+					name="log_level"
+					type="list"
+					label="PLG_SYSTEM_EXAMPLE_PARAM_LOGLEVEL"
+					description="PLG_SYSTEM_EXAMPLE_PARAM_LOGLEVEL_DESC"
+					default="info">
+					<option value="debug">debug</option>
+					<option value="info">info</option>
+					<option value="warning">warning</option>
+					<option value="error">error</option>
+				</field>
+			</fieldset>
+		</fields>
+	</config>
+</extension>

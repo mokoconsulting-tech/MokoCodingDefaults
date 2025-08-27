@@ -1,54 +1,50 @@
 <!--
-* Copyright (C) 2025
-*  Jonathan Miller || Moko Consulting <jmiller@mokoconsulting.tech>
+* Copyright (C) 2025 Moko Consulting <jmiller@mokoconsulting.tech>
 *
 * This file is part of a Moko Consulting project.
 *
 * SPDX-License-Identifier: GPL-3.0-or-later
 *
 * This program is free software; you can redistribute it and/or modify
-\t*  it under the terms of the GNU General Public License as published by
-\t*  the Free Software Foundation; either version 3 of the License, or
-\t*  (at your option) any later version.
+*  it under the terms of the GNU General Public License as published by
+*  the Free Software Foundation; either version 3 of the License, or
+*  (at your option) any later version.
 *
 * This program is distributed in the hope that it will be useful,
-\t*  but WITHOUT ANY WARRANTY; without even the implied warranty of
+*  but WITHOUT ANY WARRANTY; without even the implied warranty of
 *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
 *  General Public License for more details.
 *
 * You should have received a copy of the GNU General Public License
-\t *  along with this program. If not, see <https://www.gnu.org/licenses/>.
+*  along with this program. If not, see <https://www.gnu.org/licenses/>.
 -->
 
-<!--FILE INFORMATION
- * INGROUP:   MokoDefaults
+<!-- FILE INFORMATION
+ * INGROUP:   MokoCodingDefaults
  * FILE:      README.md
- * VERSION  1.0
+ * VERSION  	1.0
  * BRIEF:     Repository defaults and GitHub hygiene templates
- *
  * PATH:      ./README.md
- *
  * NOTE:      Usage and customization instructions
 -->
 
-# MokoDefaults
+# Moko Codinhg Defaults
 
 Starter set of Git | GitHub defaults for new repos.
 
-## Contents
-- .gitattributes
-- .gitignore
-- .gitmessage
-- .git-blame-ignore-revs
-- .github/ISSUE_TEMPLATE/*
-- pull_request_template.md
-- README.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md, CHANGELOG.md, LICENSE
+## Templates
+ - Generic GIT
+ - Dolibarr Module
+ - Joomla
+ 	- Component
+ 	- Plugin
+ 	- Template
+ - LiveHelperChat
 
-## Quick start
-`ash
-git config commit.template .gitmessage
-git config blame.ignoreRevsFile .git-blame-ignore-revs
-`
+## Use Logic
+- Copy 'Generic GIT' [generic-git] to your working folder
+- If applicable, copy system specific template to your working fodler
+- Start work!
 
 ## Contributing
 See CONTRIBUTING.md.

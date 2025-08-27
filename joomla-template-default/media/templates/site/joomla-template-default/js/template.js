@@ -1,1 +1,0 @@
-document.addEventListener('DOMContentLoaded',()=>console.debug('✅ joomla-template-default JS loaded'))
