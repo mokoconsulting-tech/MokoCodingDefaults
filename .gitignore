@@ -1,89 +1,72 @@
 # ============================================================
-# Runtime data (Joomla & general web apps)
-# ============================================================
-/logs/
-/administrator/logs/
-/tmp/
-/cache/
-/installation/
-/media/com_joomlaupdate/
-
-
-# Dolibarr runtime (documents outside web root is recommended)
-/documents/
-/htdocs/documents/
-
-
-# Backups
-/backups/
-/htdocs/solo/
-
+.env
+.env.local
+.env.*.local
+*.local.php
+*.secret.php
 
 # ============================================================
-# Dolibarr specifics
+# Logs, dumps & databases
 # ============================================================
-/htdocs/conf/conf.php
-/htdocs/conf/conf.php.dolibarr
-
-
-# Ignore all third‑party/custom modules by default…
-/htdocs/custom/*
-# …but keep an empty dir marker if needed
-!htdocs/custom/.gitkeep
-# —— Allow‑list YOUR modules (examples — edit to match your names) ——
-!htdocs/custom/moko*/
-!htdocs/custom/moko-*/
-!htdocs/custom/mokocrm*/
-# (Add more module allow‑lists above)
-
-
-# Common per‑module build folders
-/htdocs/custom/*/tmp/
-/htdocs/custom/*/build/
-/htdocs/custom/*/dist/
-
+*.log
+*.pid
+*.seed
+*.sql
+*.sql.gz
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
 
 # ============================================================
-# Joomla specifics
+# OS / Editor / IDE cruft
 # ============================================================
-/configuration.php
-/administrator/cache/
-# Image cache dirs (uncomment if you generate these)
-# /images/cache/
-# /images/phocacart/cache/
-
-
-# ============================================================
-# Build, dist & package artifacts
-# ============================================================
-/build/
-/dist/
-/packages/
-/packages/*
-*.zip
-*.tar
-*.tar.gz
-*.tgz
-*.7z
-*.rar
-
+.DS_Store
+Thumbs.db
+desktop.ini
+# Windows artifacts
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+$RECYCLE.BIN/
+System Volume Information/
+*.lnk
+Icon?
+.idea/
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+.buildpath
 
 # ============================================================
-# Node / Frontend toolchains
+# Dev scripts & scratch
 # ============================================================
-node_modules/
-npm-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
+$1TODO
+todo
 
 # ============================================================
-# PHP / Composer
+# Maps & compiled asset helpers
 # ============================================================
-/vendor/
-composer.phar
-.phpunit.result.cache
-.php-cs-fixer.cache
+*.css.map
+*.js.map
 
+# ============================================================
+# SFTP / sync tools
+# ============================================================
+sftp-config*.json
+sync.ffs_db
+*.ffs_gui
 
+# ============================================================
+# Replit / cloud IDE
+# ============================================================
+.replit
+replit.md
+
+# ============================================================
+# Keep-empty folders helper
+# ============================================================
 !.gitkeep
