@@ -18,14 +18,17 @@ FILE INFORMATION
  DEFGROUP:  MokoCodingDefaults
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
  VERSION:   2.0
- FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
- BRIEF:     Contribution guidelines for this repository
+ FILE:      COMMIT_CONVENTIONS.md
+ PATH:      /Reference/Governance/COMMIT_CONVENTIONS.md
+ BRIEF:     Commit message rules
 -->
-# Contributing Guidelines
+# Commit Conventions (Conventional Commits)
 
-- Use feature branches (`feat/<scope>-<short>`)
-- Follow **Conventional Commits**
-- Open PRs against `dev`; squash merge required
-- Apply headers; ensure EOL=LF and UTF-8 (no BOM)
-- Update `[Unreleased]` in `CHANGELOG.md`
+Format: `<type>(<scope>): <description>`
+
+Types: `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+
+Examples:
+- `feat(auth): add OAuth2 login`
+- `fix(db): correct migration rollback`
+- `docs(readme): update usage section`

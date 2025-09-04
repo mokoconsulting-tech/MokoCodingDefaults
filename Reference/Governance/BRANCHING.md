@@ -18,14 +18,15 @@ FILE INFORMATION
  DEFGROUP:  MokoCodingDefaults
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
  VERSION:   2.0
- FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
- BRIEF:     Contribution guidelines for this repository
+ FILE:      BRANCHING.md
+ PATH:      /Reference/Governance/BRANCHING.md
+ BRIEF:     Branching strategy for development and releases
 -->
-# Contributing Guidelines
+# Branching Strategy
 
-- Use feature branches (`feat/<scope>-<short>`)
-- Follow **Conventional Commits**
-- Open PRs against `dev`; squash merge required
-- Apply headers; ensure EOL=LF and UTF-8 (no BOM)
-- Update `[Unreleased]` in `CHANGELOG.md`
+- **main**: Protected, stable releases
+- **dev**: Integration branch
+- **feat/<scope>-<short>**: Features
+- **fix/<scope>-<short>**: Bug fixes
+
+All PRs target `dev`.

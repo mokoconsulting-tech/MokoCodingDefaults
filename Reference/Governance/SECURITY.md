@@ -18,14 +18,17 @@ FILE INFORMATION
  DEFGROUP:  MokoCodingDefaults
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
  VERSION:   2.0
- FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
- BRIEF:     Contribution guidelines for this repository
+ FILE:      SECURITY.md
+ PATH:      /Reference/Governance/SECURITY.md
+ BRIEF:     Security policy and vulnerability reporting process
 -->
-# Contributing Guidelines
+# Security Policy
 
-- Use feature branches (`feat/<scope>-<short>`)
-- Follow **Conventional Commits**
-- Open PRs against `dev`; squash merge required
-- Apply headers; ensure EOL=LF and UTF-8 (no BOM)
-- Update `[Unreleased]` in `CHANGELOG.md`
+## Supported Versions
+Only the latest release tag is supported with security patches.
+
+## Reporting a Vulnerability
+Email **dev@mokoconsulting.tech**.
+- Do not open public issues for security problems.
+- Acknowledgment within 48 hours.
+- Target fix release within 14 days where possible.

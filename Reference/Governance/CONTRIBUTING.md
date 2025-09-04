@@ -19,7 +19,7 @@ FILE INFORMATION
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
  VERSION:   2.0
  FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
+ PATH:      /Reference/Governance/CONTRIBUTING.md
  BRIEF:     Contribution guidelines for this repository
 -->
 # Contributing Guidelines

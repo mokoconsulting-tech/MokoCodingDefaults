@@ -18,14 +18,21 @@ FILE INFORMATION
  DEFGROUP:  MokoCodingDefaults
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
  VERSION:   2.0
- FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
- BRIEF:     Contribution guidelines for this repository
+ FILE:      RELEASE_PROCESS.md
+ PATH:      /Reference/Governance/.md
+ BRIEF:     Release workflow and versioning checklist
 -->
-# Contributing Guidelines
+# Release Process
 
-- Use feature branches (`feat/<scope>-<short>`)
-- Follow **Conventional Commits**
-- Open PRs against `dev`; squash merge required
-- Apply headers; ensure EOL=LF and UTF-8 (no BOM)
-- Update `[Unreleased]` in `CHANGELOG.md`
+## Branches
+- `main`: Protected, stable releases only.
+- `dev`: Active development.
+- `feat/<scope>-<short>`: Feature branches.
+
+## Steps
+1. Bump version across headers/manifests/changelog.
+2. Merge to `dev`; run tests.
+3. Merge `dev` → `main` with a release commit.
+4. Tag `vMAJOR.MINOR.PATCH`.
+5. Build artifact zip + SHA256.
+6. Draft GitHub Release with changelog notes.

@@ -22,7 +22,7 @@
 <!-- FILE INFORMATION
  * INGROUP:   MokoCodingDefaults
  * FILE:      CHANGELOG.md
- * VERSION  	1.0
+ * VERSION: 	2.0
  * BRIEF:     Version history using Keep a Changelog
  * PATH:      ./CHANGELOG.md
  * NOTE:      Adheres to SemVer when applicable

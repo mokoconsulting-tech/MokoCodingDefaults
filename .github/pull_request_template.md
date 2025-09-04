@@ -1,13 +1,7 @@
-### Summary
+# Pull Request Checklist
 
-### Changes
--
-
-### How to test
-
-### Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added/updated
-- [ ] Docs updated
-- [ ] License header present
-- [ ] Linked issue(s): Closes #
+- [ ] PR targets `dev`
+- [ ] Tests pass locally
+- [ ] Headers + LF EOL + UTF-8 applied
+- [ ] Changelog entry under `[Unreleased]`
+- [ ] Reviewer(s) assigned

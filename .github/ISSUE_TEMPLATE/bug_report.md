@@ -1,27 +1,14 @@
----
-name: Bug report
-about: Report a bug in this project
-title: "[Bug]: "
-labels: [bug]
-assignees: []
----
+# Bug Report
 
-### Description
+**Describe the bug**
 
-### Steps to Reproduce
+**Steps to reproduce**
 1.
 2.
 3.
 
-### Expected Behavior
+**Expected behavior**
 
-### Actual Behavior
-
-### Environment
+**Environment**
+- Version:
 - OS:
-- Version/Commit:
-- Runtime:
-
-### Logs / Screenshots
-
-### Additional Context

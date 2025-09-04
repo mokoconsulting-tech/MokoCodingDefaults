@@ -18,14 +18,14 @@ FILE INFORMATION
  DEFGROUP:  MokoCodingDefaults
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
  VERSION:   2.0
- FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
- BRIEF:     Contribution guidelines for this repository
+ FILE:      SUPPORT.md
+ PATH:      /Reference/Governance/SUPORT.md
+ BRIEF:     Support policy and channels
 -->
-# Contributing Guidelines
+# Support Policy
 
-- Use feature branches (`feat/<scope>-<short>`)
-- Follow **Conventional Commits**
-- Open PRs against `dev`; squash merge required
-- Apply headers; ensure EOL=LF and UTF-8 (no BOM)
-- Update `[Unreleased]` in `CHANGELOG.md`
+- Use GitHub **Issues** for bug reports.
+- Consult documentation for usage questions.
+- Email support available for enterprise clients only.
+
+Project provided **as-is** without warranty.

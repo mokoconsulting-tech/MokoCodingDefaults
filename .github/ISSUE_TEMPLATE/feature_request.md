@@ -1,15 +1,7 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: "[Feature]: "
-labels: [enhancement]
-assignees: []
----
+# Feature Request
 
-### Problem
+**Describe the feature**
 
-### Proposal
+**Why is this needed?**
 
-### Alternatives
-
-### Additional Context
+**Alternatives considered**

@@ -18,14 +18,35 @@ FILE INFORMATION
  DEFGROUP:  MokoCodingDefaults
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
  VERSION:   2.0
- FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
- BRIEF:     Contribution guidelines for this repository
+ FILE:      CODING_STANDARDS.md
+ PATH:      /Reference/Governance/CODING_STANDARDS.md
+ BRIEF:     Universal coding standards for Moko Consulting projects
 -->
-# Contributing Guidelines
+# Moko Consulting — Universal Coding Standards
 
-- Use feature branches (`feat/<scope>-<short>`)
-- Follow **Conventional Commits**
-- Open PRs against `dev`; squash merge required
-- Apply headers; ensure EOL=LF and UTF-8 (no BOM)
-- Update `[Unreleased]` in `CHANGELOG.md`
+- License: GPL-3.0-or-later; include SPDX line
+- Smart Header required in all files (JSON excluded)
+- EOL: Unix **LF**; Encoding: **UTF-8 (no BOM)**
+- `PATH:` is repo-root relative
+- No duplicate `REPO:` lines; optional `NOTES:`/`VARIABLES:` omitted if unused
+- No hard wraps (one sentence per line)
+
+## FILE INFORMATION Order
+1) DEFGROUP
+2) INGROUP
+3) REPO
+4) VERSION
+5) FILE
+6) PATH
+7) BRIEF
+8) NOTES (optional)
+9) VARIABLES (optional)
+
+## Header Comment Fences by Language
+- Canonical (HTML/MD/XML): `<!-- ... -->`
+- PHP: `/* ... */`
+- JS/TS/C/C++/Java/CSS: `/* ... */`
+- Shell: `# ...`
+- PowerShell: `<# ... #>`
+- INI: `; ...`
+- SQL: `-- ...`
