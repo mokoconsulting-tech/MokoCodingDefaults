@@ -81,10 +81,11 @@ You can consume these defaults in any project via one (or more) of the following
 
 Reserved block for Moko Consulting modules: **185050–185099**.
 
-| Numero | Module        | Notes               |
-| -----: | ------------- | ------------------- |
-| 185051 | MokoDoliTools | Reserved and in use |
-| 185052 | MokoDoliSign  | Reserved and in use |
+| Numero | Module        | Status              | Notes               |
+| -----: | ------------- | ------------------- | ------------------- |
+| 185051 | MokoDoliTools | Production          | |
+| 185052 | MokoDoliSign  | Development         | |
+| 185053 | MokoDoliForm  | Development         | |
 
 > **Rule:** Reserve a numero **before** coding a new Dolibarr module. Update this table and the standards document accordingly.
 
