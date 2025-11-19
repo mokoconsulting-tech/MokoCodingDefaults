@@ -51,15 +51,15 @@ You can consume these defaults in any project via one (or more) of the following
 
 1. **Submodule (recommended)**
 
-   ```bash
-   git submodule add https://github.com/mokoconsulting-tech/MokoCodingDefaults .moko/defaults
-   git submodule update --init --recursive
-   ```
+	```bash
+	git submodule add https://github.com/mokoconsulting-tech/MokoCodingDefaults .moko/defaults
+	git submodule update --init --recursive
+	```
 2. **Remote‑include via CI** (pull into your pipeline before lint/test):
 
-   ```bash
-   curl -fsSL https://raw.githubusercontent.com/mokoconsulting-tech/MokoCodingDefaults/main/.editorconfig -o .editorconfig
-   ```
+	```bash
+	curl -fsSL https://raw.githubusercontent.com/mokoconsulting-tech/MokoCodingDefaults/main/.editorconfig -o .editorconfig
+	```
 3. **Scaffold** new projects using the overlays described below.
 
 > Keep source of truth here; downstream repos may override with a project‑specific `.moko.local/` layer if needed.
@@ -81,11 +81,12 @@ You can consume these defaults in any project via one (or more) of the following
 
 Reserved block for Moko Consulting modules: **185050–185099**.
 
-| Numero | Module        | Status              | Notes               |
-| -----: | ------------- | ------------------- | ------------------- |
-| 185051 | MokoDoliTools | Production          | |
-| 185052 | MokoDoliSign  | Development         | |
-| 185053 | MokoDoliForm  | Development         | |
+| Numero | Module             | Status              | Notes               |
+| -----: | ------------------ | ------------------- | ------------------- |
+| 185051 | MokoDoliTools      | Production          | |
+| 185052 | MokoDoliSign       | Development         | |
+| 185053 | MokoDoliForm       | Development         | |
+| 185054 | MokoDoliDiscovery  | Development         | |
 
 > **Rule:** Reserve a numero **before** coding a new Dolibarr module. Update this table and the standards document accordingly.
 
