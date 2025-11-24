@@ -19,6 +19,13 @@
   VERSION: 	
   BRIEF:     How to contribute; commit, PR, testing and security policies
   PATH:      ./CONTRIBUTING.md
+<!-- FILE INFORMATION
+ * INGROUP:   MokoCodingDefaults
+ * FILE:      CONTRIBUTING.md
+ * VERSION: 	2.0
+ * BRIEF:     How to contribute; commit, PR, testing and security policies
+ * PATH:      ./CONTRIBUTING.md
+ * NOTE:      Short and practical; see README for overview
 -->
 
 # Contributing
