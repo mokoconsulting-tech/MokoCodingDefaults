@@ -31,6 +31,7 @@
  - Copyright and file information header
  - Created `doc` folder from generic-git
  - `.github` updated
+ - `dolibar-default` updated (using sample)
  
 ### Deleted
  - Joomla PHP files

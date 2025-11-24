@@ -11,6 +11,8 @@
 *.log
 *.pid
 *.seed
+*.sql
+*.sql.gz
 *.sqlite
 *.sqlite3
 *.db
@@ -44,7 +46,6 @@ Icon?
 # ============================================================
 $1TODO
 todo
-modulebuilder.txt
 
 # ============================================================
 # Maps & compiled asset helpers
@@ -56,7 +57,8 @@ modulebuilder.txt
 # SFTP / sync tools
 # ============================================================
 sftp-config*.json
-*.ffs*
+sync.ffs_db
+*.ffs_gui
 
 # ============================================================
 # Replit / cloud IDE
