@@ -1,1 +1,0 @@
-<?php defined('_JEXEC') or die; ?><main><jdoc:include type="modules" name="position-2" /></main>

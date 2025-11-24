@@ -15,7 +15,7 @@
 	DEFGROUP:  MokoCodingDefaults
 	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
 	FILE:      README.md
-	VERSION:   1.2.0
+	VERSION:   2.0
 	BRIEF:     Reference + packaging repo for Moko Consulting Developer GPT Other Default
 	PATH:      ./README.md
 	NOTE:      Documentation and tools for distribution; no runtime code.
@@ -69,9 +69,15 @@ You can consume these defaults in any project via one (or more) of the following
 ## Usage
 
 * Include headers in all files (skip JSON).
-* Sync `VERSION` with your project changelog on release.
-* Add `REPO:` line once a repository URL is known.
+	- Sync `FILE INFORMATION` with your project changelog on release.
 * Apply accessibility checklist during PR review.
+
+## Overlays & Scaffolds
+Use scaffolds in order (i.e `generic-git` -> `dolibarr-default`)
+1. `generic-git` — baseline repo hygiene: issue/PR templates, labels, CI, security.
+	a. `dolibarr-default` — module skeleton, language keys, rights template, migrations (idempotent; `INSERT IGNORE` for `llx_const`).
+	b. `joomla-template-default` — Template scaffold with tokens and dark‑mode variables.
+	c. `joomla-plugin-default` — plugin scaffold with manifest + language files.
 
 ## Dolibarr Module Numero Registry
 
@@ -85,13 +91,6 @@ Reserved block for Moko Consulting modules: **185050–185099**.
 
 > **Rule:** Reserve a numero **before** coding a new Dolibarr module. Update this table and the standards document accordingly.
 
-## Overlays & Scaffolds
-
-* `dolibarr-default` — module skeleton, language keys, rights template, migrations (idempotent; `INSERT IGNORE` for `llx_const`).
-* `joomla-template-default` — Cassiopeia‑based template scaffold with tokens and dark‑mode variables.
-* `joomla-plugin-default` — plugin scaffold with manifest + language files.
-* `generic-git` — baseline repo hygiene: issue/PR templates, labels, CI, security.
-
 ## Roadmap
 
 * Expand Dolibarr migration helpers and QA smoke scripts
@@ -100,10 +99,10 @@ Reserved block for Moko Consulting modules: **185050–185099**.
 
 ## Support
 
-* Documentation & help desk: [https://mokoconsulting.tech/support/waas](https://mokoconsulting.tech/support/waas)
+* Documentation & help desk: [https://mokoconsulting.tech/support](https://mokoconsulting.tech/support)
 * Security: security reports via private contact in SECURITY.md
-* General inquiries: [dev@mokoconsulting.tech](mailto:dev@mokoconsulting.tech)
+* General inquiries: [hello@mokoconsulting.tech](mailto:hello@mokoconsulting.tech)
 
 ## License
 
-GPL-3.0-or-later. See `LICENSE`.
+GPL-3.0-or-later. See `LICENSE.md`.

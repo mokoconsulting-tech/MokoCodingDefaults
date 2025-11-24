@@ -7,18 +7,18 @@
 
 	This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
-	This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+	This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the IMPLIED WARRANTY of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-	You should have received a copy of the GNU General Public License
+	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
- # FILE INFORMATION
-	INGROUP:   MokoCodingDefaults
+	# FILE INFORMATION
+	DEFGROUP:  
+	INGROUP:   Documentation
+	REPO:      
 	FILE:      README.md
-	VERSION    0.0.1
+	VERSION:   
 	BRIEF:     Reference + packaging repo for Moko Consulting Developer GPT Other Default
 	PATH:      ./README.md
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
-	NOTE:      Documentation and tools for distribution; no runtime code.
 -->
 # Standard Readme
 
@@ -74,9 +74,9 @@ The goals for this repository are:
 
 1. A well defined **specification**. This can be found in the [Spec document](spec.md). It is a constant work in progress; please open issues to discuss changes.
 2. **An example README**. This Readme is fully standard-readme compliant, and there are more examples in the `example-readmes` folder.
-3. A **linter** that can be used to look at errors in a given Readme. Please refer to the [tracking issue](https://github.com/RichardLitt/standard-readme/issues/5).
-4. A **generator** that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
-5. A **compliant badge** for users. See [the badge](#badge).
+3. A **linter* that can be used to look at errors in a given Readme. Please refer to the [tracking issue](https://github.com/RichardLitt/standard-readme/issues/5).
+4. A **generator* that can be used to quickly scaffold out new READMEs. See [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme).
+5. A **compliant badge* for users. See [the badge](#badge).
 
 ## Install
 
@@ -139,3 +139,11 @@ This project exists thanks to all the people who contribute.
 ## License
 
 [MIT](LICENSE) © Richard Littauer
+
+
+
+## Revision History
+
+| Date | Version | Author | Notes |
+| --- | --- | --- | --- |
+| 2025-11-23 | 0.1.0 | TBD | Initial stub |
