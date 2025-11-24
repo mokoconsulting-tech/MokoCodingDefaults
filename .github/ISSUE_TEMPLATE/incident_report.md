@@ -19,29 +19,28 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       incident_report.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Incident Report Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/incident_report.md
  NOTE:
 -->
-# Pull Request
+# Incident Report
 
-## Purpose
+## Incident Summary
 
-## Change Summary
+## Timeline
 
-## Testing Evidence
+## Impact Assessment
 
-## Risk and Rollback
+## Root Cause
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
+## Corrective Actions
 
-## Reviewer Notes
+## Preventive Actions
+
+## Follow Up
+
+## Communications
 
 ## Review and Approval

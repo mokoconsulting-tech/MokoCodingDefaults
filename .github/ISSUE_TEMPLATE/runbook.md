@@ -19,29 +19,27 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       runbook.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Runbook Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/runbook.md
  NOTE:
 -->
-# Pull Request
+# Runbook
 
 ## Purpose
 
-## Change Summary
+## Preconditions
 
-## Testing Evidence
+## Procedure
+1.
+2.
+3.
 
-## Risk and Rollback
+## Validation
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
+## Rollback
 
-## Reviewer Notes
+## References
 
 ## Review and Approval

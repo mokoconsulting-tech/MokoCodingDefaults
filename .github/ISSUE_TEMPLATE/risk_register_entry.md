@@ -19,29 +19,22 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       risk_register_entry.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Risk Register Entry Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/risk_register_entry.md
  NOTE:
 -->
-# Pull Request
+# Risk Register Entry
 
-## Purpose
+## Risk Description
 
-## Change Summary
+## Probability and Impact
 
-## Testing Evidence
+## Mitigation Plan
 
-## Risk and Rollback
+## Contingency Plan
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
-
-## Reviewer Notes
+## Owners and Review Cadence
 
 ## Review and Approval

@@ -19,29 +19,25 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       adr.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub ADR Proposal Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/adr.md
  NOTE:
 -->
-# Pull Request
+# Architecture Decision Record Proposal
 
-## Purpose
+## Title
 
-## Change Summary
+## Status
+Proposed
 
-## Testing Evidence
+## Context
 
-## Risk and Rollback
+## Decision
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
+## Consequences
 
-## Reviewer Notes
+## Alternatives Considered
 
 ## Review and Approval

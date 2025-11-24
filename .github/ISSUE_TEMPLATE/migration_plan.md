@@ -19,29 +19,29 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       migration_plan.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Migration Plan Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/migration_plan.md
  NOTE:
 -->
-# Pull Request
+# Migration Plan
 
 ## Purpose
 
-## Change Summary
+## Scope
 
-## Testing Evidence
+## Preconditions
 
-## Risk and Rollback
+## Migration Steps
+1.
+2.
+3.
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
+## Rollback Plan
 
-## Reviewer Notes
+## Validation
+
+## Stakeholder Communications
 
 ## Review and Approval

@@ -19,29 +19,24 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       security_review.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Security Review Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/security_review.md
  NOTE:
 -->
-# Pull Request
+# Security Review
 
 ## Purpose
 
-## Change Summary
+## Scope
 
-## Testing Evidence
+## Threat Model Summary
 
-## Risk and Rollback
+## Findings
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
+## Remediation Actions
 
-## Reviewer Notes
+## Approval
 
 ## Review and Approval

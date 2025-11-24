@@ -19,29 +19,30 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       feature_request.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Feature Request Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/feature_request.md
  NOTE:
 -->
-# Pull Request
+# Feature Request
 
-## Purpose
+## Summary
 
-## Change Summary
+## Background / Problem Statement
 
-## Testing Evidence
+## Proposed Solution
 
-## Risk and Rollback
+## Alternatives Considered
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
+## Technical Details
 
-## Reviewer Notes
+## User Impact
+
+## Dependencies
+
+## Risks
+
+## Acceptance Criteria
 
 ## Review and Approval

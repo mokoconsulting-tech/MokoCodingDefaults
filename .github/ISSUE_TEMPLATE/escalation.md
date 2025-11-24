@@ -19,29 +19,23 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       escalation.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Escalation Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/escalation.md
  NOTE:
 -->
-# Pull Request
+# Escalation
 
-## Purpose
+## Trigger Conditions
 
-## Change Summary
+## Severity Level
+SEV1 | SEV2 | SEV3
 
-## Testing Evidence
+## Escalation Path
 
-## Risk and Rollback
+## Communication Plan
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
-
-## Reviewer Notes
+## Closure Criteria
 
 ## Review and Approval

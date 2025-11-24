@@ -19,29 +19,38 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       bug_report.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Bug Report Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/bug_report.md
  NOTE:
 -->
-# Pull Request
+# Bug Report
 
-## Purpose
+## Summary
+Provide a concise description of the defect and impact.
 
-## Change Summary
+## Environment
+- Application version
+- Browser or OS
+- Device
+- Configuration details
 
-## Testing Evidence
+## Steps to Reproduce
+1.
+2.
+3.
 
-## Risk and Rollback
+## Expected Behavior
 
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
+## Actual Behavior
 
-## Reviewer Notes
+## Logs / Screenshots
+
+## Severity & Impact
+
+## Related Incidents or Tickets
+
+## Acceptance Criteria
 
 ## Review and Approval

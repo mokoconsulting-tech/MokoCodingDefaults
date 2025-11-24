@@ -19,29 +19,20 @@
  DEFGROUP:
  INGROUP:    Documentation
  REPO:
- FILE:       PULL_REQUEST_TEMPLATE.md
+ FILE:       documentation_change.md
  VERSION:
- BRIEF:      GitHub Pull Request Template
- PATH:       ./.github/PULL_REQUEST_TEMPLATE.md
+ BRIEF:      GitHub Documentation Change Issue Template
+ PATH:       ./.github/ISSUE_TEMPLATE/documentation_change.md
  NOTE:
 -->
-# Pull Request
+# Documentation Change
 
-## Purpose
+## Summary
 
-## Change Summary
+## Context
 
-## Testing Evidence
+## Proposed Updates
 
-## Risk and Rollback
-
-## Checklist
-- [ ] Follows Conventional Commits
-- [ ] Tests added or updated
-- [ ] Documentation updated if required
-- [ ] License header present where applicable
-- [ ] Linked issue(s) referenced
-
-## Reviewer Notes
+## Acceptance Criteria
 
 ## Review and Approval
