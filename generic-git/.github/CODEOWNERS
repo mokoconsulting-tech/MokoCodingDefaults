@@ -1,0 +1,49 @@
+# CODEOWNERS
+
+```
+# Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
+#
+# This file is part of a Moko Consulting project.
+#
+# SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+#
+# Default ownership rules for automated reviewer assignment.
+# This configuration aligns with the Documentation Suite, Template Library,
+# Governance Framework, and MokoCodingDefaults specifications.
+```
+
+## Repository Ownership Matrix
+
+```
+# GLOBAL DEFAULT
+* @mokoconsulting-tech/maintainers
+
+# DOCUMENTATION SUITE
+/docs/ @mokoconsulting-tech/documentation
+/docs/templates/ @mokoconsulting-tech/documentation
+/docs/adr/ @mokoconsulting-tech/architecture
+/docs/diagrams/ @mokoconsulting-tech/architecture
+/docs/security/ @mokoconsulting-tech/security
+
+# ENGINEERING + CODE ASSETS
+/htdocs/ @mokoconsulting-tech/engineering
+/src/ @mokoconsulting-tech/engineering
+/api/ @mokoconsulting-tech/engineering
+
+# CI/CD WORKFLOWS
+/.github/workflows/ @mokoconsulting-tech/devops
+
+# ISSUE TEMPLATES
+/.github/ISSUE_TEMPLATE/ @mokoconsulting-tech/documentation
+
+# GOVERNANCE + OPERATIONAL FILES
+/CONTRIBUTING.md @mokoconsulting-tech/governance
+/GOVERNANCE.md @mokoconsulting-tech/governance
+/CODE_OF_CONDUCT.md @mokoconsulting-tech/governance
+
+# SECURITY
+/SECURITY.md @mokoconsulting-tech/security
+
+# TEMPLATE LIBRARY
+/docs/templates/ @mokoconsulting-tech/documentation
+```

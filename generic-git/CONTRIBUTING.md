@@ -1,24 +1,24 @@
 <!--
-* Copyright (C) 2025 Moko Consulting <jmiller@mokoconsulting.tech>
-*
-* This file is part of a Moko Consulting project.
-*
-* SPDX-License-Identifier: GPL-3.0-or-later
-*
-* This program is free software; you can redistribute it and/or modify
-*  it under the terms of the GNU General Public License as published by
-*  the Free Software Foundation; either version 3 of the License, or
-*  (at your option) any later version.
-*
-* This program is distributed in the hope that it will be useful,
-*  but WITHOUT ANY WARRANTY; without even the implied warranty of
-*  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
-*  General Public License for more details.
-*
-* You should have received a copy of the GNU General Public License
- *  along with this program. If not, see <https://www.gnu.org/licenses/>.
--->
+	Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
 
+	This file is part of a Moko Consulting project.
+
+	SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+
+	This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+	This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the IMPLIED WARRANTY of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License (./LICENSE.md).
+
+	# FILE INFORMATION
+  DEFGROUP:  
+	INGROUP:   Documentation
+	REPO:
+  FILE:      CONTRIBUTING.md
+  VERSION: 	
+  BRIEF:     How to contribute; commit, PR, testing and security policies
+  PATH:      ./CONTRIBUTING.md
 <!-- FILE INFORMATION
  * INGROUP:   MokoCodingDefaults
  * FILE:      CONTRIBUTING.md
@@ -30,7 +30,7 @@
 
 # Contributing
 
-1. Fork and branch: feat/* or fix/*
+1. Fork and branch: feat/ or fix/*
 2. Conventional Commits; sign off using DCO line
 3. Open a PR with tests/docs and linked issues
 
