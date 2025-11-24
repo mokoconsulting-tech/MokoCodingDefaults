@@ -1,17 +1,5 @@
 # CODEOWNERS
 
-```
-# Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
-#
-# This file is part of a Moko Consulting project.
-#
-# SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
-#
-# Default ownership rules for automated reviewer assignment.
-# This configuration aligns with the Documentation Suite, Template Library,
-# Governance Framework, and MokoCodingDefaults specifications.
-```
-
 ## Repository Ownership Matrix
 
 ```
