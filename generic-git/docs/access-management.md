@@ -36,15 +36,11 @@ Related documents:
 * [Operations Guide](./operations.md)
 * [Risk Register](./risk-register.md)
 
----
-
 ## 1. Purpose
 
 The Access Management Guide establishes the standards and processes for provisioning, modifying, and revoking access across all systems and environments.
 
 It ensures that access is secure, auditable, least-privileged, and aligned with organizational roles.
-
----
 
 ## 2. Access Principles
 
@@ -64,8 +60,6 @@ Access rights must be granted based on:
 
 Critical functions must be split between independent roles.
 
----
-
 ## 3. Provisioning Process
 
 Access provisioning must include:
@@ -82,8 +76,6 @@ Provisioning templates stored at:
 docs/templates/access/provisioning-request.md
 ```
 
----
-
 ## 4. Access Reviews
 
 Access must be reviewed:
@@ -98,8 +90,6 @@ Review logs must be stored in:
 docs/access/reviews/
 ```
 
----
-
 ## 5. Privileged Access Management (PAM)
 
 Privileged roles must:
@@ -113,8 +103,6 @@ PAM tools must enforce:
 * Session recording
 * Just-in-time access
 * Automatic expiration of elevated permissions
-
----
 
 ## 6. Offboarding Process
 
@@ -131,8 +119,6 @@ Offboarding checklists stored under:
 docs/templates/access/offboarding-checklist.md
 ```
 
----
-
 ## 7. Access Logging Requirements
 
 All access changes must be logged and include:
@@ -145,8 +131,6 @@ All access changes must be logged and include:
 
 Logs must follow the Security Reference retention policy.
 
----
-
 ## Metadata
 
 ```
@@ -155,8 +139,6 @@ Reviewers: Governance, Operations
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

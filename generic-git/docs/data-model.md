@@ -36,15 +36,11 @@ Related documents:
 * [Security Guide](./security.md)
 * [Templates Index](./templates/index.md)
 
----
-
 # Data Model Guide
 
 ## 1. Purpose
 
 The Data Model Guide defines the structure, relationships, integrity rules, and lifecycle of all data entities within the system. It ensures consistency across services, predictable API behavior, and long‑term maintainability.
-
----
 
 ## 2. Entities
 
@@ -63,8 +59,6 @@ Each entity description should include:
 
 Use the **Entity Definition Template** in `docs/templates/`.
 
----
-
 ## 3. Relationships
 
 Explain dependencies and cardinality between entities.
@@ -81,8 +75,6 @@ Relationship diagrams must be stored under:
 ```
 diagrams/data-model/
 ```
-
----
 
 ## 4. SQL Schema
 
@@ -117,8 +109,6 @@ docs/migrations/
 * Check constraints
 * Default values
 
----
-
 ## 5. Data Lifecycle
 
 Describe how data moves through its lifecycle.
@@ -136,8 +126,6 @@ Retention policies must comply with:
 * Governance requirements
 * Compliance Guide
 * Legal obligations
-
----
 
 ## 6. Privacy
 
@@ -164,8 +152,6 @@ Classification, access, and compliance expectations.
 
 For full coverage, see the Compliance Guide.
 
----
-
 ## Metadata
 
 ```
@@ -174,8 +160,6 @@ Reviewers: Architecture & Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

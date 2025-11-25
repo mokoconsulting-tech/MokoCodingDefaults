@@ -35,15 +35,11 @@ Related documents:
 * [API Reference](./api-reference.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Style Guide defines the required formatting, grammar, documentation rules, naming conventions, and semantic structures used throughout all Moko Consulting documentation, codebases, and communications.
 
 Consistency improves clarity, reduces ambiguity, and ensures all teams present unified, predictable artifacts.
-
----
 
 ## 2. General Writing Standards
 
@@ -67,8 +63,6 @@ Consistency improves clarity, reduces ambiguity, and ensures all teams present u
 * Avoid HTML except when necessary
 * Prefer fenced code blocks
 
----
-
 ## 3. Code Style Standards
 
 ### 3.1 Naming Conventions
@@ -90,8 +84,6 @@ Consistency improves clarity, reduces ambiguity, and ensures all teams present u
 * Use docblocks for functions, classes, modules
 * Include SPDX headers in all source files
 
----
-
 ## 4. Repository Structure Standards
 
 All repositories must include:
@@ -111,8 +103,6 @@ Documentation files must:
 * Start with `` prefix
 * Live inside `/docs/`
 
----
-
 ## 5. Formatting for Technical Documents
 
 Every technical document must include:
@@ -122,8 +112,6 @@ Every technical document must include:
 * Structured headings beginning at `#`
 * Metadata block
 * Revision history table
-
----
 
 ## 6. Diagrams & Visual Standards
 
@@ -139,8 +127,6 @@ Every technical document must include:
 * SVG for vector
 * Draw.io source files included where relevant
 
----
-
 ## 7. Accessibility Requirements
 
 Documentation must:
@@ -148,8 +134,6 @@ Documentation must:
 * Pass contrast checks
 * Include descriptive alt text
 * Use readable font sizes in diagrams
-
----
 
 ## Metadata
 
@@ -159,8 +143,6 @@ Reviewers: Governance, Architecture
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

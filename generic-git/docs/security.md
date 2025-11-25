@@ -37,15 +37,11 @@ Related documents:
  [Compliance Guide](./compliance.md)
  [Risk Register](./risk-register.md)
 
----
-
 ## 1. Purpose
 
 The Security Guide defines the policies, expectations, and controls required to maintain a secure platform across all components, teams, and processes.
 
 Security is a shared responsibility across engineering, operations, governance, and integrations.
-
----
 
 ## 2. Security Principles
 
@@ -69,8 +65,6 @@ All actions must be logged and reviewable.
 
 Security decisions and risks must be openly documented.
 
----
-
 ## 3. Authentication
 
 Authentication must follow strong, modern standards:
@@ -83,8 +77,6 @@ All secrets must be stored using:
 
  Secret vaults
  Hardware-backed keystores (recommended)
-
----
 
 ## 4. Authorization
 
@@ -102,8 +94,6 @@ Authorization diagrams stored under:
 diagrams/security/
 ```
 
----
-
 ## 5. Data Protection
 
 ### Encryption
@@ -116,8 +106,6 @@ diagrams/security/
  No production data in testing
  Pseudonymization where possible
  Strict audit logging of access
-
----
 
 ## 6. Secure Coding Requirements
 
@@ -135,8 +123,6 @@ Static Analysis tools and requirements documented in:
 docs/tooling/security/
 ```
 
----
-
 ## 7. Logging & Monitoring
 
 Systems must emit:
@@ -146,8 +132,6 @@ Systems must emit:
  Alerts on anomalies
 
 Monitoring dashboard documented in the Operations Guide.
-
----
 
 ## 8. Incident Response
 
@@ -165,8 +149,6 @@ Runbooks stored in:
 docs/runbooks/security/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -175,8 +157,6 @@ Reviewers: Security, Architecture
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

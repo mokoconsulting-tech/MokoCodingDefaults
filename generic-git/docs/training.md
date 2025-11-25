@@ -37,15 +37,11 @@ Related documents:
 * [Security Reference](./security-reference.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Training & Enablement Guide defines the standards, learning paths, responsibilities, and documentation required to ensure staff, contractors, and partners are properly trained in the tools, systems, and operational disciplines used across Moko Consulting.
 
 The guide supports both onboarding and continuous education.
-
----
 
 ## 2. Training Structure
 
@@ -62,8 +58,6 @@ Training materials stored under:
 ```
 docs/training/materials/
 ```
-
----
 
 ## 3. Required Training Areas
 
@@ -97,8 +91,6 @@ docs/training/materials/
 * Internal admin tools
 * Deployment automation
 
----
-
 ## 4. Onboarding Path
 
 Every new team member must:
@@ -108,8 +100,6 @@ Every new team member must:
 3. Complete mandatory training modules
 4. Sign required acknowledgements
 5. Perform hands-on onboarding tasks
-
----
 
 ## 5. Continuing Education
 
@@ -126,8 +116,6 @@ Training events logged at:
 docs/training/logs/
 ```
 
----
-
 ## 6. Assessment & Certification
 
 For critical systems, training may include:
@@ -142,8 +130,6 @@ Certificates stored under:
 docs/training/certificates/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -152,8 +138,6 @@ Reviewers: Security, HR (if applicable)
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

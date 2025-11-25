@@ -37,15 +37,11 @@ Related documents:
 * [Templates Index](./templates/index.md)
 * [Changelog](././CHANGELOG.md)
 
----
-
 ## 1. Purpose
 
 The Contributor Guide defines how contributors can participate, submit changes, follow coding standards, and adhere to quality and compliance expectations.
 
 This guide applies to internal contributors, external collaborators, and contractors.
-
----
 
 ## 2. Getting Started
 
@@ -76,8 +72,6 @@ Standards must align with:
 * Language-specific formatting rules
 * Required linting and static analysis
 
----
-
 ## 3. Submitting Changes
 
 ### 3.1 Pull Requests
@@ -107,8 +101,6 @@ Changes require approval from:
 * Code owner(s)
 * Governance committee (if policy/standards)
 
----
-
 ## 4. Coding Best Practices
 
 * Write modular, testable code
@@ -116,8 +108,6 @@ Changes require approval from:
 * Avoid unnecessary complexity
 * Ensure security considerations are included
 * Keep dependencies updated
-
----
 
 ## 5. Communication
 
@@ -127,8 +117,6 @@ Contributors must:
 * Document design decisions in ADRs
 * Use issue templates for structured proposals
 
----
-
 ## Metadata
 
 ```
@@ -137,8 +125,6 @@ Reviewers: Governance, Architecture
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

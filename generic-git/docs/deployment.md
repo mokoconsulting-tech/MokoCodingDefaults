@@ -36,15 +36,11 @@ Related documents:
 * [Runbooks Guide](./runbooks.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Deployment Guide defines the required steps, standards, and tooling to safely deploy changes to all environments, from development to production.
 
 Deployment processes must be predictable, testable, reversible, and secure.
-
----
 
 ## 2. Deployment Environments
 
@@ -65,8 +61,6 @@ Used for final integration testing.
 
 Live system.
 Requires CAB approval for changes.
-
----
 
 ## 3. Deployment Workflow
 
@@ -96,8 +90,6 @@ Deployment pipeline must include:
 * Logging of issues
 * Post-deployment review
 
----
-
 ## 4. Rollback Procedures
 
 Every deployment must include a documented rollback plan.
@@ -113,8 +105,6 @@ Rollback templates stored here:
 ```
 docs/templates/rollback/
 ```
-
----
 
 ## 5. Release Notes
 
@@ -134,8 +124,6 @@ Notes stored in:
 docs/releases/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -144,8 +132,6 @@ Reviewers: Operations, Architecture
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

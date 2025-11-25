@@ -36,8 +36,6 @@ Related documents:
 * [Risk Register](./risk-register.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The System Inventory provides an authoritative list of all systems, platforms, applications, hardware, cloud resources, and third‑party services used across the organization.
@@ -49,8 +47,6 @@ It enables:
 * Support planning
 * Operational awareness
 * Dependency mapping
-
----
 
 ## 2. Inventory Categories
 
@@ -87,8 +83,6 @@ Internal and external applications that support business operations.
 * Mobile devices
 * Point‑of‑sale devices (if applicable)
 
----
-
 ## 3. Required Fields
 
 Each inventory entry must include:
@@ -104,8 +98,6 @@ Each inventory entry must include:
 * **SLA / Support Terms**
 * **Lifecycle Status** (Active / Deprecated / Pending Removal)
 
----
-
 ## 4. Lifecycle Management
 
 All systems must have:
@@ -119,8 +111,6 @@ Decommission plans stored in:
 ```
 docs/operations/decommissioning/
 ```
-
----
 
 ## 5. Inventory Storage Format
 
@@ -136,8 +126,6 @@ Each entry must use the template found in:
 docs/templates/inventory/system-inventory-template.md
 ```
 
----
-
 ## 6. Review Process
 
 The inventory must be:
@@ -145,8 +133,6 @@ The inventory must be:
 * Reviewed quarterly
 * Updated after major deployments
 * Audited annually as part of compliance
-
----
 
 ## Metadata
 
@@ -156,8 +142,6 @@ Reviewers: Architecture, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

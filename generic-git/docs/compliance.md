@@ -36,15 +36,11 @@ Related documents:
 * [Operations Guide](./operations.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Compliance Guide defines the policies, regulatory controls, evidence requirements, and audit preparation processes required to ensure all systems and operations remain compliant with internal, contractual, and external regulatory frameworks.
 
 It is used by engineering, operations, governance, and external auditors.
-
----
 
 ## 2. Compliance Frameworks
 
@@ -57,8 +53,6 @@ Applicable frameworks may include:
 * Internal governance policies
 
 Each requirement must be mapped to controls in the Security Reference.
-
----
 
 ## 3. Controls & Evidence Requirements
 
@@ -83,8 +77,6 @@ Evidence logs stored at:
 docs/compliance/evidence/
 ```
 
----
-
 ## 4. Audit Process
 
 Audits must include:
@@ -101,8 +93,6 @@ Audit templates stored at:
 docs/templates/compliance/audit-template.md
 ```
 
----
-
 ## 5. Policy Management
 
 Policies must:
@@ -118,8 +108,6 @@ Policies stored under:
 docs/policies/
 ```
 
----
-
 ## 6. Vendor Compliance
 
 Third-party vendors must:
@@ -133,8 +121,6 @@ Vendor records stored at:
 ```
 docs/compliance/vendors/
 ```
-
----
 
 ## 7. Reporting Requirements
 
@@ -151,8 +137,6 @@ Reports stored under:
 docs/compliance/reports/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -161,8 +145,6 @@ Reviewers: Governance, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

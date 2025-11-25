@@ -36,15 +36,11 @@ Related documents:
 * [Operations Guide](./operations.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 This Policies Guide defines how organizational, technical, and operational policies are structured, approved, maintained, and implemented across Moko Consulting systems and teams.
 
 It provides a unified framework for policy ownership, review cycles, compliance requirements, and storage locations.
-
----
 
 ## 2. Policy Structure
 
@@ -61,8 +57,6 @@ Every policy must contain:
 * Version history
 
 Policies must be consistent across teams and aligned with Governance and Compliance.
-
----
 
 ## 3. Policy Categories
 
@@ -93,8 +87,6 @@ Policies must be consistent across teams and aligned with Governance and Complia
 * Offboarding
 * Training requirements
 
----
-
 ## 4. Approval Requirements
 
 All policies must be approved by:
@@ -105,8 +97,6 @@ All policies must be approved by:
 
 Major policy changes require leadership sign-off.
 
----
-
 ## 5. Review Cycles
 
 Policies must be reviewed:
@@ -115,8 +105,6 @@ Policies must be reviewed:
 * After major incidents
 * When regulatory requirements change
 * When new systems or roles are introduced
-
----
 
 ## 6. Storage & Organization
 
@@ -132,8 +120,6 @@ Templates stored under:
 docs/templates/policies/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -142,8 +128,6 @@ Reviewers: Compliance, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

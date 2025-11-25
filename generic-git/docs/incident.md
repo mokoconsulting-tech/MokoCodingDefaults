@@ -37,15 +37,11 @@ Related documents:
 * [Runbooks Guide](./runbooks.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Incident Management Guide formalizes the procedures, expectations, communication pathways, and documentation standards for identifying, responding to, resolving, and reviewing incidents across all environments.
 
 It provides a unified lifecycle for operational and security incidents.
-
----
 
 ## 2. Incident Definition
 
@@ -58,8 +54,6 @@ Incidents include:
 * Security events
 * Data loss
 * Unauthorized access
-
----
 
 ## 3. Incident Severity Levels
 
@@ -87,8 +81,6 @@ Incidents include:
 
 Severity impacts response times, escalation requirements, and communication cadence.
 
----
-
 ## 4. Incident Lifecycle
 
 1. **Detection** — via monitoring, alerting, or manual report
@@ -97,8 +89,6 @@ Severity impacts response times, escalation requirements, and communication cade
 4. **Resolution** — fix underlying cause
 5. **Recovery** — restore full service
 6. **Postmortem** — document findings, remediation steps, and lessons learned
-
----
 
 ## 5. Communication Requirements
 
@@ -114,8 +104,6 @@ Communication templates stored at:
 ```
 docs/templates/incidents/
 ```
-
----
 
 ## 6. Postmortems
 
@@ -136,8 +124,6 @@ Postmortem documents stored at:
 docs/incidents/postmortems/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -146,8 +132,6 @@ Reviewers: Security, Architecture
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

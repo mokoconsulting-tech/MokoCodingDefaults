@@ -36,13 +36,9 @@ Related documents:
  [Operations Guide](./operations.md)
  [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Risk Register catalogs, tracks, and manages risks affecting the platform, operations, data, and governance. It provides a standardized structure for assessing severity, probability, ownership, and mitigation.
-
----
 
 ## 2. Risk Categories
 
@@ -65,8 +61,6 @@ Regulatory violations, policy breaches, audit findings.
 ### 2.5 Business Risks
 
 Vendor dependencies, contractual issues, market instability.
-
----
 
 ## 3. Risk Rating Model
 
@@ -100,8 +94,6 @@ Scores classify risks as:
  **6–12 Medium**
  **15–25 High**
 
----
-
 ## 4. Risk Entry Template
 
 Each risk entry must include:
@@ -122,8 +114,6 @@ Templates stored in:
 ```
 docs/templates/risk/
 ```
-
----
 
 ## 5. Risk Workflow
 
@@ -147,8 +137,6 @@ Actions implemented and tracked.
 
 Risks reviewed quarterly, or after major incidents or changes.
 
----
-
 ## Metadata
 
 ```
@@ -157,8 +145,6 @@ Reviewers: Security, Compliance
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

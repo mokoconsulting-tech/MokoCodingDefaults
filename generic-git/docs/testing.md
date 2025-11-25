@@ -37,13 +37,9 @@ Related documents:
 * [Change Management Guide](./change-management.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Testing Guide defines testing requirements, methodologies, tools, and workflows used across the platform. It ensures consistency, quality, and traceability for all components.
-
----
 
 ## 2. Testing Types
 
@@ -79,8 +75,6 @@ The Testing Guide defines testing requirements, methodologies, tools, and workfl
 * Dynamic Application Security Testing (DAST)
 * Vulnerability scanning
 
----
-
 ## 3. Test Environments
 
 Testing must be executed in controlled environments separate from production.
@@ -91,8 +85,6 @@ Environments:
 * CI environment
 * Staging
 * Pre-production (optional)
-
----
 
 ## 4. Test Data
 
@@ -108,8 +100,6 @@ Test data stored in:
 docs/testing-data/
 ```
 
----
-
 ## 5. Tooling
 
 Recommended tooling includes:
@@ -122,8 +112,6 @@ Recommended tooling includes:
 
 Tooling must be documented in `docs/tooling/`.
 
----
-
 ## 6. CI/CD Integration
 
 All tests must run automatically:
@@ -134,8 +122,6 @@ All tests must run automatically:
 
 Test reports must be archived.
 
----
-
 ## Metadata
 
 ```
@@ -144,8 +130,6 @@ Reviewers: QA, Architecture, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 
