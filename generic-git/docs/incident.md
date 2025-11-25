@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       incidents.md
-	VERSION:
-	BRIEF:      Incident Management Guide
-	PATH:       ./docs/incidents.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      incidents.md
+	VERSION:   <VERSION>
+	BRIEF:     Incident Management Guide
+	PATH:      ./docs/incidents.md
 	-->
 
 # Incident Management Guide

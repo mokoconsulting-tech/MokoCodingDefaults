@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       incident-report.md
- VERSION:
- BRIEF:      Incident Report Template
- PATH:       ./docs/templates/incident-report.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      incident-report.md
+ VERSION:   <VERSION>
+ BRIEF:     Incident Report Template
+ PATH:      ./docs/templates/incident-report.md
  -->
 
 # Incident Report Template

@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       pull-request.md
- VERSION:
- BRIEF:      Pull Request Template
- PATH:       ./docs/templates/pull-request.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      pull-request.md
+ VERSION:   <VERSION>
+ BRIEF:     Pull Request Template
+ PATH:      ./docs/templates/pull-request.md
  -->
 
 # Pull Request Template

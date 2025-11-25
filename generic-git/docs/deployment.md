@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       deployment.md
-	VERSION:
-	BRIEF:      Deployment Guide
-	PATH:       ./docs/deployment.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      deployment.md
+	VERSION:   <VERSION>
+	BRIEF:     Deployment Guide
+	PATH:      ./docs/deployment.md
 	-->
 
 # Deployment Guide

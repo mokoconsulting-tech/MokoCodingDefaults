@@ -12,13 +12,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       escalation.md
- VERSION:
- BRIEF:      Escalation Template
- PATH:       ./docs/templates/escalation.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      escalation.md
+ VERSION:   <VERSION>
+ BRIEF:     Escalation Template
+ PATH:      ./docs/templates/escalation.md
  -->
 
 # Escalation Template

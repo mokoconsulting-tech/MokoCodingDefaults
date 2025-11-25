@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       index.md
-	VERSION:
-	BRIEF:      Migration Documentation index
-	PATH:       ./docs/migrations/index.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      index.md
+	VERSION:   <VERSION>
+	BRIEF:     Migration Documentation index
+	PATH:      ./docs/migrations/index.md
 	NOTE:       Index for database and system migration governance.
 -->
 

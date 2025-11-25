@@ -12,9 +12,9 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
+	DEFGROUP:  <DEFGROUP>  
 	INGROUP:   Documentation
-	REPO:      
+	REPO:      <REPO>   
 	FILE:      README.md
 	VERSION:   
 	BRIEF:     Reference + packaging repo for Moko Consulting Developer GPT Other Default

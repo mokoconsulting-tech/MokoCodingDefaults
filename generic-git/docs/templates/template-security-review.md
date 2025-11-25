@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       security-review.md
- VERSION:
- BRIEF:      Security Review Template
- PATH:       ./docs/templates/security-review.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      security-review.md
+ VERSION:   <VERSION>
+ BRIEF:     Security Review Template
+ PATH:      ./docs/templates/security-review.md
  -->
 
 # Security Review Template

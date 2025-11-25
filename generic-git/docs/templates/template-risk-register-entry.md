@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       risk-register-entry.md
- VERSION:
- BRIEF:      Risk Register Entry Template
- PATH:       ./docs/templates/risk-register-entry.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      risk-register-entry.md
+ VERSION:   <VERSION>
+ BRIEF:     Risk Register Entry Template
+ PATH:      ./docs/templates/risk-register-entry.md
  -->
 
 # Risk Register Entry Template

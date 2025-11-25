@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       sustainability.md
-	VERSION:
-	BRIEF:      Sustainability & Resource Management Guide
-	PATH:       ./docs/sustainability.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      sustainability.md
+	VERSION:   <VERSION>
+	BRIEF:     Sustainability & Resource Management Guide
+	PATH:      ./docs/sustainability.md
 	-->
 
 # Sustainability & Resource Management Guide

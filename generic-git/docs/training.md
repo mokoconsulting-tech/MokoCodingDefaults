@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       training.md
-	VERSION:
-	BRIEF:      Training & Enablement Guide
-	PATH:       ./docs/training.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      training.md
+	VERSION:   <VERSION>
+	BRIEF:     Training & Enablement Guide
+	PATH:      ./docs/training.md
 	-->
 
 # Training & Enablement Guide

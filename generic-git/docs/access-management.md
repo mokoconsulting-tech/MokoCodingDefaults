@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       access-management.md
-	VERSION:
-	BRIEF:      Access Management Guide
-	PATH:       ./docs/access-management.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      access-management.md
+	VERSION:   <VERSION>
+	BRIEF:     Access Management Guide
+	PATH:      ./docs/access-management.md
 	-->
 
 # Access Management Guide

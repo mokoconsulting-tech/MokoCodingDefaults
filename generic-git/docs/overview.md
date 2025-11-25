@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       overview.md
-	VERSION:
-	BRIEF:      Master Overview & Documentation Index
-	PATH:       ./docs/overview.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      overview.md
+	VERSION:   <VERSION>
+	BRIEF:     Master Overview & Documentation Index
+	PATH:      ./docs/overview.md
 	-->
 
 # Project Overview

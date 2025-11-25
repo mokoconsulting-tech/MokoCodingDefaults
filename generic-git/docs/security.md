@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       security.md
-	VERSION:
-	BRIEF:      Security Guide
-	PATH:       ./docs/security.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      security.md
+	VERSION:   <VERSION>
+	BRIEF:     Security Guide
+	PATH:      ./docs/security.md
 	-->
 
 # Security Guide

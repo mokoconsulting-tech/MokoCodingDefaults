@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       index.md
-	VERSION:
-	BRIEF:      Release Documentation index
-	PATH:       ./docs/releases/index.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      index.md
+	VERSION:   <VERSION>
+	BRIEF:     Release Documentation index
+	PATH:      ./docs/releases/index.md
 	NOTE:       Index for release governance, tagging, and version control documentation.
 -->
 

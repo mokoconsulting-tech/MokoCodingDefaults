@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       governance.md
-	VERSION:
-	BRIEF:      Governance Guide
-	PATH:       ./docs/governance.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      governance.md
+	VERSION:   <VERSION>
+	BRIEF:     Governance Guide
+	PATH:      ./docs/governance.md
 	-->
 
 # Governance Guide

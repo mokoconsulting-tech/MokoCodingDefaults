@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       versioning.md
-	VERSION:
-	BRIEF:      Versioning & Branching Policy
-	PATH:       ./docs/versioning.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO> 
+	FILE:      versioning.md
+	VERSION:   <VERSION>
+	BRIEF:     Versioning & Branching Policy
+	PATH:      ./docs/versioning.md
 	-->
 
 # Versioning & Branching Policy

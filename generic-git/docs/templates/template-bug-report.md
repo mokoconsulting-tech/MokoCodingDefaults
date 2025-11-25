@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       bug-report.md
- VERSION:
- BRIEF:      Bug Report Template
- PATH:       ./docs/templates/bug-report.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      bug-report.md
+ VERSION:   <VERSION>
+ BRIEF:     Bug Report Template
+ PATH:      ./docs/templates/bug-report.md
  -->
 
 # Bug Report Template

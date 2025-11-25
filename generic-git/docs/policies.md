@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       policies.md
-	VERSION:
-	BRIEF:      Policies Guide
-	PATH:       ./docs/policies.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      policies.md
+	VERSION:   <VERSION>
+	BRIEF:     Policies Guide
+	PATH:      ./docs/policies.md
 	-->
 
 # Policies Guide

@@ -12,13 +12,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       hierarchy.md
- VERSION:
- BRIEF:      Documentation File & Folder Hierarchy
- PATH:       ./docs/hierarchy.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      hierarchy.md
+ VERSION:   <VERSION>
+ BRIEF:     Documentation File & Folder Hierarchy
+ PATH:      ./docs/hierarchy.md
  NOTE:       Canonical repository structure for documentation, templates, diagrams, and operational records.
 -->
 

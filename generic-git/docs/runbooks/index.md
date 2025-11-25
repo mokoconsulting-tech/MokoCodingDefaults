@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       index.md
-	VERSION:
-	BRIEF:      Runbook Documentation index
-	PATH:       ./docs/runbooks/index.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      index.md
+	VERSION:   <VERSION>
+	BRIEF:     Runbook Documentation index
+	PATH:      ./docs/runbooks/index.md
 	NOTE:       Index for operational workflows and standardized support runbooks.
 -->
 

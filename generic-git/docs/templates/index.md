@@ -28,45 +28,48 @@ docs/templates/
 
 ### 2.1 Architectural Templates
 
-**ADR Template** → [adr.md](./adr.md)
+**ADR Template** → [template-adr.md](./template-adr.md)
 Records key architectural decisions, context, alternatives, and consequences.
 
 ### 2.2 API Templates
 
-**API Endpoint Template** → [api-endpoint.md](./api-endpoint.md)
+**API Endpoint Template** → [template-api-endpoint.md](./template-api-endpoint.md)
 Defines request structures, responses, constraints, and security requirements.
 
 ### 2.3 Operational Templates
 
-**Escalation Template** → [escalation.md](./escalation.md)
+**Escalation Template** → [template-escalation.md](./template-escalation.md)
 Defines escalation triggers, pathways, severity levels, and communications.
 
-**Incident Report Template** → [incident-report.md](./incident-report.md)
+**Incident Report Template** → [template-incident-report.md](./template-incident-report.md)
 Captures events, timelines, root causes, impacts, and corrective actions.
 
-**Migration Plan Template** → [migration-plan.md](./migration-plan.md)
+**Migration Plan Template** → [template-migration-plan.md](./template-migration-plan.md)
 Outlines migration steps, validation, rollback, and stakeholder alignment.
 
-**Runbook Template** → [runbook.md](./runbook.md)
+**Runbook Template** → [template-runbook.md](./template-runbook.md)
 Provides step-by-step operational procedures and recovery criteria.
 
-**Release Template** → [release.md](./release.md)
+**Release Template** → [template-release.md](./template-release.md)
 Documents release scope, deployment sequencing, validation, and communications.
+
+**Documentation Template** → [template-documentation.md](/template-documentation.md)
+Standardized template for creating new documentation pages and guides.
 
 ### 2.4 Governance and Risk Templates
 
-**Pull Request Template** → [pull-request.md](./pull-request.md)
+**Pull Request Template** → [template-pull-request.md](./template-pull-request.md)
 Ensures structured review and compliance with engineering standards.
 
-**Risk Register Entry Template** → [risk-register-entry.md](./risk-register-entry.md)
+**Risk Register Entry Template** → [template-risk-register-entry.md](./template-risk-register-entry.md)
 Captures risk statements, probability, impact scoring, and mitigation strategies.
 
 ### 2.5 Security and Compliance Templates
 
-**Security Review Template** → [security-review.md](./security-review.md)
+**Security Review Template** → [template-security-review.md](./template-security-review.md)
 Evaluates threat models, findings, remediations, and approval requirements.
 
-**Style and Compliance Checklist Template** → [style-compliance-checklist.md](./style-compliance-checklist.md)
+**Style and Compliance Checklist Template** → [template-style-compliance-checklist.md](./template-style-compliance-checklist.md)
 Ensures alignment with documentation style, compliance, and accessibility standards.
 
 ## 3. Template Requirements
@@ -93,6 +96,6 @@ Last Updated: <YYYY-MM-DD>
 
 ## Revision History
 
-| Date       | Version | Author | Notes        |
-| ---------- | ------- | ------ | ------------ |
-| 2025-11-23 | 0.0.1   | TBD    | Initial stub |
+| Date       | Version | Author | Notes     |
+| ---------- | ------- | ------ | --------- |
+| 2025-11-23 | 0.0.1   | TBD    | Initial Stub ||

@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       template-api-endpoint.md
- VERSION:
- BRIEF:      API Endpoint Template
- PATH:       ./docs/templates/template-api-endpoint.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      template-api-endpoint.md
+ VERSION:   <VERSION>
+ BRIEF:     API Endpoint Template
+ PATH:      ./docs/templates/template-api-endpoint.md
  NOTE:
 -->
 

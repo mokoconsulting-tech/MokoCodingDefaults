@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       feature-request.md
- VERSION:
- BRIEF:      Feature Request Template
- PATH:       ./docs/templates/feature-request.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      feature-request.md
+ VERSION:   <VERSION>
+ BRIEF:     Feature Request Template
+ PATH:      ./docs/templates/feature-request.md
  -->
 
 # Feature Request Template

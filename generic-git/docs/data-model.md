@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       data-model.md
-	VERSION:
-	BRIEF:      Data Model Guide
-	PATH:       ./docs/data-model.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      data-model.md
+	VERSION:   <VERSION>
+	BRIEF:     Data Model Guide
+	PATH:      ./docs/data-model.md
 	-->
 
 # Data Model

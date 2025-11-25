@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       style-compliance-checklist.md
- VERSION:
- BRIEF:      Style and Compliance Checklist Template
- PATH:       ./docs/templates/style-compliance-checklist.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      style-compliance-checklist.md
+ VERSION:   <VERSION>
+ BRIEF:     Style and Compliance Checklist Template
+ PATH:      ./docs/templates/style-compliance-checklist.md
  -->
 
 # Style and Compliance Checklist Template

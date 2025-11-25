@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       risk-register.md
-	VERSION:
-	BRIEF:      Risk Register
-	PATH:       ./docs/risk-register.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      risk-register.md
+	VERSION:   <VERSION>
+	BRIEF:     Risk Register
+	PATH:      ./docs/risk-register.md
 	-->
 
 # Risk Register

@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       index.md
-	VERSION:
-	BRIEF:      Policy Documentation index
-	PATH:       ./docs/policies/index.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      index.md
+	VERSION:   <VERSION>
+	BRIEF:     Policy Documentation index
+	PATH:      ./docs/policies/index.md
 	NOTE:       Index for organizational policies, technical standards, and compliance templates.
 -->
 

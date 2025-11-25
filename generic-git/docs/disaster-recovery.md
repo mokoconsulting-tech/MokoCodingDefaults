@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       disaster-recovery.md
-	VERSION:
-	BRIEF:      Disaster Recovery Guide
-	PATH:       ./docs/disaster-recovery.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      disaster-recovery.md
+	VERSION:   <VERSION>
+	BRIEF:     Disaster Recovery Guide
+	PATH:      ./docs/disaster-recovery.md
 	-->
 
 # Disaster Recovery Guide

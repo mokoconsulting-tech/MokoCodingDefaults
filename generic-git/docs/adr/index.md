@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       index.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      index.md
 	VERSION:    
-	BRIEF:      Architecture Decision Records index
-	PATH:       ./docs/adr/index.md
+	BRIEF:     Architecture Decision Records index
+	PATH:      ./docs/adr/index.md
 	NOTE:       Index for ADR catalog and governance alignment.
 -->
 

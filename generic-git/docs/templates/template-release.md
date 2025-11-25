@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       release.md
- VERSION:
- BRIEF:      Release Template
- PATH:       ./docs/templates/release.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      release.md
+ VERSION:   <VERSION>
+ BRIEF:     Release Template
+ PATH:      ./docs/templates/release.md
  -->
 
 # Release Template

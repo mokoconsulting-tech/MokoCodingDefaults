@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       maintenance.md
-	VERSION:
-	BRIEF:      Maintenance & Lifecycle Management Guide
-	PATH:       ./docs/maintenance.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      maintenance.md
+	VERSION:   <VERSION>
+	BRIEF:     Maintenance & Lifecycle Management Guide
+	PATH:      ./docs/maintenance.md
 	-->
 
 # Maintenance & Lifecycle Management Guide

@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       compliance-guide.md
-	VERSION:
-	BRIEF:      Compliance Guide
-	PATH:       ./docs/compliance-guide.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      compliance-guide.md
+	VERSION:   <VERSION>
+	BRIEF:     Compliance Guide
+	PATH:      ./docs/compliance-guide.md
 	-->
 
 # Compliance Guide

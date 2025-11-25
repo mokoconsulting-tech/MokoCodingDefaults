@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       integrations.md
-	VERSION:
-	BRIEF:      Integrations Guide
-	PATH:       ./docs/integrations.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      integrations.md
+	VERSION:   <VERSION>
+	BRIEF:     Integrations Guide
+	PATH:      ./docs/integrations.md
 	-->
 
 # Integrations Guide

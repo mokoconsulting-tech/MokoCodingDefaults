@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:       
-	FILE:       change-management.md
-	VERSION:
-	BRIEF:      Change Management Guide
-	PATH:       ./docs/change-management.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO> 
+	FILE:      change-management.md
+	VERSION:   <VERSION>
+	BRIEF:     Change Management Guide
+	PATH:      ./docs/change-management.md
 	NOTE:       Defines the change management workflow, approvals, documentation, and review requirements.
 
 -->

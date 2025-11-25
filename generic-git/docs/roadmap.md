@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:       
-	FILE:       docs-roadmap.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO> 
+	FILE:      docs-roadmap.md
 	VERSION:    
-	BRIEF:      Documentation Suite Roadmap
-	PATH:       ./docs/docs-roadmap.md
+	BRIEF:     Documentation Suite Roadmap
+	PATH:      ./docs/docs-roadmap.md
 -->
 
 # Documentation Suite Roadmap

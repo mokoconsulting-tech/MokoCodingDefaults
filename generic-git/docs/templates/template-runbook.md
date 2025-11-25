@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       runbook.md
- VERSION:
- BRIEF:      Runbook Template
- PATH:       ./docs/templates/runbook.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      runbook.md
+ VERSION:   <VERSION>
+ BRIEF:     Runbook Template
+ PATH:      ./docs/templates/runbook.md
  -->
 
 # Runbook Template

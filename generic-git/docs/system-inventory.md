@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       system-inventory.md
-	VERSION:
-	BRIEF:      System Inventory
-	PATH:       ./docs/system-inventory.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      system-inventory.md
+	VERSION:   <VERSION>
+	BRIEF:     System Inventory
+	PATH:      ./docs/system-inventory.md
 	-->
 
 # System Inventory

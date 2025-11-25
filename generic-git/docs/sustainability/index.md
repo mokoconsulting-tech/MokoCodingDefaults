@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       index.md
-	VERSION:
-	BRIEF:      Sustainability Documentation index
-	PATH:       ./docs/sustainability/index.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      index.md
+	VERSION:   <VERSION>
+	BRIEF:     Sustainability Documentation index
+	PATH:      ./docs/sustainability/index.md
 	NOTE:       Index for sustainability models, cost frameworks, and scaling analysis.
 -->
 

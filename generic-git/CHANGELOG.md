@@ -20,7 +20,7 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
+	DEFGROUP:  <DEFGROUP>  
 	INGROUP:   Documentation
 	REPO:
  FILE:      CHANGELOG.md

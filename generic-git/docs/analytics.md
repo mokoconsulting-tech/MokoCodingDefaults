@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       analytics.md
-	VERSION:
-	BRIEF:      Analytics & Observability Guide
-	PATH:       ./docs/analytics.md
+	DEFGROUP:  <DEFGROUP>   <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      analytics.md
+	VERSION:   <VERSION>
+	BRIEF:     Analytics & Observability Guide
+	PATH:      ./docs/analytics.md
 	-->
 
 # Analytics & Observability Guide

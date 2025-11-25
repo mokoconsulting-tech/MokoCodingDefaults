@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       style-guide.md
-	VERSION:
-	BRIEF:      Style Guide
-	PATH:       ./docs/style-guide.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      style-guide.md
+	VERSION:   <VERSION>
+	BRIEF:     Style Guide
+	PATH:      ./docs/style-guide.md
 	-->
 
 # Style Guide

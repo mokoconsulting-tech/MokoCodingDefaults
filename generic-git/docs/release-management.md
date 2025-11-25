@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       release-management.md
-	VERSION:
-	BRIEF:      Release Management Guide
-	PATH:       ./docs/release-management.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      release-management.md
+	VERSION:   <VERSION>
+	BRIEF:     Release Management Guide
+	PATH:      ./docs/release-management.md
 	-->
 
 # Release Management Guide

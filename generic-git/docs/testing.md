@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       testing.md
-	VERSION:
-	BRIEF:      Testing Guide
-	PATH:       ./docs/testing.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      testing.md
+	VERSION:   <VERSION>
+	BRIEF:     Testing Guide
+	PATH:      ./docs/testing.md
 	-->
 
 # Testing Guide

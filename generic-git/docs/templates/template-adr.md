@@ -12,13 +12,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       template-adr.md
- VERSION:
- BRIEF:      Architecture Decision Record Template
- PATH:       ./docs/templates/template-adr.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      template-adr.md
+ VERSION:   <VERSION>
+ BRIEF:     Architecture Decision Record Template
+ PATH:      ./docs/templates/template-adr.md
  NOTE:
 -->
 

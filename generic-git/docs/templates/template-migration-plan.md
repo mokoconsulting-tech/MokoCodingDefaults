@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       migration-plan.md
- VERSION:
- BRIEF:      Migration Plan Template
- PATH:       ./docs/templates/migration-plan.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      migration-plan.md
+ VERSION:   <VERSION>
+ BRIEF:     Migration Plan Template
+ PATH:      ./docs/templates/migration-plan.md
  -->
 
 # Migration Plan Template

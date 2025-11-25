@@ -15,13 +15,17 @@
 	DEFGROUP:  MokoCodingDefaults
 	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
 	FILE:      CHANGELOG.md
-	VERSION:   2.0
+	VERSION:   2.2
 	BRIEF:     Version history using Keep a Changelog
 	PATH:      ./CHANGELOG.md
 	NOTE:      Adheres to SemVer when applicable
 -->
 
 # Changelog
+
+## [Unreleased]
+### <DATE>
+ - 
 
 ## [2.1] - 2025-11-25
 ### Updated

@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       service-registry.md
-	VERSION:
-	BRIEF:      Service Registry
-	PATH:       ./docs/service-registry.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      service-registry.md
+	VERSION:   <VERSION>
+	BRIEF:     Service Registry
+	PATH:      ./docs/service-registry.md
 	-->
 
 # Service Registry

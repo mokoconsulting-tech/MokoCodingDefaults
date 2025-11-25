@@ -16,13 +16,12 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:
- INGROUP:    Documentation
- REPO:
- FILE:       deployment-plan.md
- VERSION:
- BRIEF:      Deployment Plan Template
- PATH:       ./docs/templates/deployment-plan.md
+ DEFGROUP:  <DEFGROUP>
+ INGROUP:   Documentation
+ REPO:      <REPO> FILE:      deployment-plan.md
+ VERSION:   <VERSION>
+ BRIEF:     Deployment Plan Template
+ PATH:      ./docs/templates/deployment-plan.md
  -->
 
 # Deployment Plan Template

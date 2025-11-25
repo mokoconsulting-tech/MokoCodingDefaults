@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       onboarding.md
-	VERSION:
-	BRIEF:      Onboarding Guide
-	PATH:       ./docs/onboarding.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      onboarding.md
+	VERSION:   <VERSION>
+	BRIEF:     Onboarding Guide
+	PATH:      ./docs/onboarding.md
 	-->
 
 # Onboarding Guide

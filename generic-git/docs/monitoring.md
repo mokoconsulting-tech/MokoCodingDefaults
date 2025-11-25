@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       monitoring.md
-	VERSION:
-	BRIEF:      Monitoring Standards Guide
-	PATH:       ./docs/monitoring.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      monitoring.md
+	VERSION:   <VERSION>
+	BRIEF:     Monitoring Standards Guide
+	PATH:      ./docs/monitoring.md
 	-->
 
 # Monitoring Standards Guide

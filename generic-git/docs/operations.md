@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       operations.md
-	VERSION:
-	BRIEF:      Operations Guide
-	PATH:       ./docs/operations.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      operations.md
+	VERSION:   <VERSION>
+	BRIEF:     Operations Guide
+	PATH:      ./docs/operations.md
 	-->
 
 # Operations Guide

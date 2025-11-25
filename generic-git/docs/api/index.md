@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       index.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      index.md
 	VERSION:    
-	BRIEF:      API Documentation index
-	PATH:       ./docs/api/index.md
+	BRIEF:     API Documentation index
+	PATH:      ./docs/api/index.md
 	NOTE:       Entry point for per resource and endpoint API specifications.
 -->
 

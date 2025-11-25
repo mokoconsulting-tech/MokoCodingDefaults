@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       api-reference.md
-	VERSION:
-	BRIEF:      API Reference Guide
-	PATH:       ./docs/api-reference.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      api-reference.md
+	VERSION:   <VERSION>
+	BRIEF:     API Reference Guide
+	PATH:      ./docs/api-reference.md
 	-->
 
 # API Reference

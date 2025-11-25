@@ -12,9 +12,9 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
+	DEFGROUP:  <DEFGROUP>  
 	INGROUP:   Documentation
-	REPO:      
+	REPO:      <REPO>
 	FILE:      LICENSE.md
 	VERSION:   
 	BRIEF:     Project license (GPL-3.0-or-later)

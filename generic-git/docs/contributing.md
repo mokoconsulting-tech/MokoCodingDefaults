@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:
-	INGROUP:    Documentation
-	REPO:
-	FILE:       contributing.md
-	VERSION:
-	BRIEF:      Contributor Guide
-	PATH:       ./docs/contributing.md
+	DEFGROUP:  <DEFGROUP>
+	INGROUP:   Documentation
+	REPO:      <REPO>
+	FILE:      contributing.md
+	VERSION:   <VERSION>
+	BRIEF:     Contributor Guide
+	PATH:      ./docs/contributing.md
 	-->
 
 # Contributor Guide

@@ -12,9 +12,9 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
+	DEFGROUP:  <DEFGROUP>  
 	INGROUP:   Documentation
-	REPO:
+	REPO:      <REPO>
 	FILE: 		 architecture.md 
 	VERSION:   
 	BRIEF:     Architecture Guide

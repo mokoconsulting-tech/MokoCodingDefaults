@@ -16,7 +16,7 @@
  INGROUP:   Documentation
  REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
  FILE:      README.md
- VERSION:   2.1
+ VERSION:   2.2
  BRIEF:     Reference and packaging repo for the Moko Consulting coding ecosystem
  PATH:      ./README.md
  NOTE:      Central standards, scaffolds, and governance defaults for all Moko projects
@@ -171,6 +171,10 @@ After copying any scaffold (generic-git, Dolibarr, or Joomla), users must update
 
 Users must update all placeholder fields when scaffolds are applied. JSON files are excluded from header insertion.
 
+### Suggested Workflow for Bulk Updating Headers
+
+To streamline updating large documentation sets, users may perform a bulk find and replace operation using the example header block above. This accelerates alignment of all files with the required GPL and FILE INFORMATION structure across the docs suite.
+
 ## Support
 
 * Expand Dolibarr migration helpers and QA smoke-test scripts
@@ -201,8 +205,9 @@ GPL-3.0-or-later. See `LICENSE` for full text.
 
 ## Revision History
 
-| Version | Date       | Author          | Description                                       |
-| ------- | ---------- | --------------- | ------------------------------------------------- |
-| 2.1     | 2025-11-25 | Moko Consulting | Cleanup, consolidation, removal of Discovery row  |
-| 2.0     | 2025-11-25 | Moko Consulting | Full cleanup, metadata and revision history added |
-| 1.0     | 2024-XX-XX | Moko Consulting | Initial published version                         |
+| Version | Date       | Author          | Description                                                              |
+| ------- | ---------- | --------------- | ------------------------------------------------------------------------ |
+| 2.2     | 2025-11-25 | Moko Consulting | Added bulk header update suggestion |
+| 2.1     | 2025-11-25 | Moko Consulting | Cleanup, consolidation, removal of Discovery row                         |
+| 2.0     | 2025-11-25 | Moko Consulting | Full cleanup, metadata and revision history added                        |
+| 1.0     | 2024-XX-XX | Moko Consulting | Initial published version                                                |
