@@ -36,8 +36,6 @@ Related documents:
 * [Risk Register](./risk-register.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Monitoring Standards Guide defines the baseline requirements, tooling expectations, alert thresholds, and operational practices necessary to maintain full visibility across all Moko Consulting systems.
@@ -48,8 +46,6 @@ Monitoring ensures:
 * Protection of SLAs
 * Actionable alerting
 * Consistent operational behavior
-
----
 
 ## 2. Monitoring Requirements
 
@@ -84,8 +80,6 @@ Each service must track:
 * Upstream/downstream availability
 * Queue lengths
 * External API response times
-
----
 
 ## 3. Alerting Standards
 
@@ -122,8 +116,6 @@ All alerts must include:
 * Assigned team
 * Link to remediation steps
 
----
-
 ## 4. Dashboards & Visualization
 
 Dashboards must include:
@@ -139,8 +131,6 @@ Stored at:
 docs/operations/monitoring/dashboards/
 ```
 
----
-
 ## 5. Logging Requirements
 
 Logs must be:
@@ -151,8 +141,6 @@ Logs must be:
 
 Retention must follow Security Reference rules.
 
----
-
 ## 6. Synthetic Monitoring
 
 Synthetic checks must run:
@@ -162,8 +150,6 @@ Synthetic checks must run:
 * Every 15 minutes for background services
 
 Synthetic failures must immediately trigger alerts.
-
----
 
 ## 7. Escalation Policy
 
@@ -180,8 +166,6 @@ Escalation plans stored under:
 docs/operations/escalation/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -190,8 +174,6 @@ Reviewers: Operations, Security, Architecture
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

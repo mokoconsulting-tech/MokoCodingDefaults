@@ -23,15 +23,22 @@
 
 # Changelog
 
+## [2.1] - 2025-11-25
+### Updated
+ - `dolibar-default` (using sample)
+ - `/readme.md` - Clarified docs and scaaffolding
+ - `./generic-git/docs/roadmap.md`
+ - `modulebuilder.txt` to `./dolibar-default/.gitignore`
+ 
 ## [2.0] - 2025-11-23
 ### Added
- - Documentation Suite in "generic-git"
+ - Documentation Suite in `generic-git`
 
 ### Updated
  - Copyright and file information header
  - Created `doc` folder from generic-git
  - `.github` updated
- - `dolibar-default` updated (using sample)
+
  
 ### Deleted
  - Joomla PHP files

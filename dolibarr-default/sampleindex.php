@@ -1,31 +1,27 @@
 <?php
-/* Copyright (C) 2001-2005  Rodolphe Quiedeville    <rodolphe@quiedeville.org>
- * Copyright (C) 2004-2015  Laurent Destailleur     <eldy@users.sourceforge.net>
- * Copyright (C) 2005-2012  Regis Houssin           <regis.houssin@inodbox.com>
- * Copyright (C) 2015       Jean-François Ferry     <jfefe@aternatik.fr>
- * Copyright (C) 2024       Frédéric France         <frederic.france@free.fr>
- * Copyright (C) 2025		Jonathan Miller				<jmiller@mokoconsulting.tech>
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 3 of the License, or
- * (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program. If not, see <https://www.gnu.org/licenses/>.
- */
-
 /**
- *	\file       sample/sampleindex.php
- *	\ingroup    sample
- *	\brief      Home page of sample top menu
- */
+ Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
 
+ This file is part of a Moko Consulting project.
+
+ SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+
+ This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License (./LICENSE.md).
+
+ # FILE INFORMATION
+	DEFGROUP:
+	INGROUP:
+	REPO:
+	FILE:
+	VERSION:
+	BRIEF:
+	PATH:
+	NOTE:
+*/
 // Load Dolibarr environment
 $res = 0;
 // Try main.inc.php into web root known defined into CONTEXT_DOCUMENT_ROOT (not always defined)
@@ -93,14 +89,14 @@ if (!empty($user->socid) && $user->socid > 0) {
 //if ($user->socid > 0) accessforbidden();
 //if ($user->socid > 0) $socid = $user->socid;
 //if (!isModEnabled('sample')) {
-//	accessforbidden('Module not enabled');
+//  accessforbidden('Module not enabled');
 //}
 //if (! $user->hasRight('sample', 'myobject', 'read')) {
-//	accessforbidden();
+//  accessforbidden();
 //}
 //restrictedArea($user, 'sample', 0, 'sample_myobject', 'myobject', '', 'rowid');
 //if (empty($user->admin)) {
-//	accessforbidden('Must be admin');
+//  accessforbidden('Must be admin');
 //}
 
 
@@ -137,7 +133,7 @@ if (isModEnabled('sample') && $user->hasRight('sample', 'read')) {
 	$sql.= " WHERE c.fk_soc = s.rowid";
 	$sql.= " AND c.fk_statut = 0";
 	$sql.= " AND c.entity IN (".getEntity('commande').")";
-	if ($socid)	$sql.= " AND c.fk_soc = ".((int) $socid);
+	if ($socid) $sql.= " AND c.fk_soc = ".((int) $socid);
 
 	$resql = $db->query($sql);
 	if ($resql)
@@ -206,7 +202,7 @@ if (isModEnabled('sample') && $user->hasRight('sample', 'read')) {
 	$sql = "SELECT s.rowid, s.ref, s.label, s.date_creation, s.tms";
 	$sql.= " FROM ".$db->prefix()."sample_myobject as s";
 	$sql.= " WHERE s.entity IN (".getEntity($myobjectstatic->element).")";
-	//if ($socid)	$sql.= " AND s.rowid = $socid";
+	//if ($socid)   $sql.= " AND s.rowid = $socid";
 	$sql .= " ORDER BY s.tms DESC";
 	$sql .= $db->plimit($max, 0);
 

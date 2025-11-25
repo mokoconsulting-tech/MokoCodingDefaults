@@ -1,172 +1,208 @@
 <!--
-	Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
+ Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
 
-	This file is part of a Moko Consulting project.
+ This file is part of a Moko Consulting project.
 
-	SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+ SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
 
-	This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+ This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
-	This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+ This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the IMPLIED WARRANTY of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-	You should have received a copy of the GNU General Public License (./LICENSE.md).
+ You should have received a copy of the GNU General Public License (./LICENSE).
 
-	# FILE INFORMATION
-	DEFGROUP:  MokoCodingDefaults
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
-	FILE:      README.md
-	VERSION:   2.0
-	BRIEF:     Reference + packaging repo for Moko Consulting Developer GPT Other Default
-	PATH:      ./README.md
-	NOTE:      Documentation and tools for distribution; no runtime code.
-Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
-This file is part of a Moko Consulting project.
-SPDX-License-Identifier: GPL-3.0-or-later
-
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see https://www.gnu.org/licenses/.
-
-DEFGROUP: MokoCodingDefaults
-INGROUP: Defaults & Governance
-REPO: https://github.com/mokoconsulting-tech/MokoCodingDefaults
-VERSION: Development
-FILE: README.md
-PATH: /README.md
-BRIEF: Centralized coding defaults, scaffolds, and governance docs for Moko Consulting projects (Dolibarr, Joomla, WaaS, Scripts).
+ # FILE INFORMATION
+ DEFGROUP:  MokoCodingDefaults
+ INGROUP:   Documentation
+ REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
+ FILE:      README.md
+ VERSION:   2.1
+ BRIEF:     Reference and packaging repo for the Moko Consulting coding ecosystem
+ PATH:      ./README.md
+ NOTE:      Central standards, scaffolds, and governance defaults for all Moko projects
 -->
 
 # MokoCodingDefaults
 
-Badges: [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Status](https://img.shields.io/badge/status-active-brightgreen)
+Badges:
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ## Introduction
 
-**MokoCodingDefaults** is the single source of truth for Moko Consulting's coding defaults, repo governance, and project scaffolding. It includes headers, templates, CI policies, contribution norms, and language/UX accessibility expectations used across Dolibarr, Joomla, and related projects.
+## Summary
 
-> **Note:** This repository is intended to be referenced and reused across projects. Do not copy folder layouts here into downstream READMEs; keep structure details inside agent plans and contributor docs.
+This repository provides the central governance, coding standards, scaffolding frameworks, and compliance defaults used across all Moko Consulting engineering initiatives. It acts as the authoritative source for headers, metadata formats, development workflows, CI integration, accessibility requirements, and module registries.
+
+## Documentation Links
+
+The full documentation suite is available within the `docs/` directory of this repository. Key documents include:
+
+* [Documentation Index](./docs/docs-index.md)
+* [Architecture Guide](./docs/docs-architecture.md)
+* [Data Model Guide](./docs/docs-data-model.md)
+* [Integrations Guide](./docs/docs-integrations.md)
+* [Testing Guide](./docs/docs-testing.md)
+* [Operations Guide](./docs/docs-operations.md)
+* [Change Management Guide](./docs/docs-change-management.md)
+* [Risk Register](./docs/docs-risk-register.md)
+* [Compliance Guide](./docs/docs-compliance.md)
+* [Governance Guide](./docs/docs-governance.md)
+* [Security Guide](./docs/docs-security.md)
+* [API Reference](./docs/docs-api-reference.md)
+* [Runbooks](./docs/docs-runbooks.md)
+
+Additional directories include ADRs, diagrams, templates, and workflows.
+
+MokoCodingDefaults serves as the authoritative reference for development standards across all Moko Consulting repositories. It centralizes coding conventions, governance rules, scaffolds, templates, CI policies, accessibility requirements, and module registries for Dolibarr, Joomla, and supporting ecosystems.
+This repository is not a runtime codebase; it provides reusable standards intended to be applied across projects through submodules, overlays, or CI import.
 
 ## Features
 
-* Smart copyright header blocks with SPDX (`GPL-3.0-or-later`) and `REPO:` line
-* Standardized CI/CD defaults and quality gates
-* Editor & linting presets (EditorConfig, ESLint, Prettier, PHP-CS-Fixer)
-* Issue/PR templates, labels, and release checklists
-* Accessibility quick‑pass checklist (WCAG 2.1 AA)
-* Security hygiene: CODEOWNERS, Dependabot, reserved secret prefixes
-* **Dolibarr module numero registry** (see below)
+* SPDX compliant headers with full metadata blocks
+* Unified CI and quality gating patterns
+* Editor configuration suites (EditorConfig, ESLint, Prettier, PHP-CS-Fixer)
+* GitHub issue templates, PR templates, labels, and governance patterns
+* Security hygiene standards, including CODEOWNERS and secret-prefix policy
+* WCAG 2.1 AA accessibility quick-pass checklist
+* Dolibarr module number registry (185050 through 185099)
 
-## Install / Use
+## Install and Use
 
-You can consume these defaults in any project via one (or more) of the following patterns:
+Recommended consumption methods:
 
-1. **Submodule (recommended)**
+### Submodule (preferred)
 
-	```bash
-	git submodule add https://github.com/mokoconsulting-tech/MokoCodingDefaults .moko/defaults
-	git submodule update --init --recursive
-	```
-2. **Remote‑include via CI** (pull into your pipeline before lint/test):
+```bash
+git submodule add https://github.com/mokoconsulting-tech/MokoCodingDefaults .moko/defaults
+git submodule update --init --recursive
+```
 
-	```bash
-	curl -fsSL https://raw.githubusercontent.com/mokoconsulting-tech/MokoCodingDefaults/main/.editorconfig -o .editorconfig
-	```
-3. **Scaffold** new projects using the overlays described below.
+### Remote include via CI
 
-> Keep source of truth here; downstream repos may override with a project‑specific `.moko.local/` layer if needed.
+```bash
+curl -fsSL https://raw.githubusercontent.com/mokoconsulting-tech/MokoCodingDefaults/main/.editorconfig -o .editorconfig
+```
 
-## Configuration
+### Scaffold new projects
 
+Use the scaffolds in this repository to bootstrap Dolibarr modules, Joomla templates, plugins, or generic Git projects.
+Downstream repos may override standards through `.moko.local/`.
 
-1. **Submodule (recommended)**
+## Configuration Standards
 
-	```bash
-	git submodule add https://github.com/mokoconsulting-tech/MokoCodingDefaults .moko/defaults
-	git submodule update --init --recursive
-	```
-2. **Remote‑include via CI** (pull into your pipeline before lint/test):
+* Code style and linting patterns must be adopted as defined unless exceptions are documented in `.moko.local/`.
+* Git governance: protected `main` branch, required `dev` branch for all feature work, squash merges, required review, Conventional Commits.
+* Feature development must target the `dev` branch; direct commits to `main` are prohibited except for release automation.
+* Localization: provide both en_US and en_GB variants for user-facing strings.
+* Accessibility: apply WCAG checklist during PR review.
+* Headers: include SPDX and metadata in all files except JSON.
 
-	```bash
-	curl -fsSL https://raw.githubusercontent.com/mokoconsulting-tech/MokoCodingDefaults/main/.editorconfig -o .editorconfig
-	```
-3. **Scaffold** new projects using the overlays described below.
+## Usage Guidelines
 
-> Keep source of truth here; downstream repos may override with a project‑specific `.moko.local/` layer if needed.
+* Sync `FILE INFORMATION` with changelog entries during releases.
+* Apply standardized commit messages and PR checks.
+* Maintain consistency with semantic versioning across all projects.
 
-## Configuration
+## Overlays and Scaffolds
 
-* **EditorConfig / ESLint / Prettier / PHP-CS-Fixer**: adopt as‑is; adjust only in `.moko.local/` where strictly necessary.
-* **Git**: protected `main`; Conventional Commits; squash merges; PRs require passing checks + 1 review.
-* **Localization**: Provide en\_US and en\_GB strings for user‑facing text by default.
+Apply in this order. After installing `generic-git`, the user must choose **either** the Dolibarr scaffold **or** the Joomla scaffold family. These paths are mutually exclusive and should not be combined. Dolibarr and Joomla defaults overwrite generic-git where definitions conflict:
 
-## Usage
+1. **generic-git**
+   Baseline repo structure, issue templates, PR templates, labels, CI, and security defaults. Serves as the foundation layer.
 
-* Include headers in all files (skip JSON).
-	- Sync `FILE INFORMATION` with your project changelog on release.
-* Apply accessibility checklist during PR review.
+2. **dolibarr-default**
+   Overrides generic‑git when Dolibarr standards differ. Provides Dolibarr-specific skeletons, rights management templates, language keys, idempotent SQL migrations, and Dolibarr constants patterns.
 
-## Overlays & Scaffolds
-Use scaffolds in order (i.e `generic-git` -> `dolibarr-default`)
-1. `generic-git` — baseline repo hygiene: issue/PR templates, labels, CI, security.
-	a. `dolibarr-default` — module skeleton, language keys, rights template, migrations (idempotent; `INSERT IGNORE` for `llx_const`).
-	b. `joomla-template-default` — Template scaffold with tokens and dark‑mode variables.
-	c. `joomla-plugin-default` — plugin scaffold with manifest + language files.
+3. **joomla-template-default**
+   Overrides generic‑git for template‑specific rules. Includes Cassiopeia‑based scaffolding, variable tokens, layout guidelines, and accessibility alignment.
 
-* Sync `VERSION` with your project changelog on release.
-* Add `REPO:` line once a repository URL is known.
-* Apply accessibility checklist during PR review.
+4. **joomla-plugin-default**
+   Overrides generic‑git for plugin‑specific behaviors. Includes manifest boilerplate, event hooks, language files, and lifecycle scripts.
 
-## Dolibarr Module Numero Registry
+## Dolibarr Module Number Registry
 
-Reserved block for Moko Consulting modules: **185050–185099**.
+Reserved range: **185050–185099**
 
-| Numero | Module             | Status              | Notes               |
-| -----: | ------------------ | ------------------- | ------------------- |
-| 185051 | MokoDoliTools      | Production          | |
-| 185052 | MokoDoliSign       | Development         | |
-| 185053 | MokoDoliForm       | Development         | |
+| Numero | Module        | Status      | Notes |
+| -----: | ------------- | ----------- | ----- |
+| 185051 | MokoDoliTools | Production  |       |
+| 185052 | MokoDoliSign  | Development |       |
+| 185053 | MokoDoliForm  | Development |       |
 
-> **Rule:** Reserve a numero **before** coding a new Dolibarr module. Update this table and the standards document accordingly.
-
-| 185054 | MokoDoliDiscovery  | Development         | |
-
-> **Rule:** Reserve a numero **before** coding a new Dolibarr module. Update this table and the standards document accordingly.
-
-## Overlays & Scaffolds
-
-* `dolibarr-default` — module skeleton, language keys, rights template, migrations (idempotent; `INSERT IGNORE` for `llx_const`).
-* `joomla-template-default` — Cassiopeia‑based template scaffold with tokens and dark‑mode variables.
-* `joomla-plugin-default` — plugin scaffold with manifest + language files.
-* `generic-git` — baseline repo hygiene: issue/PR templates, labels, CI, security.
+Rule: reserve a module number before development begins.
 
 ## Roadmap
 
-* Expand Dolibarr migration helpers and QA smoke scripts
-* Add Playwright visual‑regression harness examples
-* Provide GitHub Actions matrices for PHP 8.1–8.3 and Node LTS
+* Expand Dolibarr migration helpers and QA smoke-test scripts
+* Add Playwright visual regression support
+* Add GitHub Actions matrices for PHP 8.1 through 8.3 and Node LTS
+* Expand accessibility and localization templates
+
+## Header Requirements After Scaffolding
+
+After copying any scaffold (generic-git, Dolibarr, or Joomla), users must update all file headers to match the established Moko Consulting header specification. Each file must include the full GPL block followed by the FILE INFORMATION block in this format:
+
+```
+<!--
+ Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
+
+ This file is part of a Moko Consulting project.
+
+ SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+
+ This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the IMPLIED WARRANTY of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License (./LICENSE.md).
+
+ # FILE INFORMATION
+ DEFGROUP:  <ProjectGroup>
+ INGROUP:   <Subgroup>
+ REPO:      <RepositoryURL>
+ FILE:      <Filename>
+ VERSION:   <Version>
+ BRIEF:     <ShortDescription>
+ PATH:      <RelativePath>
+ NOTE:      <OptionalNotes>
+-->
+```
+
+Users must update all placeholder fields when scaffolds are applied. JSON files are excluded from header insertion.
 
 ## Support
 
-* Documentation & help desk: [https://mokoconsulting.tech/support](https://mokoconsulting.tech/support)
-* Security: security reports via private contact in SECURITY.md
+* Expand Dolibarr migration helpers and QA smoke-test scripts
+* Add Playwright visual regression support
+* Add GitHub Actions matrices for PHP 8.1 through 8.3 and Node LTS
+* Expand accessibility and localization templates
+
+## Support
+
+* Documentation and help desk: [https://mokoconsulting.tech/support](https://mokoconsulting.tech/support)
+* Security reporting: see `SECURITY.md` for private contact route
 * General inquiries: [hello@mokoconsulting.tech](mailto:hello@mokoconsulting.tech)
 
 ## License
 
-GPL-3.0-or-later. See `LICENSE.md`.
-* Documentation & help desk: [https://mokoconsulting.tech/support/waas](https://mokoconsulting.tech/support/waas)
-* Security: security reports via private contact in SECURITY.md
-* General inquiries: [dev@mokoconsulting.tech](mailto:dev@mokoconsulting.tech)
+GPL-3.0-or-later. See `LICENSE` for full text.
 
-## License
+---
 
-GPL-3.0-or-later. See `LICENSE`.
+## Metadata
+
+* Maintainer: Moko Consulting Engineering
+* Repository: [https://github.com/mokoconsulting-tech/MokoCodingDefaults](https://github.com/mokoconsulting-tech/MokoCodingDefaults)
+* File: README.md
+* Version: 2.1
+* Classification: Public Open Source Standards
+* Compliance Scope: All Moko Consulting repositories
+
+## Revision History
+
+| Version | Date       | Author          | Description                                       |
+| ------- | ---------- | --------------- | ------------------------------------------------- |
+| 2.1     | 2025-11-25 | Moko Consulting | Cleanup, consolidation, removal of Discovery row  |
+| 2.0     | 2025-11-25 | Moko Consulting | Full cleanup, metadata and revision history added |
+| 1.0     | 2024-XX-XX | Moko Consulting | Initial published version                         |

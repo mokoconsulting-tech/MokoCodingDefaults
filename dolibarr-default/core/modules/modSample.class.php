@@ -1,32 +1,27 @@
 <?php
-/* Copyright (C) 2004-2018	Laurent Destailleur			<eldy@users.sourceforge.net>
-	* Copyright (C) 2018-2019	Nicolas ZABOURI				<info@inovea-conseil.com>
-	* Copyright (C) 2019-2024	Frédéric France				<frederic.france@free.fr>
-	* Copyright (C) 2025		Jonathan Miller				<jmiller@mokoconsulting.tech>
-	*
-	* This program is free software; you can redistribute it and/or modify
-	* it under the terms of the GNU General Public License as published by
-	* the Free Software Foundation; either version 3 of the License, or
-	* (at your option) any later version.
-	*
-	* This program is distributed in the hope that it will be useful,
-	* but WITHOUT ANY WARRANTY; without even the implied warranty of
-	* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-	* GNU General Public License for more details.
-	*
-	* You should have received a copy of the GNU General Public License
-	* along with this program. If not, see <https://www.gnu.org/licenses/>.
-	*/
-
 /**
-	* 	\defgroup   sample     Module Sample
-	*  \brief      Sample module descriptor.
-	*
-	*  \file       htdocs/sample/core/modules/modSample.class.php
-	*  \ingroup    sample
-	*  \brief      Description and activation file for module Sample
-	*/
-include_once DOL_DOCUMENT_ROOT.'/core/modules/DolibarrModules.class.php';
+ Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
+
+ This file is part of a Moko Consulting project.
+
+ SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+
+ This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License (./LICENSE.md).
+
+ # FILE INFORMATION
+	DEFGROUP:
+	INGROUP:
+	REPO:
+	FILE:
+	VERSION:
+	BRIEF:
+	PATH:
+	NOTE:
+*/include_once DOL_DOCUMENT_ROOT.'/core/modules/DolibarrModules.class.php';
 
 
 /**

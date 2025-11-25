@@ -37,13 +37,9 @@ Related documents:
  [API Reference](./api-reference.md)
  [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Architecture Guide defines the platform’s structural design, domain boundaries, communication patterns, and long‑term technical direction. It ensures consistency, scalability, and maintainability across all systems.
-
----
 
 ## 2. Architectural Principles
 
@@ -67,8 +63,6 @@ New features and integrations must be addable without major redesign.
 
 All components emit logs, metrics, and traces.
 
----
-
 ## 3. System Overview
 
 The platform is composed of the following core layers:
@@ -84,8 +78,6 @@ System-level diagrams belong in:
 ```
 diagrams/architecture/
 ```
-
----
 
 ## 4. Component Breakdown
 
@@ -119,8 +111,6 @@ diagrams/architecture/
  Deployment automation
  Monitoring and alerting
 
----
-
 ## 5. Data Flow
 
 Typical flow:
@@ -137,8 +127,6 @@ Data flow diagrams stored under:
 diagrams/events/
 ```
 
----
-
 ## 6. Security Architecture
 
 Core requirements:
@@ -151,8 +139,6 @@ Core requirements:
 
 For full details, see the Security Guide.
 
----
-
 ## 7. Scalability & Performance
 
 Architectural expectations:
@@ -163,8 +149,6 @@ Architectural expectations:
  Async queue-based workflows
  Load balancing + rate limiting
 
----
-
 ## 8. Observability
 
 Every system must expose:
@@ -173,8 +157,6 @@ Every system must expose:
  Health endpoints
  Metrics (latency, error rate, resource usage)
  Distributed tracing
-
----
 
 ## 9. Architecture Decision Records (ADRs)
 
@@ -190,8 +172,6 @@ ADR template:
 
  [ADR Template](./template-adr.md)
 
----
-
 ## 10. Related Documents
 
  [Documentation Index](./index.md)
@@ -201,8 +181,6 @@ ADR template:
  [API Reference](./api-reference.md)
  [Templates Index](./templates/index.md)
 
----
-
 ## Metadata
 
 ```
@@ -211,8 +189,6 @@ Reviewers: Core Maintainers
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

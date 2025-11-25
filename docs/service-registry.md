@@ -36,15 +36,11 @@ Related documents:
 * [Security Reference](./security-reference.md)
 * [Risk Register](./risk-register.md)
 
----
-
 ## 1. Purpose
 
 The Service Registry is the authoritative catalog of all systems, services, components, dependencies, and operational attributes across the organization.
 
 It ensures that every service is documented, monitored, secured, and properly classified.
-
----
 
 ## 2. Required Fields
 
@@ -62,8 +58,6 @@ Every service entry must include:
 * **Alerting Rules**
 * **Backup Requirements**
 * **Data Classification Level**
-
----
 
 ## 3. Service Tier Definitions
 
@@ -85,8 +79,6 @@ Every service entry must include:
 
 * Experimental or low-dependency systems
 
----
-
 ## 4. Dependency Mapping
 
 All services must document:
@@ -102,8 +94,6 @@ Dependency diagrams must be stored under:
 docs/diagrams/dependencies/
 ```
 
----
-
 ## 5. Monitoring & Alerting Requirements
 
 Monitoring rules for each service must include:
@@ -118,8 +108,6 @@ Alert rules stored under:
 docs/operations/monitoring/alerts/
 ```
 
----
-
 ## 6. Backup & Data Requirements
 
 Each service must specify:
@@ -129,8 +117,6 @@ Each service must specify:
 * Storage location
 * Encryption requirements
 * Restoration validation timeline
-
----
 
 ## 7. Registry Format
 
@@ -146,8 +132,6 @@ Each service file must follow the template stored at:
 docs/templates/services/service-template.md
 ```
 
----
-
 ## Metadata
 
 ```
@@ -156,8 +140,6 @@ Reviewers: Architecture, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

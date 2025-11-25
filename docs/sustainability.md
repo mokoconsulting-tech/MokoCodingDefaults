@@ -36,15 +36,11 @@ Related documents:
 * [Risk Register](./risk-register.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Sustainability & Resource Management Guide defines the principles, strategies, and processes required to ensure that infrastructure, development workflows, and operational practices remain efficient, cost‑effective, environmentally conscious, and maintainable over long-term operation.
 
 This includes resource planning, waste reduction, cloud resource governance, and cost optimization.
-
----
 
 ## 2. Sustainability Principles
 
@@ -68,8 +64,6 @@ Where possible, optimize:
 * Hardware refresh cycles
 * Cooling and physical infrastructure impact
 
----
-
 ## 3. Cloud Resource Governance
 
 Teams must manage cloud resource usage to avoid orphaned workloads, unmanaged spend, and security gaps.
@@ -87,8 +81,6 @@ Resource reports stored under:
 docs/sustainability/reports/
 ```
 
----
-
 ## 4. Cost Optimization
 
 Teams must:
@@ -104,8 +96,6 @@ Cost analysis stored under:
 docs/sustainability/cost-analysis/
 ```
 
----
-
 ## 5. Waste Reduction
 
 Waste reduction includes:
@@ -114,8 +104,6 @@ Waste reduction includes:
 * Removing unused accounts
 * Deleting stale backups
 * Eliminating unnecessary data retention
-
----
 
 ## 6. Capacity & Scaling Strategy
 
@@ -132,8 +120,6 @@ Scaling plans stored under:
 docs/sustainability/scaling/
 ```
 
----
-
 ## 7. Review Cycles
 
 Sustainability reviews must occur:
@@ -141,8 +127,6 @@ Sustainability reviews must occur:
 * Quarterly
 * After major infrastructure upgrades
 * During annual budgeting
-
----
 
 ## Metadata
 
@@ -152,8 +136,6 @@ Reviewers: Operations, Governance
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

@@ -37,15 +37,11 @@ Related documents:
 * [Governance Guide](./governance.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 This document defines the official versioning rules and branching strategy used across all Moko Consulting repositories and downstream projects.
 
 It ensures consistency, predictability, and traceability across releases and development workflows.
-
----
 
 ## 2. Versioning Standards
 
@@ -86,8 +82,6 @@ Release notes belong in:
 ```
 docs/releases/
 ```
-
----
 
 ## 3. Branching Strategy
 
@@ -131,8 +125,6 @@ Prepare for production releases.
 release/<version>
 ```
 
----
-
 ## 4. Branch Protections
 
 The **main** and **develop** branches must be protected.
@@ -144,8 +136,6 @@ Requirements:
 * Code owner approval
 * No direct commits allowed
 
----
-
 ## 5. Release Process
 
 1. Create release branch
@@ -155,8 +145,6 @@ Requirements:
 5. Tag release
 6. Merge back into **develop**
 7. Publish release notes
-
----
 
 ## 6. Naming Conventions
 
@@ -172,8 +160,6 @@ bugfix/fix-session-timeout
 release/0.0.1
 ```
 
----
-
 ## Metadata
 
 ```
@@ -182,8 +168,6 @@ Reviewers: Architecture, Governance
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

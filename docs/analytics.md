@@ -35,15 +35,11 @@ Related documents:
 * [Monitoring Standards](./monitoring.md) *(not yet created)*
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 This guide defines the standards, tools, and processes for analytics, metrics, dashboards, logs, traces, and performance monitoring across all Moko Consulting systems.
 
 It ensures observability is reliable, consistent, and actionable.
-
----
 
 ## 2. Analytics Framework
 
@@ -61,8 +57,6 @@ Analytics systems must capture:
 * Use standardized telemetry libraries
 * Tag metrics consistently
 * Include context identifiers (request ID, user ID)
-
----
 
 ## 3. Observability Components
 
@@ -89,8 +83,6 @@ Distributed tracing required for:
 * Critical transactions
 * Performance diagnostics
 
----
-
 ## 4. Dashboards
 
 Dashboards must include:
@@ -105,8 +97,6 @@ Dashboards stored under:
 ```
 docs/operations/monitoring/dashboards/
 ```
-
----
 
 ## 5. Alerts
 
@@ -123,8 +113,6 @@ High‑severity alerts must include:
 * Assigned team
 * Suggested remediation steps
 
----
-
 ## 6. Reporting
 
 Weekly analytics reports must include:
@@ -140,8 +128,6 @@ Reports stored at:
 docs/analytics/reports/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -150,8 +136,6 @@ Reviewers: Operations, Architecture, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

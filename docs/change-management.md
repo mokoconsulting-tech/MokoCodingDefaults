@@ -38,8 +38,6 @@ Related documents:
  [Risk Register](./risk-register.md)
  [Templates Index](./templates/index.md)
 
----
-
 ## 1. Overview
 
 The Change Management Guide establishes the formal process for proposing, assessing, approving, implementing, and reviewing changes to the system. The goal is to ensure stability, traceability, compliance, and predictable impact.
@@ -52,8 +50,6 @@ Change Management applies to:
  Security policies
  Integrations
  Documentation updates
-
----
 
 ## 2. Change Types
 
@@ -75,8 +71,6 @@ Changes must be classified into one of the following categories:
 
  Required to fix a production outage or critical security issue
  May bypass normal approval but require expedited review afterward
-
----
 
 ## 3. Change Workflow
 
@@ -108,8 +102,6 @@ All changes must follow the end-to-end workflow:
  Completed via Post Implementation Review (PIR)
  Any issues or follow-up actions documented
 
----
-
 ## 4. Change Approval Board (CAB)
 
 The CAB is responsible for reviewing changes and providing governance.
@@ -133,8 +125,6 @@ The CAB is responsible for reviewing changes and providing governance.
  Weekly review for normal changes
  Ad hoc sessions for urgent or emergency changes
 
----
-
 ## 5. Documentation Requirements
 
 Each change must be accompanied by:
@@ -151,8 +141,6 @@ Templates referenced:
  Testing -> Runbook Template
  Backout plan -> Deployment Plan Template
 
----
-
 ## 6. Post Implementation Review (PIR)
 
 After deployment, a PIR must be completed.
@@ -165,8 +153,6 @@ The PIR should document:
  Required follow-up or corrective actions
  Updates to documentation, Runbooks, or templates
 
----
-
 ## Metadata
 
 ```
@@ -175,8 +161,6 @@ Reviewers: Core Maintainers
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

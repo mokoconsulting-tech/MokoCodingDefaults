@@ -36,8 +36,6 @@ Related documents:
 * [Security Reference](./security-reference.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Maintenance & Lifecycle Management Guide defines the policies and procedures required to maintain operational health, perform upgrades, decommission systems, and ensure long-term sustainability of all infrastructure and applications.
@@ -48,8 +46,6 @@ It ensures:
 * Proper patch management
 * Secure decommissioning
 * Planned lifecycle transitions
-
----
 
 ## 2. Maintenance Categories
 
@@ -82,8 +78,6 @@ Improvements to:
 * Reliability
 * Scalability
 
----
-
 ## 3. Patch Management
 
 Patch cycles must include:
@@ -99,8 +93,6 @@ Patch logs stored under:
 docs/maintenance/patches/
 ```
 
----
-
 ## 4. Upgrade Strategy
 
 Upgrades must include:
@@ -115,8 +107,6 @@ Upgrade documents stored in:
 ```
 docs/maintenance/upgrades/
 ```
-
----
 
 ## 5. Decommissioning
 
@@ -134,8 +124,6 @@ Decommission plans stored in:
 docs/operations/decommissioning/
 ```
 
----
-
 ## 6. Capacity & Performance Planning
 
 Teams must:
@@ -151,8 +139,6 @@ Capacity reports stored under:
 docs/maintenance/capacity/
 ```
 
----
-
 ## 7. Review Cycles
 
 Maintenance and lifecycle documents must be reviewed:
@@ -160,8 +146,6 @@ Maintenance and lifecycle documents must be reviewed:
 * Quarterly for active systems
 * Annually for lower-tier systems
 * After major incidents
-
----
 
 ## Metadata
 
@@ -171,8 +155,6 @@ Reviewers: Architecture, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

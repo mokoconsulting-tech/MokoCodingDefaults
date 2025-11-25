@@ -36,8 +36,6 @@ Related documents:
 * [Governance Guide](./governance.md)
 * [Risk Register](./risk-register.md)
 
----
-
 # 1. Purpose
 
 This master overview provides:
@@ -48,8 +46,6 @@ This master overview provides:
 * A reference map showing how each document fits into the system
 
 It acts as the **root documentation hub** for engineering, operations, governance, QA, integrations, and compliance.
-
----
 
 # 2. Project Summary
 
@@ -62,16 +58,12 @@ Describe the purpose of the platform:
 
 Include a clear narrative explaining the system’s mission and design philosophy.
 
----
-
 # 3. Objectives
 
 * Primary project goals
 * Secondary and supporting goals
 * Key business outcomes
 * Metrics for success
-
----
 
 # 4. Strategic Alignment
 
@@ -81,8 +73,6 @@ Explain how this project supports organizational priorities:
 * Governance and compliance maturity
 * Automation and digital transformation
 * Scalability and long‑term sustainability
-
----
 
 # 5. System Overview
 
@@ -96,8 +86,6 @@ Provide a summary of system components:
 
 This section orients the reader before diving into deep‑dive documents.
 
----
-
 # 6. Technical Overview
 
 This section provides a high‑level bridge into technical architecture, without duplicating the full documentation index.
@@ -109,8 +97,6 @@ Include:
 * Data flow summary
 * High‑level API surface description
 * Integration points
-
----
 
 # 7. Deep Overview of Applicable Code
 
@@ -125,8 +111,6 @@ This section explains how documentation relates to real source code:
 * Module ownership
 
 Use this as the bridge between documentation and implementation.
-
----
 
 # 8. Roles & Ownership Overview
 
@@ -143,8 +127,6 @@ Use this as the bridge between documentation and implementation.
 
 Each document includes metadata indicating its owner and reviewers.
 
----
-
 # Metadata
 
 ```
@@ -153,8 +135,6 @@ Reviewers: Architecture, Operations
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 # Revision History
 
