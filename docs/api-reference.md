@@ -37,15 +37,11 @@ Related documents:
 * [Testing Guide](./testing.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The API Reference defines all public and internal API endpoints, request/response contracts, authentication requirements, and error structures.
 
 This serves as the authoritative source for all client and service integrations.
-
----
 
 ## 2. Authentication
 
@@ -60,8 +56,6 @@ Requests without proper authentication must return:
 ```
 401 Unauthorized
 ```
-
----
 
 ## 3. Conventions
 
@@ -87,8 +81,6 @@ All responses must include:
 }
 ```
 
----
-
 ## 4. Error Handling
 
 Errors must follow a consistent structure:
@@ -112,8 +104,6 @@ Common codes:
 * `CONFLICT`
 * `INTERNAL_ERROR`
 
----
-
 ## 5. Endpoint Structure
 
 Each endpoint section must include:
@@ -132,8 +122,6 @@ Templates stored under:
 docs/templates/api/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -142,8 +130,6 @@ Reviewers: Architecture, Integrations, QA
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

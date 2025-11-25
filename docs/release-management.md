@@ -36,8 +36,6 @@ Related documents:
 * [Operations Guide](./operations.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Release Management Guide defines the structure, controls, processes, and documentation required to safely and predictably deliver software releases across all environments.
@@ -49,8 +47,6 @@ It ensures releases are:
 * Low-risk
 * Properly communicated
 * Fully documented
-
----
 
 ## 2. Release Types
 
@@ -67,8 +63,6 @@ Must follow expedited approvals.
 
 Significant changes including new systems, major features, or breaking changes.
 Requires full CAB review.
-
----
 
 ## 3. Release Requirements
 
@@ -87,8 +81,6 @@ Release documentation stored at:
 docs/releases/
 ```
 
----
-
 ## 4. Release Workflow
 
 1. **Plan** the release
@@ -100,8 +92,6 @@ docs/releases/
 7. **Validate** the release in production
 8. **Log** results
 9. **Merge back** into main and develop
-
----
 
 ## 5. Release Notes
 
@@ -120,8 +110,6 @@ Template location:
 docs/templates/releases/release-notes-template.md
 ```
 
----
-
 ## 6. Stakeholders
 
 Release management involves:
@@ -134,8 +122,6 @@ Release management involves:
 
 Stakeholders must approve according to the Change Management Guide.
 
----
-
 ## 7. Post-Release Tasks
 
 Post-release tasks include:
@@ -146,8 +132,6 @@ Post-release tasks include:
 * Updating system inventory
 * Adding follow-up tickets as needed
 
----
-
 ## Metadata
 
 ```
@@ -156,8 +140,6 @@ Reviewers: Operations, QA, Product
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

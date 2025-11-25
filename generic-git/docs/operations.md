@@ -37,15 +37,11 @@ Related documents:
 * [Runbooks](./runbooks.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Operations Guide defines the processes, standards, and tooling used to run, maintain, and support the platform in a reliable, observable, and secure manner.
 
 This guide supports engineering, devops, governance, and on-call responders.
-
----
 
 ## 2. Service Management
 
@@ -70,8 +66,6 @@ Service registry stored in:
 docs/operations/service-registry/
 ```
 
----
-
 ## 3. Monitoring & Alerting
 
 Monitoring must include:
@@ -94,8 +88,6 @@ Alerts must:
 * Contain clear instructions
 * Link to relevant runbooks
 
----
-
 ## 4. On-Call Procedures
 
 On‑call responders must:
@@ -110,8 +102,6 @@ On‑call documentation stored in:
 ```
 docs/runbooks/
 ```
-
----
 
 ## 5. Incident Management
 
@@ -130,8 +120,6 @@ Incident templates stored under:
 docs/incidents/
 ```
 
----
-
 ## 6. Deployments & Release Management
 
 Deployment requirements:
@@ -147,8 +135,6 @@ Release notes stored in:
 docs/releases/
 ```
 
----
-
 ## 7. Backups & Disaster Recovery
 
 Backups must:
@@ -163,8 +149,6 @@ Disaster recovery plans stored under:
 docs/operations/disaster-recovery/
 ```
 
----
-
 ## 8. Maintenance Windows
 
 Maintenance must be:
@@ -174,8 +158,6 @@ Maintenance must be:
 * Logged and documented
 * Completed with verification testing
 
----
-
 ## Metadata
 
 ```
@@ -184,8 +166,6 @@ Reviewers: DevOps, Architecture, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

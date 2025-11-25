@@ -36,8 +36,6 @@ Related documents:
 * [Disaster Recovery](./disaster-recovery.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Runbooks Guide defines how to write, store, maintain, and execute runbooks for operational, security, and emergency procedures.
@@ -48,8 +46,6 @@ Runbooks ensure:
 * Safety
 * Auditability
 * Rapid response during incidents
-
----
 
 ## 2. Runbook Structure
 
@@ -70,8 +66,6 @@ Template stored under:
 docs/templates/runbooks/
 ```
 
----
-
 ## 3. Runbook Categories
 
 ### 3.1 Operational Runbooks
@@ -85,8 +79,6 @@ Incident response, credential rotation, log retrieval.
 ### 3.3 Disaster Recovery Runbooks
 
 Backup restoration, failover procedures, regional outage response.
-
----
 
 ## 4. Runbook Storage
 
@@ -110,8 +102,6 @@ Runbooks must:
 * Be reviewed annually
 * Include metadata + approval chain
 
----
-
 ## 5. Execution Requirements
 
 Execution must include:
@@ -127,8 +117,6 @@ Each execution must result in a **Runbook Execution Record** stored in:
 docs/runbooks/execution-records/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -137,8 +125,6 @@ Reviewers: DevOps, Security
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

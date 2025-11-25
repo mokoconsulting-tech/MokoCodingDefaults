@@ -36,13 +36,9 @@ Related documents:
 * [Security Guide](./security.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Integrations Guide defines how the platform communicates with external services, APIs, and systems. It ensures that integrations remain stable, secure, maintainable, and testable.
-
----
 
 ## 2. Integration Types
 
@@ -72,8 +68,6 @@ The Integrations Guide defines how the platform communicates with external servi
 * Wrapper abstractions
 * Security considerations
 
----
-
 ## 3. Integration Architecture
 
 Integrations must:
@@ -89,8 +83,6 @@ System diagrams stored under:
 diagrams/integrations/
 ```
 
----
-
 ## 4. Security Considerations
 
 All integrations must comply with:
@@ -101,8 +93,6 @@ All integrations must comply with:
 * Secret vault usage
 
 See the Security Guide for details.
-
----
 
 ## 5. Testing Integrations
 
@@ -120,8 +110,6 @@ Testing templates stored in:
 docs/templates/testing/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -130,8 +118,6 @@ Reviewers: Architecture, Security, QA
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

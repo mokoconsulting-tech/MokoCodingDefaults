@@ -36,15 +36,11 @@ Related documents:
 * [Operations Guide](./operations.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Onboarding Guide provides new team members with the knowledge, tools, and processes needed to become productive, confident contributors to the platform and its operations.
 
 This guide applies to engineers, designers, contractors, and operational staff.
-
----
 
 ## 2. Getting Started
 
@@ -67,8 +63,6 @@ Install and configure:
 * Docker (if applicable)
 * Access to internal dashboards
 
----
-
 ## 3. Orientation
 
 ### 3.1 Platform Overview
@@ -89,8 +83,6 @@ New contributors must read:
 * Security Guide
 * Operations Guide
 
----
-
 ## 4. First Tasks
 
 New team members complete:
@@ -101,8 +93,6 @@ New team members complete:
 * Submit a small documentation update PR
 
 These tasks validate access, tooling, and process understanding.
-
----
 
 ## 5. Training & Expectations
 
@@ -130,8 +120,6 @@ New members must complete basic training covering:
 * Data handling
 * Incident reporting
 
----
-
 ## Metadata
 
 ```
@@ -140,8 +128,6 @@ Reviewers: Governance, Architecture, Operations
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

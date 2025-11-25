@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleSampleName'
+ModuleSampleName = Sample
+# Module description 'ModuleSampleDesc'
+ModuleSampleDesc = Sample description
+
+#
+# Admin page
+#
+SampleSetup = Sample setup
+Settings = Settings
+SampleSetupPage = Sample setup page
+NewSection=New section
+SAMPLE_MYPARAM1 = My param 1
+SAMPLE_MYPARAM1Tooltip = My param 1 tooltip
+SAMPLE_MYPARAM2=My param 2
+SAMPLE_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+SampleAbout = About Sample
+SampleAboutPage = Sample about page
+
+#
+# Sample page
+#
+SampleArea = Home Sample
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description

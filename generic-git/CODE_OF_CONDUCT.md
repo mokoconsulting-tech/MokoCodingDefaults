@@ -87,6 +87,4 @@ This Code of Conduct is inspired by widely adopted community guidelines, includi
  [Contributor Guide](./docs-contributing.md)
  [Documentation Index](./docs-index.md)
 
----
-
 This Code of Conduct is a living document and may be updated following the established Change Management process.

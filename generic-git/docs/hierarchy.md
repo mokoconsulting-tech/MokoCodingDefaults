@@ -171,8 +171,6 @@ Automation defaults applied to this hierarchy:
 
 This hierarchy is expected to evolve only through governance-approved changes.
 
----
-
 ## Diagram Ownership (Roles)
 
 Diagram domains map to the same owners as their parent documents.
@@ -186,8 +184,6 @@ Current role assignment status:
 * **Dependency diagrams:** Architecture Lead (assigned), domain leads TBD
 * **Event/data-flow diagrams:** Architecture Lead (assigned), domain leads TBD
 
----
-
 ## Metadata
 
 ```
@@ -196,8 +192,6 @@ Reviewers: Governance, Architecture, Operations
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

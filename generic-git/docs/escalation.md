@@ -36,8 +36,6 @@ Related documents:
 * [Risk Register](./risk-register.md)
 * [Runbooks Guide](./runbooks.md)
 
----
-
 ## 1. Purpose
 
 The Escalation Procedures Guide provides a unified, structured process for escalating operational, security, and service-impacting issues. It ensures timely response, clear ownership, and predictable communication.
@@ -48,8 +46,6 @@ Escalations guarantee:
 * Minimized downtime
 * Consistent handoffs
 * Proper communication trail
-
----
 
 ## 2. Escalation Triggers
 
@@ -62,8 +58,6 @@ Escalation is required when:
 * A service remains degraded beyond defined thresholds
 
 Escalation thresholds must align with the Monitoring Standards Guide.
-
----
 
 ## 3. Escalation Tiers
 
@@ -92,8 +86,6 @@ Notifies:
 * Compliance
 * Legal (if required)
 
----
-
 ## 4. Escalation Workflow
 
 1. **Identify** issue -> via alert or manual detection
@@ -104,8 +96,6 @@ Notifies:
 6. **Escalate** if SLA breach or risk increases
 7. **Resolve** issue
 8. **Document** all actions
-
----
 
 ## 5. Communication Channels
 
@@ -121,8 +111,6 @@ Templates stored at:
 docs/templates/escalation/
 ```
 
----
-
 ## 6. Handoff Procedures
 
 During escalations:
@@ -131,8 +119,6 @@ During escalations:
 * Include steps taken
 * Include logs, screenshots, or trace IDs
 * Confirm acceptance from next responder
-
----
 
 ## 7. Post-Escalation Requirements
 
@@ -156,8 +142,6 @@ Postmortems stored in:
 docs/incidents/postmortems/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -166,8 +150,6 @@ Reviewers: Security, Architecture, Governance
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

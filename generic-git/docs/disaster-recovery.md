@@ -36,8 +36,6 @@ Related documents:
 * [Security Guide](./security.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Disaster Recovery Guide defines how the organization prepares for, responds to, and recovers from catastrophic failures affecting infrastructure, data, or critical business operations.
@@ -48,8 +46,6 @@ The goal is to ensure:
 * Data integrity
 * Predictable recovery timelines
 * Minimal operational impact
-
----
 
 ## 2. Disaster Types
 
@@ -77,8 +73,6 @@ The goal is to ensure:
 * Fire
 * Flooding
 
----
-
 ## 3. Recovery Objectives
 
 ### 3.1 RPO — Recovery Point Objective
@@ -94,8 +88,6 @@ Both must be documented per system in:
 ```
 docs/operations/service-registry/
 ```
-
----
 
 ## 4. Backup Strategy
 
@@ -113,8 +105,6 @@ Backup documentation stored under:
 docs/operations/backups/
 ```
 
----
-
 ## 5. Failover Procedures
 
 Failover must include:
@@ -129,8 +119,6 @@ Failover runbooks stored in:
 docs/runbooks/disaster-recovery/
 ```
 
----
-
 ## 6. Restoration Procedures
 
 Restoration process requires:
@@ -141,8 +129,6 @@ Restoration process requires:
 * Data reconciliation
 
 Restoration logs must be archived.
-
----
 
 ## 7. Communication Plan
 
@@ -158,8 +144,6 @@ Communication templates stored under:
 ```
 docs/templates/incidents/
 ```
-
----
 
 ## 8. Annual Testing
 
@@ -178,8 +162,6 @@ Each test must have a **DR Test Report** recorded in:
 docs/disaster-recovery/tests/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -188,8 +170,6 @@ Reviewers: Security, Architecture
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

@@ -37,8 +37,6 @@ Related documents:
 * [Security Guide](./security.md)
 * [Templates Index](./templates/index.md)
 
----
-
 ## 1. Purpose
 
 The Governance Guide defines the structures, roles, decision‑making processes, and review cadences that ensure the platform and organization operate predictably, transparently, and compliantly.
@@ -49,8 +47,6 @@ Governance ensures:
 * Clear ownership
 * Compliance with legal and security obligations
 * Alignment across engineering and operations
-
----
 
 ## 2. Governance Structure
 
@@ -74,8 +70,6 @@ Members:
 * Approve major changes to processes or architecture
 * Oversee audits and assessments
 
----
-
 ## 3. Roles & Responsibilities
 
 ### Governance Lead *(Not yet created)*
@@ -97,8 +91,6 @@ Manages operational standards and on‑call processes.
 ### Compliance Lead *(Not yet created)*
 
 Maintains compliance obligations, audit trails, and vendor requirements.
-
----
 
 ## 4. Governance Processes
 
@@ -132,8 +124,6 @@ Outputs:
 * Updated compliance documentation
 * Required runbooks or policy updates
 
----
-
 ## 5. Governance Meetings
 
 ### 5.1 Weekly Governance Sync
@@ -153,8 +143,6 @@ Outputs:
 * Long‑term platform planning
 * Budget and resourcing recommendations
 
----
-
 ## 6. Documentation Requirements
 
 Each governance‑related document must include:
@@ -170,8 +158,6 @@ Templates stored under:
 docs/templates/governance/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -180,8 +166,6 @@ Reviewers: Architecture, Security, Compliance
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

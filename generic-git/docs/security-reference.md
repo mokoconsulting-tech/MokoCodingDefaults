@@ -36,15 +36,11 @@ Related documents:
 * [Templates Index](./templates/index.md)
 * [Disaster Recovery Guide](./disaster-recovery.md)
 
----
-
 ## 1. Purpose
 
 The Security Reference provides a comprehensive catalog of all required security controls, classifications, cryptographic rules, authentication methods, logging standards, and monitoring requirements for all Moko Consulting systems.
 
 This functions as the authoritative handbook for engineers, auditors, compliance stakeholders, and integration partners.
-
----
 
 ## 2. Security Classifications
 
@@ -64,8 +60,6 @@ Assets must be tagged by:
 * Business criticality
 * Backup/restore requirements
 
----
-
 ## 3. Authentication Standards
 
 ### 3.1 Password Requirements
@@ -79,8 +73,6 @@ Assets must be tagged by:
 * OAuth2 for user-facing systems
 * Signed tokens for internal services
 * HMAC signatures for webhooks
-
----
 
 ## 4. Cryptographic Requirements
 
@@ -100,8 +92,6 @@ Keys must:
 * Be rotated annually
 * Never be stored in source code
 * Be stored in a secure secrets manager
-
----
 
 ## 5. Logging & Monitoring
 
@@ -123,8 +113,6 @@ Keys must:
 * Alert thresholds for critical events
 * Dashboard stored under `docs/operations/monitoring/`
 
----
-
 ## 6. Secure Coding Requirements
 
 All code must:
@@ -133,8 +121,6 @@ All code must:
 * Use parameterized queries
 * Avoid unsafe dependencies
 * Pass security scans during CI
-
----
 
 ## 7. Incident Handling Requirements
 
@@ -153,8 +139,6 @@ Templates in:
 docs/templates/incidents/
 ```
 
----
-
 ## Metadata
 
 ```
@@ -163,8 +147,6 @@ Reviewers: Architecture, Governance, Operations
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 

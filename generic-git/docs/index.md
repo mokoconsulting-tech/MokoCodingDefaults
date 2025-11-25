@@ -30,8 +30,6 @@ All documents and folders listed here must:
 
 * Exist in the repository hierarchy.
 
----
-
 ## 1. Overview
 
 * **This document** (Documentation Index)
@@ -39,8 +37,6 @@ All documents and folders listed here must:
 * Project Overview -> [overview.md](./overview.md)
 * Templates Index -> [Templates Index](./templates/index.md)
 * Governance Guide (Maintainers & Roles) -> [governance.md](./governance.md)
-
----
 
 ## 2. Core Guides
 
@@ -57,8 +53,6 @@ All documents and folders listed here must:
 * [Security Reference](./security-reference.md)
 * [Governance Guide](./governance.md)
 
----
-
 ## 3. Engineering & Development
 
 * [Versioning & Branching Policy](./versioning.md)
@@ -68,8 +62,6 @@ All documents and folders listed here must:
 * [Onboarding Guide](./onboarding.md)
 * [Training & Enablement Guide](./training.md)
 * [Access Management Guide](./access-management.md)
-
----
 
 ## 4. Operations & Service Management
 
@@ -83,8 +75,6 @@ All documents and folders listed here must:
 * [Sustainability & Resource Management Guide](./sustainability.md) – Resource usage, efficiency, and long-term sustainability planning
 * [Disaster Recovery Guide](./disaster-recovery.md) – Protocols for recovering from catastrophic failures
 
----
-
 ## 5. Product, Monitoring, and Analytics
 
 * [Monitoring Standards Guide](./monitoring.md) – Observability standards, metrics, alerts, and dashboards
@@ -92,16 +82,12 @@ All documents and folders listed here must:
 * [Setup / Installation Guide](./setup.md) – Installation, first-time setup, and environment configuration
 * [Roadmap](./roadmap.md) – Strategic overview of planned releases, features, and milestones
 
----
-
 ## 6. Policies & Compliance
 
 * [Policies Guide](./policies.md) – Organizational rules, standards, and compliance expectations
 * [Compliance Guide](./compliance-guide.md) – Legal, regulatory, and audit obligations
 * [Security Guide](./security.md) – Core security practices, protections, and responsibilities
 * [Access Management Guide](./access-management.md) – Rules for provisioning, modifying, and revoking access
-
----
 
 ## 7. Templates
 
@@ -114,8 +100,6 @@ docs/templates/
 [Templates Index](./templates/index.md)
 
 Each operational or domain folder must have a matching template stub.
-
----
 
 ## 8. Diagrams
 
@@ -136,8 +120,6 @@ Domains:
 
 Diagram ownership mirrors document ownership.
 
----
-
 ## 9. Document Ownership
 
 Document owners are defined in each guide’s Metadata block.
@@ -155,8 +137,6 @@ Roles currently referenced across the suite:
 
 Roles marked “Role not created yet” must be formally established and recorded in Governance.
 
----
-
 ## 10. Cross-Linking Rules
 
 All documents must:
@@ -165,8 +145,6 @@ All documents must:
 * Include a navigation section.
 * Cross-link to related guides, templates, and records.
 * Follow Change Management when modified.
-
----
 
 ## 11. Future Additions
 
@@ -179,8 +157,6 @@ The documentation set may expand with:
 
 Any future additions must be added here and to `hierarchy.md`.
 
----
-
 ## Metadata
 
 ```
@@ -189,8 +165,6 @@ Reviewers: Architecture, Operations
 Status: Active
 Last Updated: <YYYY-MM-DD>
 ```
-
----
 
 ## Revision History
 
