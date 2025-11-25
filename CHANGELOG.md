@@ -25,14 +25,19 @@
 
 ## [Unreleased]
 ### <DATE>
- - 
+ - <CHANGE>
 
 ## [2.1] - 2025-11-25
 ### Updated
  - `dolibar-default` (using sample)
- - `/readme.md` - Clarified docs and scaaffolding
+ - `./README.md` - Clarified docs and scaaffolding
  - `./generic-git/docs/roadmap.md`
  - `modulebuilder.txt` to `./dolibar-default/.gitignore`
+
+## Deleted
+ - `./CONTRIBUTING.md`
+ - `./CODE_OF_CODUCT.md`
+ - `./GOVERNANCE.md`
  
 ## [2.0] - 2025-11-23
 ### Added
