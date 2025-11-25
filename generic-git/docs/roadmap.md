@@ -1,3 +1,26 @@
+<!-- 
+	Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
+
+	This file is part of a Moko Consulting project.
+
+	SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+
+	This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+	This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the IMPLIED WARRANTY of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License (./LICENSE.md).
+
+	# FILE INFORMATION
+	DEFGROUP:
+	INGROUP:    Documentation
+	REPO:       MokoCodingDefaults
+	FILE:       docs-roadmap.md
+	VERSION:    2.0.0
+	BRIEF:      Documentation Suite Roadmap
+	PATH:       ./docs/docs-roadmap.md
+-->
+
 # Documentation Suite Roadmap
 
 ## Navigation
@@ -100,7 +123,7 @@ With Phase 3 complete, the documentation framework:
 
 * The Documentation Office coordinates roadmap execution and prioritization.
 * Each document has a named content owner and at least one reviewer.
-* Changes to this roadmap are managed through the standard change management process and tracked in the revision history table above.
+* Changes to this roadmap are managed through the standard change management process and tracked in the revision history table below.
 
 ## Open Items and Future Considerations
 
