@@ -25,7 +25,7 @@
 
 ## Navigation
 
-**You are here:* Documentation -> Risk Register
+**You are here:** Documentation -> Risk Register
 
 Related documents:
 
