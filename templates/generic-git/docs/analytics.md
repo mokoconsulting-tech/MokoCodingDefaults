@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/analytics.md
 	VERSION: 00.00.01
-	BRIEF:  Analytics & Observability Guide
+	PATH: ./docs/analytics.md
+	BRIEF: Analytics & Observability Guide
 	-->
 
 # Analytics & Observability Guide

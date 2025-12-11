@@ -14,8 +14,8 @@
 	DEFGROUP: 
 	INGROUP: Project.Documentation
 	REPO: 
-	PATH: ./README.md
 	VERSION: 00.00.01
+	PATH: ./README.md
 	BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
 -->
 # Standard Readme

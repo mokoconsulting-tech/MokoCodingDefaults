@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/index.md
 	VERSION: 00.00.01
-	BRIEF:  Analytics Documentation index
+	PATH: ./docs/index.md
+	BRIEF: Analytics Documentation index
 	NOTE:  Routing index for analytics governance and reporting.
 -->
 

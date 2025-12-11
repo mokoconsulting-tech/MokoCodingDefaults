@@ -18,11 +18,10 @@
  # FILE INFORMATION
  DEFGROUP:
  INGROUP: Project.Documentation
- REPO:
- PATH: ./docs/feature-request.md
+ REPO: 
  VERSION: 00.00.01
- BRIEF:  Feature Request Template
- PATH: ./docs/./docs/templates/feature-request.md
+ PATH: ./docs/feature-request.md
+ BRIEF: Feature Request Template
  -->
 
 # Feature Request Template

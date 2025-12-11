@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/data-model.md
 	VERSION: 00.00.01
-	BRIEF:  Data Model Guide
+	PATH: ./docs/data-model.md
+	BRIEF: Data Model Guide
 	-->
 
 # Data Model

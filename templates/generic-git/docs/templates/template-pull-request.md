@@ -18,11 +18,10 @@
  # FILE INFORMATION
  DEFGROUP:
  INGROUP: Project.Documentation
- REPO:
- PATH: ./docs/pull-request.md
+ REPO: 
  VERSION: 00.00.01
- BRIEF:  Pull Request Template
- PATH: ./docs/./docs/templates/pull-request.md
+ PATH: ./docs/pull-request.md
+ BRIEF: Pull Request Template
  -->
 
 # Pull Request Template

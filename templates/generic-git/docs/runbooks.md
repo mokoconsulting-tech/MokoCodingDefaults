@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/runbooks.md
 	VERSION: 00.00.01
-	BRIEF:  Runbooks Guide
+	PATH: ./docs/runbooks.md
+	BRIEF: Runbooks Guide
 	-->
 
 # Runbooks Guide

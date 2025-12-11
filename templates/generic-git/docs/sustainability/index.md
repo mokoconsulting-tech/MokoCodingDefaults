@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/index.md
 	VERSION: 00.00.01
-	BRIEF:  Sustainability Documentation index
+	PATH: ./docs/index.md
+	BRIEF: Sustainability Documentation index
 	NOTE:  Index for sustainability models, cost frameworks, and scaling analysis.
 -->
 

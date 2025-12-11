@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/escalation.md
 	VERSION: 00.00.01
-	BRIEF:  Escalation Procedures Guide
+	PATH: ./docs/escalation.md
+	BRIEF: Escalation Procedures Guide
 	-->
 
 # Escalation Procedures Guide

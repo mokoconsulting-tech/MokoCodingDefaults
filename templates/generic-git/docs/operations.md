@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/operations.md
 	VERSION: 00.00.01
-	BRIEF:  Operations Guide
+	PATH: ./docs/operations.md
+	BRIEF: Operations Guide
 	-->
 
 # Operations Guide

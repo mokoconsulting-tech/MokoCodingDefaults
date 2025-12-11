@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/system-inventory.md
 	VERSION: 00.00.01
-	BRIEF:  System Inventory
+	PATH: ./docs/system-inventory.md
+	BRIEF: System Inventory
 	-->
 
 # System Inventory

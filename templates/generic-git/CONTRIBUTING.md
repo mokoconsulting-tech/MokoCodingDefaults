@@ -15,10 +15,9 @@
  DEFGROUP: 
  INGROUP: Project.Documentation
  REPO:
- PATH: ./CONTRIBUTING.md
  VERSION: 00.00.01
- BRIEF: How to contribute; commit, PR, testing and security policies
  PATH: ./CONTRIBUTING.md
+ BRIEF: How to contribute; commit, PR, testing and security policies
  -->
 
 # Contributing

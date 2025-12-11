@@ -12,7 +12,8 @@
  # FILE INFORMATION 
  DEFGROUP: Dolibarr
  INGROUP: SampleModule.Documentation
- REPO:
+ REPO: 
+ VERSION: 00.00.01
  PATH: ./ChangeLog.md
  VERSION:
  BRIEF: Version history using Keep a Changelog

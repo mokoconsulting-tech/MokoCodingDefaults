@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/training.md
 	VERSION: 00.00.01
-	BRIEF:  Training & Enablement Guide
+	PATH: ./docs/training.md
+	BRIEF: Training & Enablement Guide
 	-->
 
 # Training & Enablement Guide

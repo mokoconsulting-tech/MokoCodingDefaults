@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/service-registry.md
 	VERSION: 00.00.01
-	BRIEF:  Service Registry
+	PATH: ./docs/service-registry.md
+	BRIEF: Service Registry
 	-->
 
 # Service Registry

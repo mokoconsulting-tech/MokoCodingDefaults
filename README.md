@@ -14,10 +14,9 @@
  DEFGROUP: MokoDefaults
  INGROUP: Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
- PATH: ./README.md
  VERSION: 03.00.00
+ PATH: ./README.md
  BRIEF: Reference and packaging repo for the Moko Consulting coding ecosystem
- NOTE: Central standards, scaffolds, and governance defaults for all Moko projects
 -->
 
 # MokoDefaults (VERSION: 03.00.00)

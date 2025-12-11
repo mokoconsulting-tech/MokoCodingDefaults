@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/versioning.md
 	VERSION: 00.00.01
-	BRIEF:  Versioning & Branching Policy
+	PATH: ./docs/versioning.md
+	BRIEF: Versioning & Branching Policy
 	-->
 
 # Versioning & Branching Policy

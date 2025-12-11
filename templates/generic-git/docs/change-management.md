@@ -15,8 +15,7 @@
 	INGROUP: Project.Documentation
 	REPO:  
 	PATH: ./docs/change-management.md
-	VERSION: 00.00.01
-	BRIEF:  Change Management Guide
+	BRIEF: Change Management Guide
 	NOTE:  Defines the change management workflow, approvals, documentation, and review requirements.
 
 -->

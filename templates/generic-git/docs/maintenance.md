@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/maintenance.md
 	VERSION: 00.00.01
-	BRIEF:  Maintenance & Lifecycle Management Guide
+	PATH: ./docs/maintenance.md
+	BRIEF: Maintenance & Lifecycle Management Guide
 	-->
 
 # Maintenance & Lifecycle Management Guide

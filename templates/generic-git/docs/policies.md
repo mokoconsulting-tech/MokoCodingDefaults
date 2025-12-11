@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/policies.md
 	VERSION: 00.00.01
-	BRIEF:  Policies Guide
+	PATH: ./docs/policies.md
+	BRIEF: Policies Guide
 	-->
 
 # Policies Guide

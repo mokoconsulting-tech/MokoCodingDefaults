@@ -15,8 +15,8 @@
  DEFGROUP: MokoDefaults
  INGROUP: MokoDefaults.Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
- PATH: ./CONTRIBUTING.md
  VERSION: 03.00.00
+ PATH: ./CONTRIBUTING.md
  BRIEF: How to contribute; commit, PR, testing and security policies
  NOTE: Short and practical; see README for overview
  -->

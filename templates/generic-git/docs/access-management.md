@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/access-management.md
 	VERSION: 00.00.01
-	BRIEF:  Access Management Guide
+	PATH: ./docs/access-management.md
+	BRIEF: Access Management Guide
 	-->
 
 # Access Management Guide

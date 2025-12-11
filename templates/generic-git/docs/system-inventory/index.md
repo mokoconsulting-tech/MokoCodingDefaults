@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/index.md
 	VERSION: 00.00.01
-	BRIEF:  System Inventory index
+	PATH: ./docs/index.md
+	BRIEF: System Inventory index
 	NOTE:  Index for infrastructure, application, and service asset mapping.
 -->
 

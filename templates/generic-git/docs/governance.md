@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/governance.md
 	VERSION: 00.00.01
-	BRIEF:  Governance Guide
+	PATH: ./docs/governance.md
+	BRIEF: Governance Guide
 	-->
 
 # Governance Guide

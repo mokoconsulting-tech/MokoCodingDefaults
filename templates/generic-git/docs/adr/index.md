@@ -14,9 +14,10 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
+	VERSION: 00.00.01
 	PATH: ./docs/index.md
 	VERSION: 00.00.01 00.00.01 
-	BRIEF:  Architecture Decision Records index
+	BRIEF: Architecture Decision Records index
 	NOTE:  Index for ADR catalog and governance alignment.
 -->
 

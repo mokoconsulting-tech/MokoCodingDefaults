@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/index.md
 	VERSION: 00.00.01
-	BRIEF:  Runbook Documentation index
+	PATH: ./docs/index.md
+	BRIEF: Runbook Documentation index
 	NOTE:  Index for operational workflows and standardized support runbooks.
 -->
 

@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/contributing.md
 	VERSION: 00.00.01
-	BRIEF:  Contributor Guide
+	PATH: ./docs/contributing.md
+	BRIEF: Contributor Guide
 	-->
 
 # Contributor Guide

@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/overview.md
 	VERSION: 00.00.01
-	BRIEF:  Master Overview & Documentation Index
+	PATH: ./docs/overview.md
+	BRIEF: Master Overview & Documentation Index
 	-->
 
 # Project Overview

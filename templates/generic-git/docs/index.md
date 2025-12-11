@@ -14,9 +14,10 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
+	VERSION: 00.00.01
 	PATH: ./docs/index.md
 	VERSION: 00.00.01 00.00.01 
-	BRIEF:  Master index for the full documentation set
+	BRIEF: Master index for the full documentation set
 	NOTE:  Central navigation and governance index for all documentation.
 -->
 

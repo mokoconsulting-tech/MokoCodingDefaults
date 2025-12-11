@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/monitoring.md
 	VERSION: 00.00.01
-	BRIEF:  Monitoring Standards Guide
+	PATH: ./docs/monitoring.md
+	BRIEF: Monitoring Standards Guide
 	-->
 
 # Monitoring Standards Guide

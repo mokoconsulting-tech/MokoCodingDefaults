@@ -13,11 +13,9 @@
  DEFGROUP: 
  INGROUP: Project.Documentation
  REPO:
+ VERSION: 00.00.01
  PATH: ./CHANGELOG.md
- VERSION:
  BRIEF: Version history using Keep a Changelog
- PATH: ./CHANGELOG.md
- NOTE: Adheres to SemVer when applicable
 -->
 # Changelog
 

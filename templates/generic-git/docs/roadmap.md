@@ -17,7 +17,7 @@
 	REPO:  
 	PATH: ./docs/docs-roadmap.md
 	VERSION: 00.00.01 00.00.01 
-	BRIEF:  Documentation Suite Roadmap
+	BRIEF: Documentation Suite Roadmap
 -->
 
 # Documentation Suite Roadmap

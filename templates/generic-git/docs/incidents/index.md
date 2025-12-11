@@ -14,9 +14,10 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
+	VERSION: 00.00.01
 	PATH: ./docs/index.md
 	VERSION: 00.00.01 00.00.01
-	BRIEF:  Incident Documentation index
+	BRIEF: Incident Documentation index
 	NOTE:  Index for system and operational incident reports.
 -->
 

@@ -18,11 +18,10 @@
  # FILE INFORMATION
  DEFGROUP:
  INGROUP: Project.Documentation
- REPO:
- PATH: ./docs/runbook.md
+ REPO: 
  VERSION: 00.00.01
- BRIEF:  Runbook Template
- PATH: ./docs/./docs/templates/runbook.md
+ PATH: ./docs/runbook.md
+ BRIEF: Runbook Template
  -->
 
 # Runbook Template
