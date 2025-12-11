@@ -23,8 +23,6 @@
 -->
 
 # MokoDefaults (VERSION: 03.00.00)
-
-Badges:
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
@@ -51,8 +49,6 @@ The full documentation suite is available within the `docs/` directory of this r
 * [Security Guide](./docs/docs-security.md)
 * [API Reference](./docs/docs-api-reference.md)
 * [Runbooks](./docs/docs-runbooks.md)
-
-Additional directories include ADRs, diagrams, templates, and workflows.
 
 MokoDefaults serves as the authoritative reference for development standards across all Moko Consulting repositories. It centralizes coding conventions, governance rules, scaffolds, templates, CI policies, accessibility requirements, and module registries for Dolibarr, Joomla, and supporting ecosystems.
 This repository is not a runtime codebase; it provides reusable standards intended to be applied across projects through submodules, overlays, or CI import.
