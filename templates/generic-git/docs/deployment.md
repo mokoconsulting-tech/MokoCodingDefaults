@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/deployment.md
 	VERSION: 00.00.01
-	BRIEF:  Deployment Guide
+	PATH: ./docs/deployment.md
+	BRIEF: Deployment Guide
 	-->
 
 # Deployment Guide

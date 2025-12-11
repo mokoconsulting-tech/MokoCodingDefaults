@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/security-reference.md
 	VERSION: 00.00.01
-	BRIEF:  Security Reference
+	PATH: ./docs/security-reference.md
+	BRIEF: Security Reference
 	-->
 
 # Security Reference

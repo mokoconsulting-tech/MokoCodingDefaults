@@ -18,11 +18,10 @@
  # FILE INFORMATION
  DEFGROUP:
  INGROUP: Project.Documentation
- REPO:
- PATH: ./docs/style-compliance-checklist.md
+ REPO: 
  VERSION: 00.00.01
- BRIEF:  Style and Compliance Checklist Template
- PATH: ./docs/./docs/templates/style-compliance-checklist.md
+ PATH: ./docs/style-compliance-checklist.md
+ BRIEF: Style and Compliance Checklist Template
  -->
 
 # Style and Compliance Checklist Template

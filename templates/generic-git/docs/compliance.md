@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/compliance-guide.md
 	VERSION: 00.00.01
-	BRIEF:  Compliance Guide
+	PATH: ./docs/compliance-guide.md
+	BRIEF: Compliance Guide
 	-->
 
 # Compliance Guide

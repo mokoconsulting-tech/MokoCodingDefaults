@@ -14,8 +14,8 @@
 	DEFGROUP: MokoDefaults
 	INGROUP: MokoDefaults.Documentation
 	REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
+  VERSION: 03.00.00 
   PATH: ./CODE_OF_CONDUCT.md
-  VERSION: 03.00.00
   BRIEF: Community expectations and enforcement guidelines
   NOTE: Adapted with attribution from the Contributor Covenant v2.1
 -->

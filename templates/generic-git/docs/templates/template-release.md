@@ -18,11 +18,10 @@
  # FILE INFORMATION
  DEFGROUP:
  INGROUP: Project.Documentation
- REPO:
- PATH: ./docs/release.md
+ REPO: 
  VERSION: 00.00.01
- BRIEF:  Release Template
- PATH: ./docs/./docs/templates/release.md
+ PATH: ./docs/release.md
+ BRIEF: Release Template
  -->
 
 # Release Template

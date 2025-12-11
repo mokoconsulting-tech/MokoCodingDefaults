@@ -18,11 +18,10 @@
  # FILE INFORMATION
  DEFGROUP:
  INGROUP: Project.Documentation
- REPO:
- PATH: ./docs/risk-register-entry.md
+ REPO: 
  VERSION: 00.00.01
- BRIEF:  Risk Register Entry Template
- PATH: ./docs/./docs/templates/risk-register-entry.md
+ PATH: ./docs/risk-register-entry.md
+ BRIEF: Risk Register Entry Template
  -->
 
 # Risk Register Entry Template

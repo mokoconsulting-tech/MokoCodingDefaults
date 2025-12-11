@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/api-reference.md
 	VERSION: 00.00.01
-	BRIEF:  API Reference Guide
+	PATH: ./docs/api-reference.md
+	BRIEF: API Reference Guide
 	-->
 
 # API Reference

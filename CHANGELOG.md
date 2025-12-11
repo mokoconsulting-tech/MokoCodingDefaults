@@ -15,8 +15,8 @@
  DEFGROUP: MokoDefaults
  INGROUP: MokoDefaults.Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
- PATH: ./CHANGELOG.md
  VERSION: 03.00.00
+ PATH: ./CHANGELOG.md
  BRIEF: Version history using Keep a Changelog
  NOTE: Adheres to SemVer when applicable
  -->

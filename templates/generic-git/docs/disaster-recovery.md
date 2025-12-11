@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/disaster-recovery.md
 	VERSION: 00.00.01
-	BRIEF:  Disaster Recovery Guide
+	PATH: ./docs/disaster-recovery.md
+	BRIEF: Disaster Recovery Guide
 	-->
 
 # Disaster Recovery Guide

@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/security.md
 	VERSION: 00.00.01
-	BRIEF:  Security Guide
+	PATH: ./docs/security.md
+	BRIEF: Security Guide
 	-->
 
 # Security Guide

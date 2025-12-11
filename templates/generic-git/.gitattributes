@@ -53,6 +53,7 @@ scripts/ export-ignore
 build/ export-ignore
 tmp/ export-ignore
 docs-internal/ export-ignore
+tools/ export-ignore
 
 # Dependency folders that should not ship in release bundles
 node_modules/ export-ignore
@@ -97,10 +98,8 @@ vendor/* -diff
 *.min.css linguist-generated=true
 
 ###############################################################################
-# Joomla Template Specific
+# Joomla Specific
 ###############################################################################
-README.md export-ignore
-CHANGELOG.md export-ignore
 
 # Exclude template media sources not intended for production bundles
 media_src/ export-ignore
@@ -109,6 +108,8 @@ less/ export-ignore
 */media_src/ export-ignore
 */scss/ export-ignore
 */less/ export-ignore
+*.md export-ignore
+*.min.* export-ignore
 
 # Prevent diff noise in compiled Joomla assets
 media/*.min.js -diff
@@ -117,9 +118,7 @@ media/*.min.css -diff
 */media/*.min.css -diff
 
 # Treat Joomla manifest and config files as XML for linguist
-templateDetails.xml linguist-language=XML
-*/templateDetails.xml linguist-language=XML
-config.xml linguist-language=XML
+*.xml linguist-language=XML
 
 # Ensure PHP files in tmpl layouts are recognized consistently
 html/**/*.php linguist-language=PHP

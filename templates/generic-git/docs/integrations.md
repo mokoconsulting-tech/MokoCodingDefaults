@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/integrations.md
 	VERSION: 00.00.01
-	BRIEF:  Integrations Guide
+	PATH: ./docs/integrations.md
+	BRIEF: Integrations Guide
 	-->
 
 # Integrations Guide

@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/index.md
 	VERSION: 00.00.01
-	BRIEF:  Migration Documentation index
+	PATH: ./docs/index.md
+	BRIEF: Migration Documentation index
 	NOTE:  Index for database and system migration governance.
 -->
 

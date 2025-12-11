@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/incidents.md
 	VERSION: 00.00.01
-	BRIEF:  Incident Management Guide
+	PATH: ./docs/incidents.md
+	BRIEF: Incident Management Guide
 	-->
 
 # Incident Management Guide

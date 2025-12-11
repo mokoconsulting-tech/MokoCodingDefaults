@@ -14,8 +14,8 @@
  DEFGROUP: MokoDefaults
  INGROUP: MokoDefaults.Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
- PATH: ./LICENSE.md
  VERSION: 03.00.00
+ PATH: ./LICENSE.md
  BRIEF: Project license (GPL-3.0-or-later)
  NOTE: Exact text fetched from gnu.org
 -->

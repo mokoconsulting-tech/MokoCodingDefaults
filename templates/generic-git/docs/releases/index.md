@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/index.md
 	VERSION: 00.00.01
-	BRIEF:  Release Documentation index
+	PATH: ./docs/index.md
+	BRIEF: Release Documentation index
 	NOTE:  Index for release governance, tagging, and version control documentation.
 -->
 

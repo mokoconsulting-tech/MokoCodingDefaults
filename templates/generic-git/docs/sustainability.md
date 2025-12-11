@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/sustainability.md
 	VERSION: 00.00.01
-	BRIEF:  Sustainability & Resource Management Guide
+	PATH: ./docs/sustainability.md
+	BRIEF: Sustainability & Resource Management Guide
 	-->
 
 # Sustainability & Resource Management Guide

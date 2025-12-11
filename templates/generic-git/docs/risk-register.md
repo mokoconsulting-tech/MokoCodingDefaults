@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/risk-register.md
 	VERSION: 00.00.01
-	BRIEF:  Risk Register
+	PATH: ./docs/risk-register.md
+	BRIEF: Risk Register
 	-->
 
 # Risk Register

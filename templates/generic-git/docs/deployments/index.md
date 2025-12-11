@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/index.md
 	VERSION: 00.00.01
-	BRIEF:  Deployment Documentation index
+	PATH: ./docs/index.md
+	BRIEF: Deployment Documentation index
 	NOTE:  Governs deployment runbooks and lifecycle protocols.
 -->
 

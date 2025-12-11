@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/style-guide.md
 	VERSION: 00.00.01
-	BRIEF:  Style Guide
+	PATH: ./docs/style-guide.md
+	BRIEF: Style Guide
 	-->
 
 # Style Guide

@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/release-management.md
 	VERSION: 00.00.01
-	BRIEF:  Release Management Guide
+	PATH: ./docs/release-management.md
+	BRIEF: Release Management Guide
 	-->
 
 # Release Management Guide

@@ -16,9 +16,7 @@
  INGROUP: SampleModule.Documentation
  REPO: 
  PATH: ./README.md
- VERSION: 00.00.01
  BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
- PATH: ./README.md
  -->
 
 # SAMPLE FOR [DOLIBARR ERP & CRM](https://www.dolibarr.org)

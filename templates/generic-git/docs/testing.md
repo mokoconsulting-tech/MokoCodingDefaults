@@ -14,9 +14,9 @@
 	DEFGROUP:
 	INGROUP: Project.Documentation
 	REPO:
-	PATH: ./docs/testing.md
 	VERSION: 00.00.01
-	BRIEF:  Testing Guide
+	PATH: ./docs/testing.md
+	BRIEF: Testing Guide
 	-->
 
 # Testing Guide
