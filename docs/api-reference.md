@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       api-reference.md
-	VERSION:    2.0
-	BRIEF:      API Reference Guide
-	PATH:       ./docs/api-reference.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  api-reference.md
+	VERSION:  2.0
+	BRIEF:  API Reference Guide
+	PATH:  ./docs/api-reference.md
 	-->
 
 # API Reference

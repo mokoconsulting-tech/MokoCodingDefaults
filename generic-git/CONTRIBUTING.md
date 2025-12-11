@@ -12,20 +12,20 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-  DEFGROUP:  
-	INGROUP:   Documentation
+  DEFGROUP: 
+	INGROUP: Documentation
 	REPO:
-  FILE:      CONTRIBUTING.md
+  FILE: CONTRIBUTING.md
   VERSION: 	
-  BRIEF:     How to contribute; commit, PR, testing and security policies
-  PATH:      ./CONTRIBUTING.md
+  BRIEF: How to contribute; commit, PR, testing and security policies
+  PATH: ./CONTRIBUTING.md
 <!-- FILE INFORMATION
- * INGROUP:   MokoCodingDefaults
- * FILE:      CONTRIBUTING.md
+ * INGROUP: MokoDefaults
+ * FILE: CONTRIBUTING.md
  * VERSION: 	2.0
- * BRIEF:     How to contribute; commit, PR, testing and security policies
- * PATH:      ./CONTRIBUTING.md
- * NOTE:      Short and practical; see README for overview
+ * BRIEF: How to contribute; commit, PR, testing and security policies
+ * PATH: ./CONTRIBUTING.md
+ * NOTE: Short and practical; see README for overview
 -->
 
 # Contributing

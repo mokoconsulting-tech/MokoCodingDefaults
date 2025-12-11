@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       service-registry.md
+	FILE:  service-registry.md
 	VERSION:
-	BRIEF:      Service Registry
-	PATH:       ./docs/service-registry.md
+	BRIEF:  Service Registry
+	PATH:  ./docs/service-registry.md
 	-->
 
 # Service Registry

@@ -12,14 +12,14 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:   MokoCodingDefaults
- INGROUP:    Documentation
- REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
- FILE:       hierarchy.md
- VERSION:    2.0
- BRIEF:      Documentation File & Folder Hierarchy
- PATH:       ./docs/hierarchy.md
- NOTE:       Canonical repository structure for documentation, templates, diagrams, and operational records.
+ DEFGROUP:  MokoDefaults
+ INGROUP:  Documentation
+ REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+ FILE:  hierarchy.md
+ VERSION:  2.0
+ BRIEF:  Documentation File & Folder Hierarchy
+ PATH:  ./docs/hierarchy.md
+ NOTE:  Canonical repository structure for documentation, templates, diagrams, and operational records.
 -->
 
 # Documentation File & Folder Hierarchy

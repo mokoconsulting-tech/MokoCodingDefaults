@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       overview.md
-	VERSION:    2.0
-	BRIEF:      Master Overview & Documentation Index
-	PATH:       ./docs/overview.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  overview.md
+	VERSION:  2.0
+	BRIEF:  Master Overview & Documentation Index
+	PATH:  ./docs/overview.md
 	-->
 
 # Project Overview
@@ -105,7 +105,7 @@ This section explains how documentation relates to real source code:
 
 * Where modules live
 * Source repository layout
-* Coding standards (via MokoCodingDefaults)
+* Coding standards (via MokoDefaults)
 * Integration points
 * Shared libraries and utilities
 * Module ownership

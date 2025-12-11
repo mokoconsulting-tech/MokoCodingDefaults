@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       data-model.md
-	VERSION:    2.0
-	BRIEF:      Data Model Guide
-	PATH:       ./docs/data-model.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  data-model.md
+	VERSION:  2.0
+	BRIEF:  Data Model Guide
+	PATH:  ./docs/data-model.md
 	-->
 
 # Data Model

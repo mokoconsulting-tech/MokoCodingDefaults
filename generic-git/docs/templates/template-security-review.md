@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:    Documentation
+ INGROUP:  Documentation
  REPO:
- FILE:       security-review.md
+ FILE:  security-review.md
  VERSION:
- BRIEF:      Security Review Template
- PATH:       ./docs/templates/security-review.md
+ BRIEF:  Security Review Template
+ PATH:  ./docs/templates/security-review.md
  -->
 
 # Security Review Template

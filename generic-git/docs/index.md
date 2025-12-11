@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
-	VERSION:    
-	BRIEF:      Master index for the full documentation set
-	PATH:       ./docs/index.md
-	NOTE:       Central navigation and governance index for all documentation.
+	FILE:  index.md
+	VERSION:  
+	BRIEF:  Master index for the full documentation set
+	PATH:  ./docs/index.md
+	NOTE:  Central navigation and governance index for all documentation.
 -->
 
 # Documentation Index

@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
+	FILE:  index.md
 	VERSION:
-	BRIEF:      System Inventory index
-	PATH:       ./docs/system-inventory/index.md
-	NOTE:       Index for infrastructure, application, and service asset mapping.
+	BRIEF:  System Inventory index
+	PATH:  ./docs/system-inventory/index.md
+	NOTE:  Index for infrastructure, application, and service asset mapping.
 -->
 
 # System Inventory

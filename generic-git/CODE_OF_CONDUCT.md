@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
-	INGROUP:   Documentation
-	REPO:      
-	FILE:      CODE_OF_CONDUCT.md
-	VERSION:   
-	BRIEF:     Reference + packaging repo for Moko Consulting Developer GPT Other Default
-	PATH:      ./CODE_OF_CONDUCT.md
-	NOTE:      Documentation and tools for distribution; no runtime code.
+	DEFGROUP: 
+	INGROUP: Documentation
+	REPO: 
+	FILE: CODE_OF_CONDUCT.md
+	VERSION: 
+	BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
+	PATH: ./CODE_OF_CONDUCT.md
+	NOTE: Documentation and tools for distribution; no runtime code.
 -->
 # Code of Conduct
 

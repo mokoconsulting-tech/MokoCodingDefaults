@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       security-reference.md
-	VERSION:    2.0
-	BRIEF:      Security Reference
-	PATH:       ./docs/security-reference.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  security-reference.md
+	VERSION:  2.0
+	BRIEF:  Security Reference
+	PATH:  ./docs/security-reference.md
 	-->
 
 # Security Reference

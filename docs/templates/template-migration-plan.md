@@ -16,13 +16,13 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:   MokoCodingDefaults
- INGROUP:    Documentation
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
- FILE:       migration-plan.md
- VERSION:    2.0
- BRIEF:      Migration Plan Template
- PATH:       ./docs/templates/migration-plan.md
+ DEFGROUP:  MokoDefaults
+ INGROUP:  Documentation
+	REPO: https://github.com/mokoconsulting-tech/MokoDefaults
+ FILE:  migration-plan.md
+ VERSION:  2.0
+ BRIEF:  Migration Plan Template
+ PATH:  ./docs/templates/migration-plan.md
  -->
 
 # Migration Plan Template

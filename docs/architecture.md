@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCoding Defaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
+	DEFGROUP:  MokoCoding Defaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
 	FILE: 		  architecture.md 
-	VERSION:    2.0
-	BRIEF:      Architecture Guide
-	PATH:       ./docs/architecture.md
-	NOTE:       Defines system architecture, principles, structure, and domain boundaries.
+	VERSION:  2.0
+	BRIEF:  Architecture Guide
+	PATH:  ./docs/architecture.md
+	NOTE:  Defines system architecture, principles, structure, and domain boundaries.
 -->
 
 # Architecture Guide

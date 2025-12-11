@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       overview.md
+	FILE:  overview.md
 	VERSION:
-	BRIEF:      Master Overview & Documentation Index
-	PATH:       ./docs/overview.md
+	BRIEF:  Master Overview & Documentation Index
+	PATH:  ./docs/overview.md
 	-->
 
 # Project Overview
@@ -105,7 +105,7 @@ This section explains how documentation relates to real source code:
 
 * Where modules live
 * Source repository layout
-* Coding standards (via MokoCodingDefaults)
+* Coding standards (via MokoDefaults)
 * Integration points
 * Shared libraries and utilities
 * Module ownership

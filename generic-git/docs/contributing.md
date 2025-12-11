@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       contributing.md
+	FILE:  contributing.md
 	VERSION:
-	BRIEF:      Contributor Guide
-	PATH:       ./docs/contributing.md
+	BRIEF:  Contributor Guide
+	PATH:  ./docs/contributing.md
 	-->
 
 # Contributor Guide
@@ -68,7 +68,7 @@ Default strategy:
 
 Standards must align with:
 
-* MokoCodingDefaults
+* MokoDefaults
 * Language-specific formatting rules
 * Required linting and static analysis
 

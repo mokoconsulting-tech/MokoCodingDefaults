@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:    Documentation
+ INGROUP:  Documentation
  REPO:
- FILE:       style-compliance-checklist.md
+ FILE:  style-compliance-checklist.md
  VERSION:
- BRIEF:      Style and Compliance Checklist Template
- PATH:       ./docs/templates/style-compliance-checklist.md
+ BRIEF:  Style and Compliance Checklist Template
+ PATH:  ./docs/templates/style-compliance-checklist.md
  -->
 
 # Style and Compliance Checklist Template
@@ -65,7 +65,7 @@ Include reviewers, approvers, and date of final acceptance.
 Ensure all documentation is compliant with organizational, regulatory, and technical standards prior to publication.
 
 ### Documentation Style Checklist
-- Formatting reviewed against MokoCodingDefaults
+- Formatting reviewed against MokoDefaults
 - Headings verified for correct structure (starting at h2 where applicable)
 - Metadata block present and accurate
 - Terminology validated against organizational glossary

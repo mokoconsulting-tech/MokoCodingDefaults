@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:    Documentation
+ INGROUP:  Documentation
  REPO:
- FILE:       incident_report.md
+ FILE:  incident_report.md
  VERSION:
- BRIEF:      GitHub Incident Report Issue Template
- PATH:       ./.github/ISSUE_TEMPLATE/incident_report.md
+ BRIEF:  GitHub Incident Report Issue Template
+ PATH:  ./.github/ISSUE_TEMPLATE/incident_report.md
  NOTE:
 -->
 # Incident Report

@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       compliance-guide.md
+	FILE:  compliance-guide.md
 	VERSION:
-	BRIEF:      Compliance Guide
-	PATH:       ./docs/compliance-guide.md
+	BRIEF:  Compliance Guide
+	PATH:  ./docs/compliance-guide.md
 	-->
 
 # Compliance Guide

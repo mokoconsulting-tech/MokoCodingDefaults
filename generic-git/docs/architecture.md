@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
-	INGROUP:   Documentation
+	DEFGROUP: 
+	INGROUP: Documentation
 	REPO:
 	FILE: 		 architecture.md 
-	VERSION:   
-	BRIEF:     Architecture Guide
-	PATH:      ./docs/architecture.md
-	NOTE:      Defines system architecture, principles, structure, and domain boundaries.
+	VERSION: 
+	BRIEF: Architecture Guide
+	PATH: ./docs/architecture.md
+	NOTE: Defines system architecture, principles, structure, and domain boundaries.
 -->
 
 # Architecture Guide

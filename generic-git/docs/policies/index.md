@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
+	FILE:  index.md
 	VERSION:
-	BRIEF:      Policy Documentation index
-	PATH:       ./docs/policies/index.md
-	NOTE:       Index for organizational policies, technical standards, and compliance templates.
+	BRIEF:  Policy Documentation index
+	PATH:  ./docs/policies/index.md
+	NOTE:  Index for organizational policies, technical standards, and compliance templates.
 -->
 
 # Policy Index

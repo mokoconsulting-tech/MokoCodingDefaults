@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:    Documentation
+ INGROUP:  Documentation
  REPO:
- FILE:       pull-request.md
+ FILE:  pull-request.md
  VERSION:
- BRIEF:      Pull Request Template
- PATH:       ./docs/templates/pull-request.md
+ BRIEF:  Pull Request Template
+ PATH:  ./docs/templates/pull-request.md
  -->
 
 # Pull Request Template

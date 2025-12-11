@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       sustainability.md
-	VERSION:    2.0
-	BRIEF:      Sustainability & Resource Management Guide
-	PATH:       ./docs/sustainability.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  sustainability.md
+	VERSION:  2.0
+	BRIEF:  Sustainability & Resource Management Guide
+	PATH:  ./docs/sustainability.md
 	-->
 
 # Sustainability & Resource Management Guide

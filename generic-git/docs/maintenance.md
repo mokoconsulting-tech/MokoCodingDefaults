@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       maintenance.md
+	FILE:  maintenance.md
 	VERSION:
-	BRIEF:      Maintenance & Lifecycle Management Guide
-	PATH:       ./docs/maintenance.md
+	BRIEF:  Maintenance & Lifecycle Management Guide
+	PATH:  ./docs/maintenance.md
 	-->
 
 # Maintenance & Lifecycle Management Guide

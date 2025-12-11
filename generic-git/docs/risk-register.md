@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       risk-register.md
+	FILE:  risk-register.md
 	VERSION:
-	BRIEF:      Risk Register
-	PATH:       ./docs/risk-register.md
+	BRIEF:  Risk Register
+	PATH:  ./docs/risk-register.md
 	-->
 
 # Risk Register

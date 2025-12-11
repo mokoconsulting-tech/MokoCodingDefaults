@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
+	FILE:  index.md
 	VERSION:
-	BRIEF:      Analytics Documentation index
-	PATH:       ./docs/analytics/index.md
-	NOTE:       Routing index for analytics governance and reporting.
+	BRIEF:  Analytics Documentation index
+	PATH:  ./docs/analytics/index.md
+	NOTE:  Routing index for analytics governance and reporting.
 -->
 
 # Analytics Documentation

@@ -12,13 +12,13 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  Joomla 5
+	DEFGROUP: Joomla 5
 	INGROUP:
-	FILE:      ${TM_FILENAME}
+	FILE: ${TM_FILENAME}
 	VERSION:
 	BRIEF: 		 Skeleton placeholder
   PATH:			 ${RELATIVE_FILEPATH}
-  NOTE:      Auto-generated Joomla component skeleton
+  NOTE: Auto-generated Joomla component skeleton
 -->
 <?php
 / No PHP here; this is an XML manifest copy location after install. */?>

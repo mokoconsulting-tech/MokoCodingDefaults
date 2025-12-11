@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       index.md
-	VERSION:    2.0
-	BRIEF:      API Documentation index
-	PATH:       ./docs/api/index.md
-	NOTE:       Entry point for per resource and endpoint API specifications.
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  index.md
+	VERSION:  2.0
+	BRIEF:  API Documentation index
+	PATH:  ./docs/api/index.md
+	NOTE:  Entry point for per resource and endpoint API specifications.
 -->
 
 # API Documentation

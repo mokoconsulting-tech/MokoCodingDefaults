@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:    Documentation
+ INGROUP:  Documentation
  REPO:
- FILE:       release.md
+ FILE:  release.md
  VERSION:
- BRIEF:      Release Template
- PATH:       ./docs/templates/release.md
+ BRIEF:  Release Template
+ PATH:  ./docs/templates/release.md
  -->
 
 # Release Template

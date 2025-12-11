@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       contributing.md
-	VERSION:    2.0
-	BRIEF:      Contributor Guide
-	PATH:       ./docs/contributing.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  contributing.md
+	VERSION:  2.0
+	BRIEF:  Contributor Guide
+	PATH:  ./docs/contributing.md
 	-->
 
 # Contributor Guide
@@ -68,7 +68,7 @@ Default strategy:
 
 Standards must align with:
 
-* MokoCodingDefaults
+* MokoDefaults
 * Language-specific formatting rules
 * Required linting and static analysis
 

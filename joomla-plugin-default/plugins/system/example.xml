@@ -13,14 +13,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-  DEFGROUP:  Joomla
+  DEFGROUP: Joomla
   INGROUP:
   REPO:
-  FILE:      example.xml
+  FILE: example.xml
   VERSION:
-  BRIEF:     Manifest for the Example system plugin
-  PATH:      ./plugins/system/example/example.xml
-  NOTE:      Install via Extensions → Manage
+  BRIEF: Manifest for the Example system plugin
+  PATH: ./plugins/system/example/example.xml
+  NOTE: Install via Extensions → Manage
 -->
 <extension type="plugin" group="system" method="upgrade" version="5.0">
 	<!-- Update server definition -->

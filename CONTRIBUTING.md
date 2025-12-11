@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  MokoCodingDefaults
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
-  FILE:      CONTRIBUTING.md
-  VERSION:   2.0
-  BRIEF:     How to contribute; commit, PR, testing and security policies
-  PATH:      ./CONTRIBUTING.md
-  NOTE:      Short and practical; see README for overview
+	DEFGROUP: MokoDefaults
+	REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
+  FILE: CONTRIBUTING.md
+  VERSION: 03.00.00
+  BRIEF: How to contribute; commit, PR, testing and security policies
+  PATH: ./CONTRIBUTING.md
+  NOTE: Short and practical; see README for overview
 -->
 # Contributing
 
@@ -41,12 +41,12 @@ You should have received a copy of the GNU General Public License along with thi
 If not, see https://www.gnu.org/licenses/.
 
 FILE INFORMATION 
- DEFGROUP:  MokoCodingDefaults
- REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
- VERSION:   2.0
- FILE:      CONTRIBUTING.md
- PATH:      /CONTRIBUTING.md
- BRIEF:     Contribution guidelines for this repository
+ DEFGROUP: MokoDefaults
+ REPO: https://github.com/mokoconsulting-tech/MokoDefaults
+ VERSION: 03.00.00
+ FILE: CONTRIBUTING.md
+ PATH: /CONTRIBUTING.md
+ BRIEF: Contribution guidelines for this repository
 -->
 # Contributing Guidelines
 

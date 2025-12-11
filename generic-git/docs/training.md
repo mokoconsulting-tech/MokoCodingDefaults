@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       training.md
+	FILE:  training.md
 	VERSION:
-	BRIEF:      Training & Enablement Guide
-	PATH:       ./docs/training.md
+	BRIEF:  Training & Enablement Guide
+	PATH:  ./docs/training.md
 	-->
 
 # Training & Enablement Guide
@@ -76,7 +76,7 @@ docs/training/materials/
 
 ### 3.3 Engineering
 
-* Coding standards (MokoCodingDefaults)
+* Coding standards (MokoDefaults)
 * Git workflows
 * Testing practices
 

@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       escalation.md
+	FILE:  escalation.md
 	VERSION:
-	BRIEF:      Escalation Procedures Guide
-	PATH:       ./docs/escalation.md
+	BRIEF:  Escalation Procedures Guide
+	PATH:  ./docs/escalation.md
 	-->
 
 # Escalation Procedures Guide

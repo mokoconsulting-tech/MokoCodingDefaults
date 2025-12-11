@@ -16,13 +16,13 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:   MokoCodingDefaults
- INGROUP:    Documentation
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
- FILE:       template-api-endpoint.md
- VERSION:    2.0
- BRIEF:      API Endpoint Template
- PATH:       ./docs/templates/template-api-endpoint.md
+ DEFGROUP:  MokoDefaults
+ INGROUP:  Documentation
+	REPO: https://github.com/mokoconsulting-tech/MokoDefaults
+ FILE:  template-api-endpoint.md
+ VERSION:  2.0
+ BRIEF:  API Endpoint Template
+ PATH:  ./docs/templates/template-api-endpoint.md
  NOTE:
 -->
 

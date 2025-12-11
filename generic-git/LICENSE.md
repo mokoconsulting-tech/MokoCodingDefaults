@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
-	INGROUP:   Documentation
-	REPO:      
-	FILE:      LICENSE.md
-	VERSION:   
-	BRIEF:     Project license (GPL-3.0-or-later)
-	PATH:      ./LICENSE
-	NOTE:      Exact text fetched from gnu.org
+	DEFGROUP: 
+	INGROUP: Documentation
+	REPO: 
+	FILE: LICENSE.md
+	VERSION: 
+	BRIEF: Project license (GPL-3.0-or-later)
+	PATH: ./LICENSE
+	NOTE: Exact text fetched from gnu.org
 -->
 										GNU GENERAL PUBLIC LICENSE
 											 Version 3, 29 June 2007

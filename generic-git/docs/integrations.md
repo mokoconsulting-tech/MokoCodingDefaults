@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       integrations.md
+	FILE:  integrations.md
 	VERSION:
-	BRIEF:      Integrations Guide
-	PATH:       ./docs/integrations.md
+	BRIEF:  Integrations Guide
+	PATH:  ./docs/integrations.md
 	-->
 
 # Integrations Guide

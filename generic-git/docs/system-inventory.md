@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       system-inventory.md
+	FILE:  system-inventory.md
 	VERSION:
-	BRIEF:      System Inventory
-	PATH:       ./docs/system-inventory.md
+	BRIEF:  System Inventory
+	PATH:  ./docs/system-inventory.md
 	-->
 
 # System Inventory

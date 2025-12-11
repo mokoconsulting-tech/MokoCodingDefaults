@@ -16,13 +16,13 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:   MokoCodingDefaults
- INGROUP:    Documentation
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
- FILE:       pull-request.md
- VERSION:    2.0
- BRIEF:      Pull Request Template
- PATH:       ./docs/templates/pull-request.md
+ DEFGROUP:  MokoDefaults
+ INGROUP:  Documentation
+	REPO: https://github.com/mokoconsulting-tech/MokoDefaults
+ FILE:  pull-request.md
+ VERSION:  2.0
+ BRIEF:  Pull Request Template
+ PATH:  ./docs/templates/pull-request.md
  -->
 
 # Pull Request Template

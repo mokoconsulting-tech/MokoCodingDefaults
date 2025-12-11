@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       data-model.md
+	FILE:  data-model.md
 	VERSION:
-	BRIEF:      Data Model Guide
-	PATH:       ./docs/data-model.md
+	BRIEF:  Data Model Guide
+	PATH:  ./docs/data-model.md
 	-->
 
 # Data Model

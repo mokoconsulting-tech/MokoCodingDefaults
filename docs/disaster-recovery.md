@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       disaster-recovery.md
-	VERSION:    2.0
-	BRIEF:      Disaster Recovery Guide
-	PATH:       ./docs/disaster-recovery.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  disaster-recovery.md
+	VERSION:  2.0
+	BRIEF:  Disaster Recovery Guide
+	PATH:  ./docs/disaster-recovery.md
 	-->
 
 # Disaster Recovery Guide

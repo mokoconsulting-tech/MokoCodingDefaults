@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       index.md
-	VERSION:    2.0
-	BRIEF:      Service Registry Documentation index
-	PATH:       ./docs/service-registry/index.md
-	NOTE:       Index for service inventory, ownership, and integration mapping.
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  index.md
+	VERSION:  2.0
+	BRIEF:  Service Registry Documentation index
+	PATH:  ./docs/service-registry/index.md
+	NOTE:  Index for service inventory, ownership, and integration mapping.
 -->
 
 # Service Registry

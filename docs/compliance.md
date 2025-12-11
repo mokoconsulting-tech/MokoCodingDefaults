@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       compliance-guide.md
-	VERSION:    2.0
-	BRIEF:      Compliance Guide
-	PATH:       ./docs/compliance-guide.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  compliance-guide.md
+	VERSION:  2.0
+	BRIEF:  Compliance Guide
+	PATH:  ./docs/compliance-guide.md
 	-->
 
 # Compliance Guide

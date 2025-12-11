@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       index.md
-	VERSION:    2.0
-	BRIEF:      Deployment Documentation index
-	PATH:       ./docs/deployments/index.md
-	NOTE:       Governs deployment runbooks and lifecycle protocols.
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  index.md
+	VERSION:  2.0
+	BRIEF:  Deployment Documentation index
+	PATH:  ./docs/deployments/index.md
+	NOTE:  Governs deployment runbooks and lifecycle protocols.
 -->
 
 # Deployment Documentation

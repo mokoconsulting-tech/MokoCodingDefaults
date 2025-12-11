@@ -12,13 +12,13 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:   MokoCodingDefaults
- INGROUP:    Documentation
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
- FILE:       template-adr.md
- VERSION:    2.0
- BRIEF:      Architecture Decision Record Template
- PATH:       ./docs/templates/template-adr.md
+ DEFGROUP:  MokoDefaults
+ INGROUP:  Documentation
+	REPO: https://github.com/mokoconsulting-tech/MokoDefaults
+ FILE:  template-adr.md
+ VERSION:  2.0
+ BRIEF:  Architecture Decision Record Template
+ PATH:  ./docs/templates/template-adr.md
  NOTE:
 -->
 

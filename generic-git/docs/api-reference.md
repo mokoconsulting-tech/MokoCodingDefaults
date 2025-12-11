@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       api-reference.md
+	FILE:  api-reference.md
 	VERSION:
-	BRIEF:      API Reference Guide
-	PATH:       ./docs/api-reference.md
+	BRIEF:  API Reference Guide
+	PATH:  ./docs/api-reference.md
 	-->
 
 # API Reference

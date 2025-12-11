@@ -15,12 +15,12 @@ You should have received a copy of the GNU General Public License along with thi
 If not, see https://www.gnu.org/licenses/.
 
 FILE INFORMATION 
- DEFGROUP:  MokoCodingDefaults
- REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
- VERSION:   2.0
- FILE:      GOVERNANCE.md
- PATH:      /GOVERNANCE.md
- BRIEF:     Project governance rules and decision process, index policy, and standards documents
+ DEFGROUP: MokoDefaults
+ REPO: https://github.com/mokoconsulting-tech/MokoDefaults
+ VERSION: 03.00.00
+ FILE: GOVERNANCE.md
+ PATH: /GOVERNANCE.md
+ BRIEF: Project governance rules and decision process, index policy, and standards documents
 -->
 
 -->

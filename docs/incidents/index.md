@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       index.md
-	VERSION:    2.0
-	BRIEF:      Incident Documentation index
-	PATH:       ./docs/incidents/index.md
-	NOTE:       Index for system and operational incident reports.
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  index.md
+	VERSION:  2.0
+	BRIEF:  Incident Documentation index
+	PATH:  ./docs/incidents/index.md
+	NOTE:  Index for system and operational incident reports.
 -->
 
 # Incident Records

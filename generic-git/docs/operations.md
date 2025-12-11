@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       operations.md
+	FILE:  operations.md
 	VERSION:
-	BRIEF:      Operations Guide
-	PATH:       ./docs/operations.md
+	BRIEF:  Operations Guide
+	PATH:  ./docs/operations.md
 	-->
 
 # Operations Guide

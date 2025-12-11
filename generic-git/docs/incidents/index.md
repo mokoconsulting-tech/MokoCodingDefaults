@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
-	VERSION:   
-	BRIEF:      Incident Documentation index
-	PATH:       ./docs/incidents/index.md
-	NOTE:       Index for system and operational incident reports.
+	FILE:  index.md
+	VERSION: 
+	BRIEF:  Incident Documentation index
+	PATH:  ./docs/incidents/index.md
+	NOTE:  Index for system and operational incident reports.
 -->
 
 # Incident Records

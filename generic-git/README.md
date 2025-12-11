@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  
-	INGROUP:   Documentation
-	REPO:      
-	FILE:      README.md
-	VERSION:   
-	BRIEF:     Reference + packaging repo for Moko Consulting Developer GPT Other Default
-	PATH:      ./README.md
+	DEFGROUP: 
+	INGROUP: Documentation
+	REPO: 
+	FILE: README.md
+	VERSION: 
+	BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
+	PATH: ./README.md
 -->
 # Standard Readme
 

@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       analytics.md
+	FILE:  analytics.md
 	VERSION:
-	BRIEF:      Analytics & Observability Guide
-	PATH:       ./docs/analytics.md
+	BRIEF:  Analytics & Observability Guide
+	PATH:  ./docs/analytics.md
 	-->
 
 # Analytics & Observability Guide

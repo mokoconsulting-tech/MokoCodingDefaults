@@ -12,14 +12,14 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  Joomla 5
-	INGROUP:   com_example
+	DEFGROUP: Joomla 5
+	INGROUP: com_example
 	REPO:
 	FILE: 		 ${TM_FILENAME}
 	VERSION:
-	BRIEF:     Skeleton placeholder
+	BRIEF: Skeleton placeholder
 	PATH:			 ${RELATIVE_FILEPATH}
-  NOTE:      Auto-generated Joomla component skeleton
+  NOTE: Auto-generated Joomla component skeleton
 -->
 <form>
  <fields name="filter">

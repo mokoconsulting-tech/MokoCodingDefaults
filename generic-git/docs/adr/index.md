@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
-	VERSION:    
-	BRIEF:      Architecture Decision Records index
-	PATH:       ./docs/adr/index.md
-	NOTE:       Index for ADR catalog and governance alignment.
+	FILE:  index.md
+	VERSION:  
+	BRIEF:  Architecture Decision Records index
+	PATH:  ./docs/adr/index.md
+	NOTE:  Index for ADR catalog and governance alignment.
 -->
 
 # Architecture Decision Records

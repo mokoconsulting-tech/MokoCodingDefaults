@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       sustainability.md
+	FILE:  sustainability.md
 	VERSION:
-	BRIEF:      Sustainability & Resource Management Guide
-	PATH:       ./docs/sustainability.md
+	BRIEF:  Sustainability & Resource Management Guide
+	PATH:  ./docs/sustainability.md
 	-->
 
 # Sustainability & Resource Management Guide

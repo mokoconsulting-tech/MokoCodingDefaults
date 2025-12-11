@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
+	FILE:  index.md
 	VERSION:
-	BRIEF:      Deployment Documentation index
-	PATH:       ./docs/deployments/index.md
-	NOTE:       Governs deployment runbooks and lifecycle protocols.
+	BRIEF:  Deployment Documentation index
+	PATH:  ./docs/deployments/index.md
+	NOTE:  Governs deployment runbooks and lifecycle protocols.
 -->
 
 # Deployment Documentation

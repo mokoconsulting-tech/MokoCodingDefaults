@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       runbooks.md
+	FILE:  runbooks.md
 	VERSION:
-	BRIEF:      Runbooks Guide
-	PATH:       ./docs/runbooks.md
+	BRIEF:  Runbooks Guide
+	PATH:  ./docs/runbooks.md
 	-->
 
 # Runbooks Guide

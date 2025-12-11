@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       versioning.md
-	VERSION:    2.0
-	BRIEF:      Versioning & Branching Policy
-	PATH:       ./docs/versioning.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  versioning.md
+	VERSION:  2.0
+	BRIEF:  Versioning & Branching Policy
+	PATH:  ./docs/versioning.md
 	-->
 
 # Versioning & Branching Policy

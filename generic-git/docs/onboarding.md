@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       onboarding.md
+	FILE:  onboarding.md
 	VERSION:
-	BRIEF:      Onboarding Guide
-	PATH:       ./docs/onboarding.md
+	BRIEF:  Onboarding Guide
+	PATH:  ./docs/onboarding.md
 	-->
 
 # Onboarding Guide
@@ -100,7 +100,7 @@ These tasks validate access, tooling, and process understanding.
 
 Follow:
 
-* MokoCodingDefaults
+* MokoDefaults
 * Linting & formatting rules
 * Security practices
 

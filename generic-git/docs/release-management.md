@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       release-management.md
+	FILE:  release-management.md
 	VERSION:
-	BRIEF:      Release Management Guide
-	PATH:       ./docs/release-management.md
+	BRIEF:  Release Management Guide
+	PATH:  ./docs/release-management.md
 	-->
 
 # Release Management Guide

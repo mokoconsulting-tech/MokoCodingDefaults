@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
+	FILE:  index.md
 	VERSION:
-	BRIEF:      Sustainability Documentation index
-	PATH:       ./docs/sustainability/index.md
-	NOTE:       Index for sustainability models, cost frameworks, and scaling analysis.
+	BRIEF:  Sustainability Documentation index
+	PATH:  ./docs/sustainability/index.md
+	NOTE:  Index for sustainability models, cost frameworks, and scaling analysis.
 -->
 
 # Sustainability Documentation

@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:    Documentation
+ INGROUP:  Documentation
  REPO:
- FILE:       security_review.md
+ FILE:  security_review.md
  VERSION:
- BRIEF:      GitHub Security Review Issue Template
- PATH:       ./.github/ISSUE_TEMPLATE/security_review.md
+ BRIEF:  GitHub Security Review Issue Template
+ PATH:  ./.github/ISSUE_TEMPLATE/security_review.md
  NOTE:
 -->
 # Security Review

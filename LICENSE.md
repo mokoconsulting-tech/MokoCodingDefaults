@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:  MokoCodingDefaults
- REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
- FILE:      LICENSE.md
- VERSION:   2.0
- BRIEF:     Project license (GPL-3.0-or-later)
- PATH:      ./LICENSE
- NOTE:      Exact text fetched from gnu.org
+ DEFGROUP: MokoDefaults
+ REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
+ FILE: LICENSE.md
+ VERSION: 03.00.00
+ BRIEF: Project license (GPL-3.0-or-later)
+ PATH: ./LICENSE
+ NOTE: Exact text fetched from gnu.org
 -->
 										GNU GENERAL PUBLIC LICENSE
 											 Version 3, 29 June 2007

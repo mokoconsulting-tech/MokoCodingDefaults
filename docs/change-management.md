@@ -12,14 +12,14 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       
-	FILE:       change-management.md
-	VERSION:    2.0
-	BRIEF:      Change Management Guide
-	PATH:       ./docs/change-management.md
-	NOTE:       Defines the change management workflow, approvals, documentation, and review requirements.
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  
+	FILE:  change-management.md
+	VERSION:  2.0
+	BRIEF:  Change Management Guide
+	PATH:  ./docs/change-management.md
+	NOTE:  Defines the change management workflow, approvals, documentation, and review requirements.
 
 -->
 

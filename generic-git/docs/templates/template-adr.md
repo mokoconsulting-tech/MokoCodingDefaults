@@ -13,12 +13,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:    Documentation
+ INGROUP:  Documentation
  REPO:
- FILE:       template-adr.md
+ FILE:  template-adr.md
  VERSION:
- BRIEF:      Architecture Decision Record Template
- PATH:       ./docs/templates/template-adr.md
+ BRIEF:  Architecture Decision Record Template
+ PATH:  ./docs/templates/template-adr.md
  NOTE:
 -->
 

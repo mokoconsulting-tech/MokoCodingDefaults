@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       analytics.md
-	VERSION:    2.0
-	BRIEF:      Analytics & Observability Guide
-	PATH:       ./docs/analytics.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  analytics.md
+	VERSION:  2.0
+	BRIEF:  Analytics & Observability Guide
+	PATH:  ./docs/analytics.md
 	-->
 
 # Analytics & Observability Guide

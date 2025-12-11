@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:   MokoCodingDefaults
-	INGROUP:    Documentation
-	REPO:       https://github.com/mokoconsulting-tech/MokoCodingDefaults
-	FILE:       release-management.md
-	VERSION:    2.0
-	BRIEF:      Release Management Guide
-	PATH:       ./docs/release-management.md
+	DEFGROUP:  MokoDefaults
+	INGROUP:  Documentation
+	REPO:  https://github.com/mokoconsulting-tech/MokoDefaults
+	FILE:  release-management.md
+	VERSION:  2.0
+	BRIEF:  Release Management Guide
+	PATH:  ./docs/release-management.md
 	-->
 
 # Release Management Guide

@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
+	FILE:  index.md
 	VERSION:
-	BRIEF:      Service Registry Documentation index
-	PATH:       ./docs/service-registry/index.md
-	NOTE:       Index for service inventory, ownership, and integration mapping.
+	BRIEF:  Service Registry Documentation index
+	PATH:  ./docs/service-registry/index.md
+	NOTE:  Index for service inventory, ownership, and integration mapping.
 -->
 
 # Service Registry

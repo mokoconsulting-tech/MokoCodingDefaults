@@ -13,12 +13,12 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       disaster-recovery.md
+	FILE:  disaster-recovery.md
 	VERSION:
-	BRIEF:      Disaster Recovery Guide
-	PATH:       ./docs/disaster-recovery.md
+	BRIEF:  Disaster Recovery Guide
+	PATH:  ./docs/disaster-recovery.md
 	-->
 
 # Disaster Recovery Guide

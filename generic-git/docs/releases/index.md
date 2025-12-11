@@ -13,13 +13,13 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:    Documentation
+	INGROUP:  Documentation
 	REPO:
-	FILE:       index.md
+	FILE:  index.md
 	VERSION:
-	BRIEF:      Release Documentation index
-	PATH:       ./docs/releases/index.md
-	NOTE:       Index for release governance, tagging, and version control documentation.
+	BRIEF:  Release Documentation index
+	PATH:  ./docs/releases/index.md
+	NOTE:  Index for release governance, tagging, and version control documentation.
 -->
 
 # Release Documentation

@@ -12,13 +12,13 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  MokoCodingDefaults
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
-	FILE:      CODE_OF_CONDUCT.md
-  VERSION:   2.0
-  BRIEF:     Community expectations and enforcement guidelines
-  PATH:      ./CODE_OF_CONDUCT.md
-  NOTE:      Adapted with attribution from the Contributor Covenant v2.1
+	DEFGROUP: MokoDefaults
+	REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
+	FILE: CODE_OF_CONDUCT.md
+  VERSION: 03.00.00
+  BRIEF: Community expectations and enforcement guidelines
+  PATH: ./CODE_OF_CONDUCT.md
+  NOTE: Adapted with attribution from the Contributor Covenant v2.1
 Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
 SPDX-License-Identifier: GPL-3.0-or-later
 This file is part of a Moko Consulting project.
@@ -35,12 +35,12 @@ You should have received a copy of the GNU General Public License along with thi
 If not, see https://www.gnu.org/licenses/.
 
 FILE INFORMATION 
- DEFGROUP:  MokoCodingDefaults
- REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults
- VERSION:   2.0
- FILE:      CODE_OF_CONDUCT.md
- PATH:      /CODE_OF_CONDUCT.md
- BRIEF:     Contributor Covenant Code of Conduct
+ DEFGROUP: MokoDefaults
+ REPO: https://github.com/mokoconsulting-tech/MokoDefaults
+ VERSION: 03.00.00
+ FILE: CODE_OF_CONDUCT.md
+ PATH: /CODE_OF_CONDUCT.md
+ BRIEF: Contributor Covenant Code of Conduct
 -->
 
 # Contributor Covenant Code of Conduct
