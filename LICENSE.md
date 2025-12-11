@@ -1,5 +1,4 @@
-<!--
-	Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
+<!--	Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
 
 	This file is part of a Moko Consulting project.
 
@@ -13,6 +12,7 @@
 
  # FILE INFORMATION
  DEFGROUP: MokoDefaults
+ INGROUP: MokoDefaults.Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
  PATH: ./LICENSE.md
  VERSION: 03.00.00

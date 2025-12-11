@@ -13,6 +13,7 @@
  
  # FILE INFORMATION
  DEFGROUP: MokoDefaults
+ INGROUP: MokoDefaults.Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
  PATH: ./CONTRIBUTING.md
  VERSION: 03.00.00
