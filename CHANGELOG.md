@@ -25,7 +25,7 @@
 
 ## [03.00.00] - 2025-12-11
 ### Updated
- - Added MokoDoliUpdates
+ - Added MokoDoliUpdates Module ID
  - Realigned VERSION numbering to ##.##.## format
 
 ## [2.1] - 2025-11-25
