@@ -42,6 +42,8 @@
 .github/ export-ignore
 .github/workflows/ export-ignore
 .gitlab/ export-ignore
+
+# Documentation
 docs/ export-ignore
 
 # Development and tooling
