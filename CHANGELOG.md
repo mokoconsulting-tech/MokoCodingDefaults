@@ -23,6 +23,9 @@
 
 # Changelog
 
+## [TODO]
+- split `./generic-git/docs/` to `./docs-example/docs/` and `./docs-example/docs-extended/` 
+
 ## [03.00.00] - 2025-12-11
 ### Updated
  - Added MokoDoliUpdates Module ID
