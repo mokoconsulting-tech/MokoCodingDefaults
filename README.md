@@ -12,17 +12,17 @@
  You should have received a copy of the GNU General Public License (./LICENSE).
 
  # FILE INFORMATION
- DEFGROUP:  MokoCodingDefaults
- INGROUP:   Documentation
- REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
- FILE:      README.md
- VERSION:   2.1
- BRIEF:     Reference and packaging repo for the Moko Consulting coding ecosystem
- PATH:      ./README.md
- NOTE:      Central standards, scaffolds, and governance defaults for all Moko projects
+ DEFGROUP: MokoDefaults
+ INGROUP: Documentation
+ REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
+ FILE: README.md
+ VERSION: 03.00.00
+ BRIEF: Reference and packaging repo for the Moko Consulting coding ecosystem
+ PATH: ./README.md
+ NOTE: Central standards, scaffolds, and governance defaults for all Moko projects
 -->
 
-# MokoCodingDefaults
+# MokoDefaults (VERSION: 03.00.00)
 
 Badges:
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -54,7 +54,7 @@ The full documentation suite is available within the `docs/` directory of this r
 
 Additional directories include ADRs, diagrams, templates, and workflows.
 
-MokoCodingDefaults serves as the authoritative reference for development standards across all Moko Consulting repositories. It centralizes coding conventions, governance rules, scaffolds, templates, CI policies, accessibility requirements, and module registries for Dolibarr, Joomla, and supporting ecosystems.
+MokoDefaults serves as the authoritative reference for development standards across all Moko Consulting repositories. It centralizes coding conventions, governance rules, scaffolds, templates, CI policies, accessibility requirements, and module registries for Dolibarr, Joomla, and supporting ecosystems.
 This repository is not a runtime codebase; it provides reusable standards intended to be applied across projects through submodules, overlays, or CI import.
 
 ## Features
@@ -74,14 +74,14 @@ Recommended consumption methods:
 ### Submodule (preferred)
 
 ```bash
-git submodule add https://github.com/mokoconsulting-tech/MokoCodingDefaults .moko/defaults
+git submodule add https://github.com/mokoconsulting-tech/MokoDefaults .moko/defaults
 git submodule update --init --recursive
 ```
 
 ### Remote include via CI
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/mokoconsulting-tech/MokoCodingDefaults/main/.editorconfig -o .editorconfig
+curl -fsSL https://raw.githubusercontent.com/mokoconsulting-tech/MokoDefaults/main/.editorconfig -o .editorconfig
 ```
 
 ### Scaffold new projects
@@ -158,14 +158,14 @@ After copying any scaffold (generic-git, Dolibarr, or Joomla), users must update
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
- DEFGROUP:  <ProjectGroup>
- INGROUP:   <Subgroup>
- REPO:      <RepositoryURL>
- FILE:      <Filename>
- VERSION:   <Version>
- BRIEF:     <ShortDescription>
- PATH:      <RelativePath>
- NOTE:      <OptionalNotes>
+ DEFGROUP: <ProjectGroup>
+ INGROUP: <Subgroup>
+ REPO: <RepositoryURL>
+ FILE: <Filename>
+ VERSION: <Version>
+ BRIEF: <ShortDescription>
+ PATH: <RelativePath>
+ NOTE: <OptionalNotes>
 -->
 ```
 
@@ -192,17 +192,18 @@ GPL-3.0-or-later. See `LICENSE` for full text.
 
 ## Metadata
 
-* Maintainer: Moko Consulting Engineering
-* Repository: [https://github.com/mokoconsulting-tech/MokoCodingDefaults](https://github.com/mokoconsulting-tech/MokoCodingDefaults)
-* File: README.md
-* Version: 2.1
-* Classification: Public Open Source Standards
-* Compliance Scope: All Moko Consulting repositories
+* MAINTAINER: Moko Consulting Engineering
+* REPO: [https://github.com/mokoconsulting-tech/MokoDefaults](https://github.com/mokoconsulting-tech/MokoDefaults)
+* FILE: README.md
+* VERSION: 03.00.00
+* CLASSIFICATION: Public Open Source Standards
+* COMPLIANCE SCOPE: All Moko Consulting repositories
 
 ## Revision History
 
-| Version | Date       | Author          | Description                                       |
-| ------- | ---------- | --------------- | ------------------------------------------------- |
-| 2.1     | 2025-11-25 | Moko Consulting | Cleanup, consolidation, removal of Discovery row  |
-| 2.0     | 2025-11-25 | Moko Consulting | Full cleanup, metadata and revision history added |
-| 1.0     | 2024-XX-XX | Moko Consulting | Initial published version                         |
+| Version 	| Date       | Author          | Description 	|
+| --------- | ---------- | --------------- | ------------ |
+| 03.00.00 	| 2025-12-11 | Moko Consulting | Cleanup, consolidation |
+| 2.1 			| 2025-11-25 | Moko Consulting | Cleanup, consolidation, removal of Discovery row |
+| 2.0 			| 2025-11-25 | Moko Consulting | Full cleanup, metadata and revision history added |
+| 1.0 			| 					 | Moko Consulting | Initial published version |
