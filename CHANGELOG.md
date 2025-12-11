@@ -12,16 +12,21 @@
 	You should have received a copy of the GNU General Public License (./LICENSE.md).
 
 	# FILE INFORMATION
-	DEFGROUP:  MokoCodingDefaults
-	REPO:      https://github.com/mokoconsulting-tech/MokoCodingDefaults/
-	FILE:      CHANGELOG.md
-	VERSION:   2.0
-	BRIEF:     Version history using Keep a Changelog
-	PATH:      ./CHANGELOG.md
-	NOTE:      Adheres to SemVer when applicable
+	DEFGROUP: MokoDefaults
+	REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
+	FILE: CHANGELOG.md
+	VERSION: 03.00.00
+	BRIEF: Version history using Keep a Changelog
+	PATH: ./CHANGELOG.md
+	NOTE: Adheres to SemVer when applicable
 -->
 
 # Changelog
+
+## [03.00.00] - 2025-12-11
+### Updated
+ - Added MokoDoliUpdates
+ - Realigned VERSION numbering to ##.##.## format
 
 ## [2.1] - 2025-11-25
 ### Updated
