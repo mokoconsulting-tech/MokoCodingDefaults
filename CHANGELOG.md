@@ -27,6 +27,7 @@
 ### Updated
  - Added MokoDoliUpdates Module ID
  - Realigned VERSION numbering to ##.##.## format
+ - Changed REPO name from `MokoCodingDefults` to `MokoDeaults`
 
 ## [2.1] - 2025-11-25
 ### Updated
