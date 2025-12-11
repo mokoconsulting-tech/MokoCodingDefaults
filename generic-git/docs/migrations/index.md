@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  index.md
-	VERSION:
+	PATH: ./docs/index.md
+	VERSION: 00.00.01
 	BRIEF:  Migration Documentation index
-	PATH:  ./docs/migrations/index.md
 	NOTE:  Index for database and system migration governance.
 -->
 

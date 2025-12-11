@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP: 
-	INGROUP: Documentation
+	INGROUP: Project.Documentation
 	REPO: 
-	FILE: CODE_OF_CONDUCT.md
-	VERSION: 
-	BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
 	PATH: ./CODE_OF_CONDUCT.md
+	VERSION: 00.00.01
+	BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
 	NOTE: Documentation and tools for distribution; no runtime code.
 -->
 # Code of Conduct

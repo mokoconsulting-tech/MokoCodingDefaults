@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  runbooks.md
-	VERSION:
+	PATH: ./docs/runbooks.md
+	VERSION: 00.00.01
 	BRIEF:  Runbooks Guide
-	PATH:  ./docs/runbooks.md
 	-->
 
 # Runbooks Guide

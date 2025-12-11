@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:  
-	FILE:  docs-roadmap.md
-	VERSION:  
+	PATH: ./docs/docs-roadmap.md
+	VERSION: 00.00.01 00.00.01 
 	BRIEF:  Documentation Suite Roadmap
-	PATH:  ./docs/docs-roadmap.md
 -->
 
 # Documentation Suite Roadmap

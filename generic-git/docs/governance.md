@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  governance.md
-	VERSION:
+	PATH: ./docs/governance.md
+	VERSION: 00.00.01
 	BRIEF:  Governance Guide
-	PATH:  ./docs/governance.md
 	-->
 
 # Governance Guide

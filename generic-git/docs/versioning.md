@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  versioning.md
-	VERSION:
+	PATH: ./docs/versioning.md
+	VERSION: 00.00.01
 	BRIEF:  Versioning & Branching Policy
-	PATH:  ./docs/versioning.md
 	-->
 
 # Versioning & Branching Policy

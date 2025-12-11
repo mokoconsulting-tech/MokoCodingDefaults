@@ -1,23 +1,26 @@
 #!/usr/bin/env php -d memory_limit=256M
 <?php
 /**
- * buildzip.php
- *
- * Copyright (c) 2023-2025 Eric Seigne <eric.seigne@cap-rel.fr>
- *
- * This program is free software: you can redistribute it and/or modify
- * it under the terms of the GNU Affero General Public License as
- * published by the Free Software Foundation, either version 3 of the
- * License, or (at your option) any later version.
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU Affero General Public License for more details.
- *
- * You should have received a copy of the GNU Affero General Public License
- * along with this program.  If not, see <https://www.gnu.org/licenses/>.
- */
+ Copyright (C) 2025 Moko Consulting <hello@mokoconsulting.tech>
+
+ This file is part of a Moko Consulting project.
+
+ SPDX-LICENSE-IDENTIFIER: GPL-3.0-or-later
+
+ This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the IMPLIED WARRANTY of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License (./LICENSE.md).
+
+ # FILE INFORMATION
+ DEFGROUP: <ProjectGroup>
+ INGROUP: <Subgroup>
+ REPO: <RepositoryURL>
+ VERSION: <Version>
+ PATH: <RelativePath>
+ BRIEF: <ShortDescription>
+ NOTE: <OptionalNotes>
 
 /*
    The goal of that php CLI script is to make zip package of your module

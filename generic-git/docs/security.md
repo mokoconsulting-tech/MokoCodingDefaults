@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  security.md
-	VERSION:
+	PATH: ./docs/security.md
+	VERSION: 00.00.01
 	BRIEF:  Security Guide
-	PATH:  ./docs/security.md
 	-->
 
 # Security Guide

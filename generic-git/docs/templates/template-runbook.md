@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  runbook.md
- VERSION:
+ PATH: ./docs/runbook.md
+ VERSION: 00.00.01
  BRIEF:  Runbook Template
- PATH:  ./docs/templates/runbook.md
+ PATH: ./docs/./docs/templates/runbook.md
  -->
 
 # Runbook Template

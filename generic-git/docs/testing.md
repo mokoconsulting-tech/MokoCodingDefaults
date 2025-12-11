@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  testing.md
-	VERSION:
+	PATH: ./docs/testing.md
+	VERSION: 00.00.01
 	BRIEF:  Testing Guide
-	PATH:  ./docs/testing.md
 	-->
 
 # Testing Guide

@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project. Documentation
  REPO:
- FILE:  runbook.md
+ PATH: ./ runbook.md
  VERSION:
  BRIEF:  GitHub Runbook Issue Template
- PATH:  ./.github/ISSUE_TEMPLATE/runbook.md
+ PATH: ./ ./.github/ISSUE_TEMPLATE/runbook.md
  NOTE:
 -->
 # Runbook

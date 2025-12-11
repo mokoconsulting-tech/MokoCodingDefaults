@@ -16,12 +16,12 @@
 #
 # FILE INFORMATION
 # DEFGROUP:
-# INGROUP:  Documentation
+# INGROUP: Project. Documentation
 # REPO:
-# FILE:  ci.yml
+# PATH: ./ ci.yml
 # VERSION:
 # BRIEF:  Baseline CI workflow
-# PATH:  ./.github/workflows/ci.yml
+# PATH: ./ ./.github/workflows/ci.yml
 # NOTE:
 name: ci
 

@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP: 
-	INGROUP: Documentation
+	INGROUP: Project.Documentation
 	REPO: 
-	FILE: README.md
-	VERSION: 
-	BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
 	PATH: ./README.md
+	VERSION: 00.00.01
+	BRIEF: Reference + packaging repo for Moko Consulting Developer GPT Other Default
 -->
 # Standard Readme
 

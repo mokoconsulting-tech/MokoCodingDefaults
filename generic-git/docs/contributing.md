@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  contributing.md
-	VERSION:
+	PATH: ./docs/contributing.md
+	VERSION: 00.00.01
 	BRIEF:  Contributor Guide
-	PATH:  ./docs/contributing.md
 	-->
 
 # Contributor Guide
@@ -35,7 +34,7 @@ Related documents:
 * [Testing Guide](./testing.md)
 * [Security Guide](./security.md)
 * [Templates Index](./templates/index.md)
-* [Changelog](././CHANGELOG.md)
+* [Changelog](./CHANGELOG.md)
 
 ## 1. Purpose
 

@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  training.md
-	VERSION:
+	PATH: ./docs/training.md
+	VERSION: 00.00.01
 	BRIEF:  Training & Enablement Guide
-	PATH:  ./docs/training.md
 	-->
 
 # Training & Enablement Guide

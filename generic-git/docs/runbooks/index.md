@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  index.md
-	VERSION:
+	PATH: ./docs/index.md
+	VERSION: 00.00.01
 	BRIEF:  Runbook Documentation index
-	PATH:  ./docs/runbooks/index.md
 	NOTE:  Index for operational workflows and standardized support runbooks.
 -->
 

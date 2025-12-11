@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  incident-report.md
- VERSION:
+ PATH: ./docs/incident-report.md
+ VERSION: 00.00.01
  BRIEF:  Incident Report Template
- PATH:  ./docs/templates/incident-report.md
+ PATH: ./docs/./docs/templates/incident-report.md
  -->
 
 # Incident Report Template

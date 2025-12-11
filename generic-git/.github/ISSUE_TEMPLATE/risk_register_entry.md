@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project. Documentation
  REPO:
- FILE:  risk_register_entry.md
+ PATH: ./ risk_register_entry.md
  VERSION:
  BRIEF:  GitHub Risk Register Entry Issue Template
- PATH:  ./.github/ISSUE_TEMPLATE/risk_register_entry.md
+ PATH: ./ ./.github/ISSUE_TEMPLATE/risk_register_entry.md
  NOTE:
 -->
 # Risk Register Entry

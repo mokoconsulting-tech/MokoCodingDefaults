@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project. Documentation
  REPO:
- FILE:  documentation_change.md
+ PATH: ./ documentation_change.md
  VERSION:
  BRIEF:  GitHub Documentation Change Issue Template
- PATH:  ./.github/ISSUE_TEMPLATE/documentation_change.md
+ PATH: ./ ./.github/ISSUE_TEMPLATE/documentation_change.md
  NOTE:
 -->
 # Documentation Change

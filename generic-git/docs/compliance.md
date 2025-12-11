@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  compliance-guide.md
-	VERSION:
+	PATH: ./docs/compliance-guide.md
+	VERSION: 00.00.01
 	BRIEF:  Compliance Guide
-	PATH:  ./docs/compliance-guide.md
 	-->
 
 # Compliance Guide

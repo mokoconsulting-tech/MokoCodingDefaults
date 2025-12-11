@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  index.md
-	VERSION:  
+	PATH: ./docs/index.md
+	VERSION: 00.00.01 00.00.01 
 	BRIEF:  Architecture Decision Records index
-	PATH:  ./docs/adr/index.md
 	NOTE:  Index for ADR catalog and governance alignment.
 -->
 

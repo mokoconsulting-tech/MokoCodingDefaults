@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP: 
-	INGROUP: Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE: 		 architecture.md 
-	VERSION: 
+	PATH: ./		 architecture.md 
+	VERSION: 00.00.01 00.00.01
 	BRIEF: Architecture Guide
-	PATH: ./docs/architecture.md
 	NOTE: Defines system architecture, principles, structure, and domain boundaries.
 -->
 

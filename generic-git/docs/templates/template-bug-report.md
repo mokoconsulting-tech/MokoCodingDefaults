@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  bug-report.md
- VERSION:
+ PATH: ./docs/bug-report.md
+ VERSION: 00.00.01
  BRIEF:  Bug Report Template
- PATH:  ./docs/templates/bug-report.md
+ PATH: ./docs/./docs/templates/bug-report.md
  -->
 
 # Bug Report Template

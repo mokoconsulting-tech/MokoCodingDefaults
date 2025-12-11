@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:  
-	FILE:  change-management.md
-	VERSION:
+	PATH: ./docs/change-management.md
+	VERSION: 00.00.01
 	BRIEF:  Change Management Guide
-	PATH:  ./docs/change-management.md
 	NOTE:  Defines the change management workflow, approvals, documentation, and review requirements.
 
 -->

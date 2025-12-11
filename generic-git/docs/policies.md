@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  policies.md
-	VERSION:
+	PATH: ./docs/policies.md
+	VERSION: 00.00.01
 	BRIEF:  Policies Guide
-	PATH:  ./docs/policies.md
 	-->
 
 # Policies Guide

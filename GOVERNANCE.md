@@ -17,9 +17,8 @@ If not, see https://www.gnu.org/licenses/.
 FILE INFORMATION 
  DEFGROUP: MokoDefaults
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults
- VERSION: 03.00.00
- FILE: GOVERNANCE.md
  PATH: /GOVERNANCE.md
+ VERSION: 03.00.00
  BRIEF: Project governance rules and decision process, index policy, and standards documents
 -->
 

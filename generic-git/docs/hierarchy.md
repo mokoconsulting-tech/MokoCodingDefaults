@@ -13,12 +13,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  hierarchy.md
- VERSION:
+ PATH: ./docs/hierarchy.md
+ VERSION: 00.00.01
  BRIEF:  Documentation File & Folder Hierarchy
- PATH:  ./docs/hierarchy.md
+ PATH: ./docs/./docs/hierarchy.md
  NOTE:  Canonical repository structure for documentation, templates, diagrams, and operational records.
 -->
 

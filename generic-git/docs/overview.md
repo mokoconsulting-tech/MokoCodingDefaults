@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  overview.md
-	VERSION:
+	PATH: ./docs/overview.md
+	VERSION: 00.00.01
 	BRIEF:  Master Overview & Documentation Index
-	PATH:  ./docs/overview.md
 	-->
 
 # Project Overview

@@ -15,10 +15,9 @@
  DEFGROUP: MokoDefaults
  INGROUP: Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
- FILE: README.md
+ PATH: ./README.md
  VERSION: 03.00.00
  BRIEF: Reference and packaging repo for the Moko Consulting coding ecosystem
- PATH: ./README.md
  NOTE: Central standards, scaffolds, and governance defaults for all Moko projects
 -->
 
@@ -161,10 +160,9 @@ After copying any scaffold (generic-git, Dolibarr, or Joomla), users must update
  DEFGROUP: <ProjectGroup>
  INGROUP: <Subgroup>
  REPO: <RepositoryURL>
- FILE: <Filename>
  VERSION: <Version>
- BRIEF: <ShortDescription>
  PATH: <RelativePath>
+ BRIEF: <ShortDescription>
  NOTE: <OptionalNotes>
 -->
 ```

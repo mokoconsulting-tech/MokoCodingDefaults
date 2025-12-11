@@ -13,11 +13,11 @@
 
  # FILE INFORMATION
  DEFGROUP: MokoDefaults
+ INGROUP: MokoDefaults.Documentation
  REPO: https://github.com/mokoconsulting-tech/MokoDefaults/
- FILE: CHANGELOG.md
+ PATH: ./CHANGELOG.md
  VERSION: 03.00.00
  BRIEF: Version history using Keep a Changelog
- PATH: ./CHANGELOG.md
  NOTE: Adheres to SemVer when applicable
  -->
 
@@ -31,6 +31,8 @@
  - Added MokoDoliUpdates Module ID
  - Realigned VERSION numbering to ##.##.## format
  - Changed REPO name from `MokoCodingDefults` to `MokoDeaults`
+ - `INGROUP` definition standard
+ - Consolidated `FILE` to `PATH`
 
 ## [2.1] - 2025-11-25
 ### Updated

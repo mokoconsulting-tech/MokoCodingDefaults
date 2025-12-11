@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP: 
-	INGROUP: Documentation
+	INGROUP: Project.Documentation
 	REPO: 
-	FILE: LICENSE.md
-	VERSION: 
+	PATH: ./LICENSE.md
+	VERSION: 00.00.01
 	BRIEF: Project license (GPL-3.0-or-later)
-	PATH: ./LICENSE
 	NOTE: Exact text fetched from gnu.org
 -->
 										GNU GENERAL PUBLIC LICENSE

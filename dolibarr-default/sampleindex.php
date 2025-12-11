@@ -13,14 +13,14 @@
  You should have received a copy of the GNU General Public License (./LICENSE.md).
 
  # FILE INFORMATION
-	DEFGROUP:
-	INGROUP:
-	REPO:
-	FILE:
-	VERSION:
-	BRIEF:
-	PATH:
-	NOTE:
+ DEFGROUP: Dolibarr
+ INGROUP: SampleModule.Documentation
+ REPO:
+ FILE:
+ VERSION:
+ PATH:
+ BRIEF:
+ NOTE:
 */
 // Load Dolibarr environment
 $res = 0;

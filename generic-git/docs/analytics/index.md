@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  index.md
-	VERSION:
+	PATH: ./docs/index.md
+	VERSION: 00.00.01
 	BRIEF:  Analytics Documentation index
-	PATH:  ./docs/analytics/index.md
 	NOTE:  Routing index for analytics governance and reporting.
 -->
 

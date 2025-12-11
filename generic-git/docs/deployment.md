@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  deployment.md
-	VERSION:
+	PATH: ./docs/deployment.md
+	VERSION: 00.00.01
 	BRIEF:  Deployment Guide
-	PATH:  ./docs/deployment.md
 	-->
 
 # Deployment Guide

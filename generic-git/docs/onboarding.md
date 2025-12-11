@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  onboarding.md
-	VERSION:
+	PATH: ./docs/onboarding.md
+	VERSION: 00.00.01
 	BRIEF:  Onboarding Guide
-	PATH:  ./docs/onboarding.md
 	-->
 
 # Onboarding Guide

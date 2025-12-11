@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  style-guide.md
-	VERSION:
+	PATH: ./docs/style-guide.md
+	VERSION: 00.00.01
 	BRIEF:  Style Guide
-	PATH:  ./docs/style-guide.md
 	-->
 
 # Style Guide

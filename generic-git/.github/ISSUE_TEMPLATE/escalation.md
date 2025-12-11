@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project. Documentation
  REPO:
- FILE:  escalation.md
+ PATH: ./ escalation.md
  VERSION:
  BRIEF:  GitHub Escalation Issue Template
- PATH:  ./.github/ISSUE_TEMPLATE/escalation.md
+ PATH: ./ ./.github/ISSUE_TEMPLATE/escalation.md
  NOTE:
 -->
 # Escalation

@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  deployment-plan.md
- VERSION:
+ PATH: ./docs/deployment-plan.md
+ VERSION: 00.00.01
  BRIEF:  Deployment Plan Template
- PATH:  ./docs/templates/deployment-plan.md
+ PATH: ./docs/./docs/templates/deployment-plan.md
  -->
 
 # Deployment Plan Template

@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  index.md
-	VERSION:  
+	PATH: ./docs/index.md
+	VERSION: 00.00.01 00.00.01 
 	BRIEF:  Master index for the full documentation set
-	PATH:  ./docs/index.md
 	NOTE:  Central navigation and governance index for all documentation.
 -->
 

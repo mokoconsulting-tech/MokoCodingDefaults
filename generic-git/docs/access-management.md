@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  access-management.md
-	VERSION:
+	PATH: ./docs/access-management.md
+	VERSION: 00.00.01
 	BRIEF:  Access Management Guide
-	PATH:  ./docs/access-management.md
 	-->
 
 # Access Management Guide

@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  migration-plan.md
- VERSION:
+ PATH: ./docs/migration-plan.md
+ VERSION: 00.00.01
  BRIEF:  Migration Plan Template
- PATH:  ./docs/templates/migration-plan.md
+ PATH: ./docs/./docs/templates/migration-plan.md
  -->
 
 # Migration Plan Template

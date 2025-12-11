@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  incidents.md
-	VERSION:
+	PATH: ./docs/incidents.md
+	VERSION: 00.00.01
 	BRIEF:  Incident Management Guide
-	PATH:  ./docs/incidents.md
 	-->
 
 # Incident Management Guide

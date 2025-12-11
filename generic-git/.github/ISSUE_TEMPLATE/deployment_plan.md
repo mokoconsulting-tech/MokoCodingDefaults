@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project. Documentation
  REPO:
- FILE:  deployment_plan.md
+ PATH: ./ deployment_plan.md
  VERSION:
  BRIEF:  GitHub Deployment Plan Issue Template
- PATH:  ./.github/ISSUE_TEMPLATE/deployment_plan.md
+ PATH: ./ ./.github/ISSUE_TEMPLATE/deployment_plan.md
  NOTE:
 -->
 # Deployment Plan

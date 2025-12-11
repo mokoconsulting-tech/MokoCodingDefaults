@@ -11,15 +11,18 @@
  
  # FILE INFORMATION 
  DEFGROUP: 
- INGROUP: Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE: CHANGELOG.md
+ PATH: ./CHANGELOG.md
  VERSION:
  BRIEF: Version history using Keep a Changelog
  PATH: ./CHANGELOG.md
  NOTE: Adheres to SemVer when applicable
 -->
 # Changelog
+
+## [TODO]
+
 
 ## [Unreleased]
 ### Added

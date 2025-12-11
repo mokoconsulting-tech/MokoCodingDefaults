@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  template-api-endpoint.md
- VERSION:
+ PATH: ./docs/template-api-endpoint.md
+ VERSION: 00.00.01
  BRIEF:  API Endpoint Template
- PATH:  ./docs/templates/template-api-endpoint.md
+ PATH: ./docs/./docs/templates/template-api-endpoint.md
  NOTE:
 -->
 

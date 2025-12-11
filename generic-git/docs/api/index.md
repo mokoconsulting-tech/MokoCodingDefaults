@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  index.md
-	VERSION:  
+	PATH: ./docs/index.md
+	VERSION: 00.00.01 00.00.01 
 	BRIEF:  API Documentation index
-	PATH:  ./docs/api/index.md
 	NOTE:  Entry point for per resource and endpoint API specifications.
 -->
 

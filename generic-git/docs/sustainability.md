@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  sustainability.md
-	VERSION:
+	PATH: ./docs/sustainability.md
+	VERSION: 00.00.01
 	BRIEF:  Sustainability & Resource Management Guide
-	PATH:  ./docs/sustainability.md
 	-->
 
 # Sustainability & Resource Management Guide

@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project. Documentation
  REPO:
- FILE:  migration_plan.md
+ PATH: ./ migration_plan.md
  VERSION:
  BRIEF:  GitHub Migration Plan Issue Template
- PATH:  ./.github/ISSUE_TEMPLATE/migration_plan.md
+ PATH: ./ ./.github/ISSUE_TEMPLATE/migration_plan.md
  NOTE:
 -->
 # Migration Plan

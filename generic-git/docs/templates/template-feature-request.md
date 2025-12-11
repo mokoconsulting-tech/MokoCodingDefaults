@@ -17,12 +17,12 @@
 
  # FILE INFORMATION
  DEFGROUP:
- INGROUP:  Documentation
+ INGROUP: Project.Documentation
  REPO:
- FILE:  feature-request.md
- VERSION:
+ PATH: ./docs/feature-request.md
+ VERSION: 00.00.01
  BRIEF:  Feature Request Template
- PATH:  ./docs/templates/feature-request.md
+ PATH: ./docs/./docs/templates/feature-request.md
  -->
 
 # Feature Request Template

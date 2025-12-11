@@ -13,12 +13,11 @@
 
 	# FILE INFORMATION
 	DEFGROUP:
-	INGROUP:  Documentation
+	INGROUP: Project.Documentation
 	REPO:
-	FILE:  monitoring.md
-	VERSION:
+	PATH: ./docs/monitoring.md
+	VERSION: 00.00.01
 	BRIEF:  Monitoring Standards Guide
-	PATH:  ./docs/monitoring.md
 	-->
 
 # Monitoring Standards Guide
