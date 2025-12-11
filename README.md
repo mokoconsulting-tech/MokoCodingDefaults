@@ -108,27 +108,31 @@ Downstream repos may override standards through `.moko.local/`.
 
 Apply in this order. After installing `generic-git`, the user must choose **either** the Dolibarr scaffold **or** the Joomla scaffold family. These paths are mutually exclusive and should not be combined. Dolibarr and Joomla defaults overwrite generic-git where definitions conflict:
 
-1. **generic-git**
-   Baseline repo structure, issue templates, PR templates, labels, CI, and security defaults. Serves as the foundation layer.
+1. [**generic-git**]
+Baseline repo structure, issue templates, PR templates, labels, CI, and security defaults. Serves as the foundation layer.
 
-2. **dolibarr-default**
-   Overrides generic‑git when Dolibarr standards differ. Provides Dolibarr-specific skeletons, rights management templates, language keys, idempotent SQL migrations, and Dolibarr constants patterns.
-
-3. **joomla-template-default**
-   Overrides generic‑git for template‑specific rules. Includes Cassiopeia‑based scaffolding, variable tokens, layout guidelines, and accessibility alignment.
-
-4. **joomla-plugin-default**
-   Overrides generic‑git for plugin‑specific behaviors. Includes manifest boilerplate, event hooks, language files, and lifecycle scripts.
+	a. [**dolibarr-default**]
+	Overrides generic‑git when Dolibarr standards differ. Provides Dolibarr-specific skeletons, rights management templates, language keys, idempotent SQL migrations, and Dolibarr constants patterns.
+	
+	b. [**joomla-template-default**]
+	Overrides generic‑git for joomla template‑specific rules. Includes Cassiopeia‑based scaffolding, variable tokens, layout guidelines, and accessibility alignment.
+	
+	c. [**joomla-plugin-default**]
+	Overrides generic‑git for joomla plugin‑specific behaviors. Includes manifest boilerplate, event hooks, language files, and lifecycle scripts.
+	
+	d. [**joomla-component-default**]
+		Overrides generic‑git for joomla component plugin‑specific behaviors. Includes manifest boilerplate, event hooks, language files, and lifecycle scripts.
 
 ## Dolibarr Module Number Registry
 
 Reserved range: **185050–185099**
 
-| Numero | Module        | Status      | Notes |
-| -----: | ------------- | ----------- | ----- |
-| 185051 | MokoDoliTools | Production  |       |
-| 185052 | MokoDoliSign  | Development |       |
-| 185053 | MokoDoliForm  | Development |       |
+| Numero | Module             | Status      | Notes |
+| ------ | ------------------ | ----------- | ----- |
+| 185051 | MokoDoliTools      | Production  |       |
+| 185052 | MokoDoliSign       | Development |       |
+| 185053 | MokoDoliForm       | Development |       |
+| 185054 | MokoDoliUpdates    | Development |       |
 
 Rule: reserve a module number before development begins.
 
@@ -171,12 +175,6 @@ After copying any scaffold (generic-git, Dolibarr, or Joomla), users must update
 
 Users must update all placeholder fields when scaffolds are applied. JSON files are excluded from header insertion.
 
-## Support
-
-* Expand Dolibarr migration helpers and QA smoke-test scripts
-* Add Playwright visual regression support
-* Add GitHub Actions matrices for PHP 8.1 through 8.3 and Node LTS
-* Expand accessibility and localization templates
 
 ## Support
 
